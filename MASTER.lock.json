@@ -3,8 +3,8 @@
   "sha256": {
     "MASTER/application.js": "9535970bf7212c9d2aed3b9101f97eefa9a68e3e933582d96ec84593e3f40130",
     "MASTER/styles.css": "3aff4b5ec1a8bcd3c617fcf844f91fd063f9057e8f44e9676d80d4529f65732b",
-    "MASTER/index.html": "302385eb99a6004f2a7dd5888fc66b2e81fb82c01e45df24a4a1bb5e83786588",
-    "MASTER/charger.js": "dd9509aec8a3dc4605d81a23c46404452bf9b700576acb99100cc6921e960ac6",
+    "MASTER/index.html": "e4a668c171b0a7f1675316e1d3018b254ab11e21a437c83a244ae87ac92ccdbb",
+    "MASTER/charger.js": "c53dbe21631e2390a4a63f05ffbd36fdfadf58dedd9f584cd952e79a712b5a63",
     "index.html": "8f75da81e116c3baf421a12a7d683503138d24a40b6880908f876eb7aa5724fb",
     "bibliotheque.js": "d99f41323bf1d4fd40165e5dda3090dacba3183dcf7269338950a71d787d7edd"
   }
