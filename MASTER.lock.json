@@ -1,10 +1,10 @@
 {
   "instruction": "Ne modifier que sur demande explicite « Modifier le MASTER ».",
   "sha256": {
-    "MASTER/application.js": "6dee197bfeca26bac9cd484fec3ae9d2b2a4f4b8bea0a860e92090b2fb1c0464",
+    "MASTER/application.js": "6cba6e46212cf34f80121fd590b4035ebc803209a38be72d3e396136cfc64f61",
     "MASTER/styles.css": "3aff4b5ec1a8bcd3c617fcf844f91fd063f9057e8f44e9676d80d4529f65732b",
-    "MASTER/index.html": "15e2d87df7e8aa3351ac5c68aa03dba6ac02f6368d54b58e3af5b4f7ccdb0f51",
-    "MASTER/charger.js": "534a5614be72320f37da469c3de8b85352d16e98fe925396c51a77514de988a0",
+    "MASTER/index.html": "d670c15432fe9f2534c43ba1c3e3767fcd9f8a6c1638388dcfb5c2e3c8d0d32f",
+    "MASTER/charger.js": "3bd93377d758e14da17c5977a98d92c52dbf272bfafcb46dbb5dd738e9c53736",
     "index.html": "8f75da81e116c3baf421a12a7d683503138d24a40b6880908f876eb7aa5724fb",
     "bibliotheque.js": "d99f41323bf1d4fd40165e5dda3090dacba3183dcf7269338950a71d787d7edd"
   }

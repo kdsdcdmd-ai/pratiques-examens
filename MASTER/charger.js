@@ -13,7 +13,7 @@
   window.REVISION_DATA=data;
   document.title='Ma révision — '+data.configuration.title;
   document.querySelector('.brand small').textContent=data.configuration.title;
-  const script=document.createElement('script');script.src='application.js?v=lecture-6';script.onerror=()=>failure('Le moteur ne peut pas être chargé. Réessaie depuis la bibliothèque.');document.body.append(script);
+  const script=document.createElement('script');script.src='application.js?v=lecture-7';script.onerror=()=>failure('Le moteur ne peut pas être chargé. Réessaie depuis la bibliothèque.');document.body.append(script);
  }catch(error){failure(error.message);}
  function failure(message){const section=document.querySelector('#home');section.replaceChildren();const box=document.createElement('div');box.className='panel';const p=document.createElement('p');p.textContent=message;const a=document.createElement('a');a.href='../index.html';a.textContent='Retour à la bibliothèque';box.append(p,a);section.append(box);}
 })();
