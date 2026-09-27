@@ -1,0 +1,25 @@
+{
+  "examens": [
+    {
+      "id": "mirka-sciences-chapitre-1-2026",
+      "enfant": "Mirka",
+      "matiere": "Sciences et technologie",
+      "titre": "Mirka · Sciences · Chapitre 1",
+      "chapitre": "Chapitre 1"
+    },
+    {
+      "id": "sciences-organisation-matiere",
+      "enfant": "Cédric",
+      "matiere": "Sciences",
+      "titre": "L’organisation de la matière",
+      "chapitre": "Organisation de la matière"
+    },
+    {
+      "id": "histoire-industrialisation-2026",
+      "enfant": "Cédric",
+      "matiere": "Histoire",
+      "titre": "Histoire — L’industrialisation",
+      "chapitre": "Industrialisation"
+    }
+  ]
+}

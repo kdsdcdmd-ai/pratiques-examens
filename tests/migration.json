@@ -1,0 +1,56 @@
+[
+  {
+    "id": "mirka-sciences-chapitre-1-2026",
+    "lessons": 10,
+    "questions": 60,
+    "bytes": 4131703,
+    "coverage": {
+      "objectives": 10,
+      "coveredObjectives": 10,
+      "inventory": 60,
+      "taught": 60,
+      "assessed": 60,
+      "unresolved": 0,
+      "complete": true
+    },
+    "warnings": []
+  },
+  {
+    "id": "sciences-organisation-matiere",
+    "lessons": 9,
+    "questions": 87,
+    "bytes": 898359,
+    "coverage": {
+      "objectives": 27,
+      "coveredObjectives": 27,
+      "inventory": 40,
+      "taught": 38,
+      "assessed": 38,
+      "unresolved": 2,
+      "complete": false
+    },
+    "warnings": [
+      "2 éléments sources restent à confirmer.",
+      "2 éléments inventoriés sans question dédiée."
+    ]
+  },
+  {
+    "id": "histoire-industrialisation-2026",
+    "lessons": 12,
+    "questions": 82,
+    "bytes": 5621542,
+    "coverage": {
+      "objectives": 22,
+      "coveredObjectives": 22,
+      "inventory": 91,
+      "taught": 91,
+      "assessed": 82,
+      "unresolved": 3,
+      "complete": false
+    },
+    "warnings": [
+      "3 éléments sources restent à confirmer.",
+      "9 éléments inventoriés sans question dédiée."
+    ]
+  }
+]

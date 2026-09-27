@@ -1,0 +1,16 @@
+import {readFileSync,writeFileSync,existsSync} from 'node:fs';
+import {resolve,dirname} from 'node:path';
+import {fileURLToPath} from 'node:url';
+import {createHash} from 'node:crypto';
+import {validateContent} from './valider-contenu.mjs';
+const root=resolve(dirname(fileURLToPath(import.meta.url)),'..'),file=process.argv[2];
+if(!file)throw Error('Usage : node outils/ajouter-examen.mjs nouveau-contenu.json');
+const bundle=JSON.parse(readFileSync(resolve(file),'utf8')),r=validateContent(bundle);
+if(r.errors.length)throw Error(r.errors.join('\n'));
+const c=bundle.configuration,target=resolve(root,'contenus',c.examId+'.json'),index=resolve(root,'bibliotheque.json'),catalog=JSON.parse(readFileSync(index,'utf8'));
+if(existsSync(target)||catalog.examens.some(e=>e.id===c.examId))throw Error('Cet examen existe déjà : aucun remplacement autorisé.');
+for(const q of [...bundle.questions,...Object.values(bundle.variants||{}).flat()])q.fingerprint=createHash('sha256').update(JSON.stringify(q)).digest('hex');
+writeFileSync(target,JSON.stringify(bundle,null,2)+'\n',{flag:'wx'});
+catalog.examens.push({id:c.examId,enfant:c.enfant,matiere:c.subject,titre:c.title,chapitre:c.chapitre});
+writeFileSync(index,JSON.stringify(catalog,null,2)+'\n');
+console.log('Ajout validé : contenus/'+c.examId+'.json et bibliotheque.json. MASTER inchangé.');
