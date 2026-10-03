@@ -20,6 +20,13 @@
       "matiere": "Histoire",
       "titre": "Histoire — L’industrialisation",
       "chapitre": "Industrialisation"
+    },
+    {
+      "id": "cedric-sciences-chapitre-2-2026",
+      "enfant": "Cédric",
+      "matiere": "Sciences et technologie",
+      "titre": "Cédric · Sciences · Chapitre 2",
+      "chapitre": "Chapitre 2 — L’ADN et l’organisation cellulaire"
     }
   ]
 }
