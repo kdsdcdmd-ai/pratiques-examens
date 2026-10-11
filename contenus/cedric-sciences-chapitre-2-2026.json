@@ -1514,10 +1514,7 @@
       },
       "responseType": "choice",
       "feedbackResource": "visuel21-cellules-animale-vegetale",
-      "promptResource": "visuel21-cellules-animale-vegetale",
-      "requiresVisual": true,
-      "fingerprint": "b5460ad64bcbb0c7f3061c1f657c3a26de85d2b70a19e59b1e960da7980d4289",
-      "visualTask": "observe"
+      "fingerprint": "dab14cbd46011e6fde0acd9bdcecec1bb76e1144f7f32304eddc2ac83476969c"
     },
     {
       "id": "o21-10-bases",
@@ -1555,10 +1552,7 @@
       },
       "responseType": "choice",
       "feedbackResource": "source21-bases",
-      "promptResource": "source21-bases",
-      "requiresVisual": true,
-      "fingerprint": "91425d5c2360b2f917465ed919aecaef9035be20b9a9c5d0e89db24eaefe094e",
-      "visualTask": "observe"
+      "fingerprint": "05d4d60194dc1b1ce24155162679bde3de7516299a865b89d5b3256f9bef83e9"
     },
     {
       "id": "o21-11-ordre-adn",
@@ -1596,10 +1590,7 @@
       },
       "responseType": "choice",
       "feedbackResource": "source21-adn",
-      "promptResource": "source21-adn",
-      "requiresVisual": true,
-      "fingerprint": "4e87c9095dfc196a8c5e4ad7d7aa811bcb148dcb0d0f09259d85ec4be3a28eac",
-      "visualTask": "observe"
+      "fingerprint": "cf6cb016e6dbebbe3583ce66a3e96c3bd9db79e286ae5f1da8a2323e9a8271e6"
     },
     {
       "id": "o21-12-haploide-diploide",
@@ -1675,10 +1666,7 @@
       },
       "responseType": "choice",
       "feedbackResource": "source21-ploidie",
-      "promptResource": "source21-ploidie",
-      "requiresVisual": true,
-      "fingerprint": "af9be6c7088606827503084a704e9d20e9a1e8557e033771972c0f492ffecbd3",
-      "visualTask": "observe"
+      "fingerprint": "3f5a92c0d39651792eb3d9102483ad0c8919215b4ee314de129354f1c9491d70"
     },
     {
       "id": "o21-14-role-mitose",
@@ -1716,10 +1704,7 @@
       },
       "responseType": "choice",
       "feedbackResource": "source21-mitose",
-      "promptResource": "source21-mitose",
-      "requiresVisual": true,
-      "fingerprint": "a1412ef88fa3e98b1153110463e3648473af1db50abf49fa55250d906eb851bc",
-      "visualTask": "observe"
+      "fingerprint": "af77f0b1d6a89084b878092410b2dcdcb75c2207ba46bdee9115a563543a5ee2"
     },
     {
       "id": "o21-15-role-meiose",
@@ -1757,10 +1742,7 @@
       },
       "responseType": "choice",
       "feedbackResource": "source21-meiose",
-      "promptResource": "source21-meiose",
-      "requiresVisual": true,
-      "fingerprint": "36f74eeec2066cb2e0d3d57f45d270c682110d65936c4c3767532df37bddf141",
-      "visualTask": "observe"
+      "fingerprint": "7b1178d8333e0f248550c8c44cad2d96e450823091c86bbd04ac080a6a64791d"
     },
     {
       "id": "o21-16-enjambement",
@@ -1836,10 +1818,7 @@
       },
       "responseType": "choice",
       "feedbackResource": "visuel21-mitose-meiose",
-      "promptResource": "visuel21-mitose-meiose",
-      "requiresVisual": true,
-      "fingerprint": "f5d2962d9d3656067cb8f97fc3005c2e6f36ef493ecb0cc7ebd46fcad9368856",
-      "visualTask": "observe"
+      "fingerprint": "976698c2a78502a5c77b417b4b7e01dfb3a6d0a58083be9641d0b85a66955d1a"
     },
     {
       "id": "o21-18-ordre-organisation",
@@ -1877,10 +1856,7 @@
       },
       "responseType": "choice",
       "feedbackResource": "source21-organisation",
-      "promptResource": "source21-organisation",
-      "requiresVisual": true,
-      "fingerprint": "38463050ab80790d2ef48639ab9269adf768f4ee10f500f16c9eeef75e901f48",
-      "visualTask": "observe"
+      "fingerprint": "dd17c92dd6ee279dc0916bc0e1ca023ae05fd4d37b39017bd3192120c5ce5e46"
     },
     {
       "id": "o21-19-types-tissus",
@@ -1918,10 +1894,7 @@
       },
       "responseType": "choice",
       "feedbackResource": "source21-tissus",
-      "promptResource": "source21-tissus",
-      "requiresVisual": true,
-      "fingerprint": "ef7c096aa9274603c331638b2d4de246b8192e340dfb53a652dbce82f0c7b0a1",
-      "visualTask": "observe"
+      "fingerprint": "f35a944bc422268e8c1086971f9e39852b0018bb3c4a61096d3d8db49ce287c9"
     },
     {
       "id": "o21-20-differenciation",
@@ -1959,10 +1932,7 @@
       },
       "responseType": "choice",
       "feedbackResource": "source21-organisation",
-      "promptResource": "source21-organisation",
-      "requiresVisual": true,
-      "fingerprint": "cad0387af2d55af6f20e15035a8681b79d026487ce59561a25df9e819ed10f78",
-      "visualTask": "observe"
+      "fingerprint": "8a423d47199f1969f20a6d7a735ff90fbf88f40d9681d24c030a7cb4256dcd12"
     },
     {
       "id": "o21-21-fonctions-tissus",
@@ -2000,10 +1970,7 @@
       },
       "responseType": "choice",
       "feedbackResource": "source21-tissus",
-      "promptResource": "source21-tissus",
-      "requiresVisual": true,
-      "fingerprint": "f0b7c58cc1409ac67b350e6489c479524eded7b4af53c10b22617cac14b1e9b9",
-      "visualTask": "observe"
+      "fingerprint": "6e3c3372aa1303c0f6930b3ec949d53b0b39509004425d7a0b0ec4e59b758ca1"
     },
     {
       "id": "s-cellule-noyau",
