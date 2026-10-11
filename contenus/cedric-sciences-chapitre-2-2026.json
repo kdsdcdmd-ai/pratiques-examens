@@ -6176,9 +6176,9 @@
   "configuration": {
     "schemaVersion": 1,
     "examId": "cedric-sciences-chapitre-2-2026",
-    "enfant": "Cédric",
-    "contentVersion": "1.1.1",
-    "title": "Cédric · Sciences · Chapitre 2",
+    "enfant": "Cédrik",
+    "contentVersion": "1.1.2",
+    "title": "Cédrik · Sciences · Chapitre 2",
     "subject": "Sciences et technologie",
     "chapitre": "Chapitre 2 — L’ADN et l’organisation cellulaire",
     "schoolLevel": "Secondaire 3",
