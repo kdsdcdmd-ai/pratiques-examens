@@ -1711,8 +1711,8 @@
         }
       ],
       "t": "adn",
-      "q": "La paramécie compte environ 40 000 gènes, l’humain environ 25 000. Quelle conclusion respecte les données du manuel?",
-      "writtenPrompt": "La paramécie compte environ 40 000 gènes, l’humain environ 25 000. Quelle conclusion respecte les données du manuel?",
+      "q": "La paramécie compte environ 40 000 gènes et l’humain environ 25 000. Quelle conclusion est appuyée par ces données?",
+      "writtenPrompt": "La paramécie compte environ 40 000 gènes et l’humain environ 25 000. Quelle conclusion est appuyée par ces données?",
       "o": [
         "Le nombre de gènes ne détermine pas à lui seul la complexité d’une espèce",
         "La paramécie est nécessairement plus complexe que l’humain",
@@ -1723,15 +1723,15 @@
       "accepted": [
         "Le nombre de gènes ne détermine pas à lui seul la complexité d’une espèce"
       ],
-      "e": "Une espèce unicellulaire peut compter davantage de gènes qu’un humain; le nombre seul ne mesure donc pas la complexité.",
+      "e": "Une espèce unicellulaire peut compter davantage de gènes qu’un humain; le nombre de gènes ne mesure donc pas, à lui seul, la complexité d’une espèce.",
       "hint": "Compare le nombre de gènes et le type d’organisme.",
-      "tutorial": "Compare le nombre de gènes et le type d’organisme. Une espèce unicellulaire peut compter davantage de gènes qu’un humain; le nombre seul ne mesure donc pas la complexité.",
+      "tutorial": "Compare le nombre de gènes et le type d’organisme. Une espèce unicellulaire peut compter davantage de gènes qu’un humain; le nombre de gènes ne mesure donc pas, à lui seul, la complexité d’une espèce.",
       "grading": {
         "type": "aliases"
       },
       "responseType": "choice",
       "feedbackResource": "corr-c-adn-complexite",
-      "fingerprint": "16800ab35309fa80829dccf900d346cfd2a7f068d1629b8c38982105bee76e87"
+      "fingerprint": "a889078b7fd0762deb59771f96d328217a3086f1948d95aa70601e696cfdd4ef"
     },
     {
       "id": "c-adn-especes",
@@ -2155,15 +2155,15 @@
       "accepted": [
         "La femme possède généralement XX et l’homme XY"
       ],
-      "e": "Le manuel montre XX chez la femme et XY chez l’homme.",
-      "hint": "Observe la 23e paire typique.",
-      "tutorial": "Observe la 23e paire typique. Le manuel montre XX chez la femme et XY chez l’homme.",
+      "e": "Chez l’humain, la 23e paire est généralement XX chez la femme et XY chez l’homme.",
+      "hint": "Pense aux deux combinaisons généralement associées aux sexes biologiques humains.",
+      "tutorial": "Pense aux deux combinaisons généralement associées aux sexes biologiques humains. Chez l’humain, la 23e paire est généralement XX chez la femme et XY chez l’homme.",
       "grading": {
         "type": "aliases"
       },
       "responseType": "choice",
       "feedbackResource": "corr-i-chromosomes-xx-xy",
-      "fingerprint": "2421604e8e5abee98c9f5f42ca5018fef3d9c8f18c97b37fd499abcbd6e4eaf8"
+      "fingerprint": "db95e94ee9f501c92db37aa1bb868ffe19bf7a4ccc62744842d0da6ff3ab89fd"
     },
     {
       "id": "c-chromosomes-gene-paire9",
@@ -2821,15 +2821,15 @@
       "accepted": [
         "Le nombre de mitoses possibles par cellule est limité, donc le remplacement peut ralentir"
       ],
-      "e": "Le manuel indique que le nombre de mitoses d’une cellule est limité; moins de divisions disponibles ralentissent le remplacement.",
+      "e": "Le nombre de divisions possibles d’une cellule est limité. Lorsque davantage de cellules approchent cette limite, le remplacement des cellules endommagées peut ralentir.",
       "hint": "Relie la limite de divisions à la réparation.",
-      "tutorial": "Relie la limite de divisions à la réparation. Le manuel indique que le nombre de mitoses d’une cellule est limité; moins de divisions disponibles ralentissent le remplacement.",
+      "tutorial": "Relie la limite de divisions à la réparation. Le nombre de divisions possibles d’une cellule est limité. Lorsque davantage de cellules approchent cette limite, le remplacement des cellules endommagées peut ralentir.",
       "grading": {
         "type": "aliases"
       },
       "responseType": "choice",
       "feedbackResource": "corr-c-mitose-blessure-age",
-      "fingerprint": "9a1ad32cb4bc6d1a57315f41076699f8e780e660742c84786473a07fbb213013"
+      "fingerprint": "5cb4371b4736332b923856593ad8c4c8fa90a64b9299c44cdaf0aaa231b4dd64"
     },
     {
       "id": "c-mitose-schema",
@@ -3595,8 +3595,8 @@
         }
       ],
       "t": "diversite",
-      "q": "Quel choix réunit les trois sources de diversité présentées dans le chapitre?",
-      "writtenPrompt": "Quel choix réunit les trois sources de diversité présentées dans le chapitre?",
+      "q": "Quel trio réunit trois sources de diversité génétique liées à la reproduction sexuée?",
+      "writtenPrompt": "Quel trio réunit trois sources de diversité génétique liées à la reproduction sexuée?",
       "o": [
         "Répartition aléatoire en méiose, enjambement et fécondation aléatoire",
         "Mitose, culture cellulaire et cicatrisation",
@@ -3615,7 +3615,7 @@
       },
       "responseType": "choice",
       "feedbackResource": "corr-c-diversite-trois-raisons",
-      "fingerprint": "fa48743ef1794d14c7c4d8d12a79636e8a4ba923c7ae73dbb68922ee7d003cd1"
+      "fingerprint": "1e104250e41eb1a13d5a74c7c61eb1831d543552e6acd39a417cea46b4ea4141"
     },
     {
       "id": "c-diversite-n3",
@@ -3949,27 +3949,27 @@
         }
       ],
       "t": "ogm",
-      "q": "Quel avantage agricole possible d’un OGM est présenté dans le manuel?",
-      "writtenPrompt": "Quel avantage agricole possible d’un OGM est présenté dans le manuel?",
+      "q": "Une plante reçoit un gène qui lui permet de mieux résister à un insecte ravageur. Quel avantage agricole peut en découler?",
+      "writtenPrompt": "Une plante reçoit un gène qui lui permet de mieux résister à un insecte ravageur. Quel avantage agricole peut en découler?",
       "o": [
-        "Réduire l’usage de pesticides grâce à une résistance aux insectes",
+        "Réduire l’usage de pesticides contre cet insecte",
         "Garantir qu’aucun insecte ne deviendra jamais résistant",
-        "Éliminer tout besoin de surveiller les cultures",
+        "Éliminer tout besoin de surveiller la culture",
         "Empêcher complètement les croisements entre plantes"
       ],
       "a": 0,
       "accepted": [
-        "Réduire l’usage de pesticides grâce à une résistance aux insectes"
+        "Réduire l’usage de pesticides contre cet insecte"
       ],
-      "e": "Une plante résistante aux insectes peut réduire l’usage de pesticides, sans supprimer tous les risques.",
+      "e": "Une plante résistante à un insecte peut réduire l’usage du pesticide visant cet insecte, sans supprimer tous les risques ni le besoin de surveillance.",
       "hint": "Choisis un avantage réaliste, pas une garantie absolue.",
-      "tutorial": "Choisis un avantage réaliste, pas une garantie absolue. Une plante résistante aux insectes peut réduire l’usage de pesticides, sans supprimer tous les risques.",
+      "tutorial": "Choisis un avantage réaliste, pas une garantie absolue. Une plante résistante à un insecte peut réduire l’usage du pesticide visant cet insecte, sans supprimer tous les risques ni le besoin de surveillance.",
       "grading": {
         "type": "aliases"
       },
       "responseType": "choice",
       "feedbackResource": "corr-i-ogm-agriculture",
-      "fingerprint": "ce8f921d6cb377306686a6824a4d451b0f586624aad4e48c3e668891b3d213db"
+      "fingerprint": "00f22e0d8aed8bb83504b2d77f5b91ad0d3eba1a249551ac0926c7034c3bd71d"
     },
     {
       "id": "i-ogm-environnement",
@@ -3988,27 +3988,27 @@
         }
       ],
       "t": "ogm",
-      "q": "Quel risque environnemental lié aux OGM est plausible selon le tableau?",
-      "writtenPrompt": "Quel risque environnemental lié aux OGM est plausible selon le tableau?",
+      "q": "Le pollen d’une plante génétiquement modifiée atteint une population voisine de plantes compatibles. Quel risque environnemental faut-il surveiller?",
+      "writtenPrompt": "Le pollen d’une plante génétiquement modifiée atteint une population voisine de plantes compatibles. Quel risque environnemental faut-il surveiller?",
       "o": [
-        "La dispersion d’un gène modifié vers d’autres espèces",
+        "La dispersion du gène modifié par croisement",
         "La disparition immédiate de toutes les bases azotées",
-        "La transformation de chaque plante en animal",
+        "La transformation des plantes voisines en animaux",
         "L’arrêt complet de toute reproduction végétale"
       ],
       "a": 0,
       "accepted": [
-        "La dispersion d’un gène modifié vers d’autres espèces"
+        "La dispersion du gène modifié par croisement"
       ],
-      "e": "Un gène peut se disperser ou se retrouver dans une plante non modifiée par croisement.",
+      "e": "Un croisement peut transmettre le gène modifié à des plantes compatibles qui ne devaient pas le posséder.",
       "hint": "Pense à ce qui peut passer d’une plante à une autre.",
-      "tutorial": "Pense à ce qui peut passer d’une plante à une autre. Un gène peut se disperser ou se retrouver dans une plante non modifiée par croisement.",
+      "tutorial": "Pense à ce qui peut passer d’une plante à une autre. Un croisement peut transmettre le gène modifié à des plantes compatibles qui ne devaient pas le posséder.",
       "grading": {
         "type": "aliases"
       },
       "responseType": "choice",
       "feedbackResource": "corr-i-ogm-environnement",
-      "fingerprint": "64ee82c2b74b8391c77b1fc632ab79fc16df3d055d71690a16742b6c0c231239"
+      "fingerprint": "4aaa1deb0aee6ca3b32eb050b140dd3d9b640555aaab2d4239ca70871777548a"
     },
     {
       "id": "i-ogm-aucun-risque",
@@ -4183,8 +4183,8 @@
         }
       ],
       "t": "ogm",
-      "q": "Comment un virus modifié pourrait-il aider à traiter une maladie génétique selon l’activité?",
-      "writtenPrompt": "Comment un virus modifié pourrait-il aider à traiter une maladie génétique selon l’activité?",
+      "q": "Un virus modifié peut livrer du matériel génétique à des cellules ciblées sans provoquer la maladie. Comment pourrait-on utiliser cette capacité pour traiter une maladie causée par un gène défectueux?",
+      "writtenPrompt": "Un virus modifié peut livrer du matériel génétique à des cellules ciblées sans provoquer la maladie. Comment pourrait-on utiliser cette capacité pour traiter une maladie causée par un gène défectueux?",
       "o": [
         "En transportant une version fonctionnelle d’un gène dans des cellules ciblées",
         "En retirant tout l’ADN de l’organisme",
@@ -4203,7 +4203,7 @@
       },
       "responseType": "choice",
       "feedbackResource": "corr-c-ogm-virus-therapie",
-      "fingerprint": "e82bd709f296d454443f0711b2c7837685a73349ee065f5c12487a979d4e8d5a"
+      "fingerprint": "884bf66a0fa964d1e2c88777aa93ae556d293bd0f51441a6b4959edcdb36890f"
     },
     {
       "id": "c-ogm-malaria",
@@ -4588,15 +4588,15 @@
       "accepted": [
         "Leur prélèvement exige la destruction de l’embryon d’origine"
       ],
-      "e": "Le manuel indique que l’obtention de ces cellules détruit l’embryon dont elles proviennent.",
+      "e": "Le prélèvement de cellules souches embryonnaires peut exiger la destruction de l’embryon dont elles proviennent, ce qui soulève un débat éthique.",
       "hint": "Le débat concerne la provenance des cellules.",
-      "tutorial": "Le débat concerne la provenance des cellules. Le manuel indique que l’obtention de ces cellules détruit l’embryon dont elles proviennent.",
+      "tutorial": "Le débat concerne la provenance des cellules. Le prélèvement de cellules souches embryonnaires peut exiger la destruction de l’embryon dont elles proviennent, ce qui soulève un débat éthique.",
       "grading": {
         "type": "aliases"
       },
       "responseType": "choice",
       "feedbackResource": "corr-c-differenciation-ethique",
-      "fingerprint": "69fdd267b86156f407f8f0f96c93ea937ac45eb89c4b2ddcd806e5b13acb28da"
+      "fingerprint": "122587e8b2a68235a1f2a5e20f5f9ca313c57b29796125afa520191fc8849c1a"
     },
     {
       "id": "c-differenciation-guerison-age",
@@ -5401,8 +5401,8 @@
         }
       ],
       "t": "organisation",
-      "q": "Quel groupe contient seulement des structures du système respiratoire selon l’exemple?",
-      "writtenPrompt": "Quel groupe contient seulement des structures du système respiratoire selon l’exemple?",
+      "q": "Quel groupe contient seulement des structures participant au système respiratoire?",
+      "writtenPrompt": "Quel groupe contient seulement des structures participant au système respiratoire?",
       "o": [
         "Trachée, poumons et diaphragme",
         "Estomac, intestin et foie",
@@ -5413,15 +5413,15 @@
       "accepted": [
         "Trachée, poumons et diaphragme"
       ],
-      "e": "La figure présente la trachée, les poumons et le diaphragme dans le système respiratoire.",
+      "e": "La trachée conduit l’air, les poumons permettent les échanges gazeux et le diaphragme participe à la ventilation.",
       "hint": "Choisis les structures liées à la respiration.",
-      "tutorial": "Choisis les structures liées à la respiration. La figure présente la trachée, les poumons et le diaphragme dans le système respiratoire.",
+      "tutorial": "Choisis les structures liées à la respiration. La trachée conduit l’air, les poumons permettent les échanges gazeux et le diaphragme participe à la ventilation.",
       "grading": {
         "type": "aliases"
       },
       "responseType": "choice",
       "feedbackResource": "corr-i-organisation-respiratoire",
-      "fingerprint": "bd1506671d06a54a47b90610b76c7fa2550b4ed56565e736f53f0b825adf8ac4"
+      "fingerprint": "b5eaa550d1011d6b9b3a346a16b69e91d5367596798b11320d688abbf796be27"
     },
     {
       "id": "i-organisation-fonctions",
@@ -5440,8 +5440,8 @@
         }
       ],
       "t": "organisation",
-      "q": "Quelles sont les trois grandes fonctions de l’organisme présentées?",
-      "writtenPrompt": "Quelles sont les trois grandes fonctions de l’organisme présentées?",
+      "q": "Quelles sont les trois grandes fonctions de l’organisme étudiées dans ce chapitre?",
+      "writtenPrompt": "Quelles sont les trois grandes fonctions de l’organisme étudiées dans ce chapitre?",
       "o": [
         "Nutrition, relation et reproduction",
         "Mitose, méiose et transgénèse",
@@ -5460,7 +5460,7 @@
       },
       "responseType": "choice",
       "feedbackResource": "corr-i-organisation-fonctions",
-      "fingerprint": "33be01bb32eb90dd60685080e034260e48d5f5c02e73c1572dd928eab6c49d8d"
+      "fingerprint": "74fcaca487bff8ee40a4737e934fa4d3aeada70959a1c69b4ad0f962f53d7ce8"
     },
     {
       "id": "c-organisation-digestif",
@@ -5608,15 +5608,15 @@
       "accepted": [
         "élimine des déchets liés au fonctionnement et aux échanges de matière"
       ],
-      "e": "Dans le schéma du manuel, l’excrétion contribue à la gestion des substances de l’organisme.",
+      "e": "Le système excréteur participe à la fonction de nutrition en éliminant des déchets produits lors du fonctionnement et des échanges de matière.",
       "hint": "La nutrition inclut l’entrée, le transport et l’élimination de substances.",
-      "tutorial": "La nutrition inclut l’entrée, le transport et l’élimination de substances. Dans le schéma du manuel, l’excrétion contribue à la gestion des substances de l’organisme.",
+      "tutorial": "La nutrition inclut l’entrée, le transport et l’élimination de substances. Le système excréteur participe à la fonction de nutrition en éliminant des déchets produits lors du fonctionnement et des échanges de matière.",
       "grading": {
         "type": "aliases"
       },
       "responseType": "choice",
       "feedbackResource": "corr-c-organisation-excreteur",
-      "fingerprint": "30e1be8c1df443f21722f7ceafe63f7d6d17a0d8ed1dc39f7f9f2ba2eba5ac33"
+      "fingerprint": "38f2137947957d3cd90a7db77b213d73fc61061b25d01a9387ffe906b2982e80"
     },
     {
       "id": "c-organisation-plusieurs-tissus",
@@ -5794,27 +5794,27 @@
         }
       ],
       "t": "culture",
-      "q": "Quelle utilisation de la culture cellulaire est présentée dans le manuel?",
-      "writtenPrompt": "Quelle utilisation de la culture cellulaire est présentée dans le manuel?",
+      "q": "Un laboratoire veut vérifier si une nouvelle crème endommage des cellules humaines avant de poursuivre les essais. Pourquoi la culture cellulaire est-elle utile?",
+      "writtenPrompt": "Un laboratoire veut vérifier si une nouvelle crème endommage des cellules humaines avant de poursuivre les essais. Pourquoi la culture cellulaire est-elle utile?",
       "o": [
-        "Tester des médicaments ou des produits sans recourir directement à des animaux",
-        "Créer des chromosomes à partir de minéraux seulement",
-        "Transformer automatiquement une cellule en organisme complet",
-        "Éliminer tous les virus de l’environnement"
+        "Elle permet d’observer les effets du produit sur des cellules dans des conditions contrôlées",
+        "Elle prouve automatiquement que le produit sera sans danger pour chaque personne",
+        "Elle transforme les cellules testées en un organisme humain complet",
+        "Elle élimine la nécessité de faire toute autre vérification"
       ],
       "a": 0,
       "accepted": [
-        "Tester des médicaments ou des produits sans recourir directement à des animaux"
+        "Elle permet d’observer les effets du produit sur des cellules dans des conditions contrôlées"
       ],
-      "e": "Des cellules cultivées permettent de tester l’efficacité ou la toxicité de produits.",
-      "hint": "Pense à la recherche en laboratoire.",
-      "tutorial": "Pense à la recherche en laboratoire. Des cellules cultivées permettent de tester l’efficacité ou la toxicité de produits.",
+      "e": "Des cellules cultivées permettent d’observer l’efficacité ou la toxicité d’un produit dans des conditions contrôlées. Ce test ne garantit pas, à lui seul, l’absence de risque chez toute personne.",
+      "hint": "Cherche ce qu’un laboratoire peut réellement observer sur des cellules vivantes.",
+      "tutorial": "Cherche ce qu’un laboratoire peut réellement observer sur des cellules vivantes. Des cellules cultivées permettent d’observer l’efficacité ou la toxicité d’un produit dans des conditions contrôlées. Ce test ne garantit pas, à lui seul, l’absence de risque chez toute personne.",
       "grading": {
         "type": "aliases"
       },
       "responseType": "choice",
       "feedbackResource": "corr-i-culture-utilite",
-      "fingerprint": "9443f31aaf60cca46ca01c99d1b8eba00200341d37e5491a80b1d88f33ef433c"
+      "fingerprint": "24d55e8521378debcd9d96b919c3010255b2dadb7105eea1c5b75eea316f57ae"
     },
     {
       "id": "i-culture-vaccin",
@@ -5846,14 +5846,14 @@
         "Pour produire ou développer des vaccins"
       ],
       "e": "La culture de certains virus fournit du matériel utile à la mise au point de vaccins.",
-      "hint": "Le manuel associe cette culture à une application médicale.",
-      "tutorial": "Le manuel associe cette culture à une application médicale. La culture de certains virus fournit du matériel utile à la mise au point de vaccins.",
+      "hint": "Associe la culture de virus à la préparation d’un moyen de prévention.",
+      "tutorial": "Associe la culture de virus à la préparation d’un moyen de prévention. La culture de certains virus fournit du matériel utile à la mise au point de vaccins.",
       "grading": {
         "type": "aliases"
       },
       "responseType": "choice",
       "feedbackResource": "corr-i-culture-vaccin",
-      "fingerprint": "2f8072a9d5820bdf30ce14e9b1c3967ca1cfd3788096856a51f05f694b2001fb"
+      "fingerprint": "65b0f883b82231a72ed7b7e78d2fc406fa21e1c10107fb123bffedfb67e11a3f"
     },
     {
       "id": "i-culture-milieux",
@@ -5884,15 +5884,15 @@
       "accepted": [
         "Un milieu solide aide à recenser des micro-organismes; un milieu liquide favorise une croissance rapide"
       ],
-      "e": "Le manuel distingue l’usage du milieu solide pour compter et du bouillon liquide pour favoriser la croissance.",
+      "e": "Un milieu solide facilite le repérage et le dénombrement de colonies; un milieu liquide favorise généralement une multiplication rapide.",
       "hint": "Compare recensement et multiplication rapide.",
-      "tutorial": "Compare recensement et multiplication rapide. Le manuel distingue l’usage du milieu solide pour compter et du bouillon liquide pour favoriser la croissance.",
+      "tutorial": "Compare recensement et multiplication rapide. Un milieu solide facilite le repérage et le dénombrement de colonies; un milieu liquide favorise généralement une multiplication rapide.",
       "grading": {
         "type": "aliases"
       },
       "responseType": "choice",
       "feedbackResource": "corr-i-culture-milieux",
-      "fingerprint": "cba83d334671f95f7a198d7b9f96593cc39b7d84c9af82072540eda974f9d51b"
+      "fingerprint": "6b8626fc46f1279013de32e2375cdcf3db071546c001b0be795bcbaf041591a3"
     },
     {
       "id": "i-culture-conditions",
@@ -6028,8 +6028,8 @@
         }
       ],
       "t": "culture",
-      "q": "Quand arrête-t-on une culture selon la description du manuel?",
-      "writtenPrompt": "Quand arrête-t-on une culture selon la description du manuel?",
+      "q": "Dans une culture, le nombre de nouvelles cellules produites devient égal au nombre de cellules qui meurent. Que fait-on alors?",
+      "writtenPrompt": "Dans une culture, le nombre de nouvelles cellules produites devient égal au nombre de cellules qui meurent. Que fait-on alors?",
       "o": [
         "Lorsque le nombre de nouvelles cellules produites égale celui des cellules qui meurent",
         "Avant même de prélever les cellules",
@@ -6048,7 +6048,7 @@
       },
       "responseType": "choice",
       "feedbackResource": "corr-c-culture-arret",
-      "fingerprint": "fdd99a9b18c3f54f930d3619a57a9d6ea2774e93ad292ee6339c14321c08ff1d"
+      "fingerprint": "0d716025c2094557e53b877dc18855e16b016e201d3f714fd285140f6e4239a3"
     },
     {
       "id": "c-culture-prelevement",
@@ -6106,8 +6106,8 @@
         }
       ],
       "t": "culture",
-      "q": "Quel projet est réalisable grâce à la culture cellulaire selon les pages?",
-      "writtenPrompt": "Quel projet est réalisable grâce à la culture cellulaire selon les pages?",
+      "q": "Quel projet scientifique peut réellement être réalisé grâce à la culture cellulaire?",
+      "writtenPrompt": "Quel projet scientifique peut réellement être réalisé grâce à la culture cellulaire?",
       "o": [
         "Étudier le fonctionnement de cellules dans des conditions contrôlées",
         "Créer de la matière vivante sans aucune cellule de départ",
@@ -6126,7 +6126,7 @@
       },
       "responseType": "choice",
       "feedbackResource": "corr-c-culture-recherche",
-      "fingerprint": "c611b1988306b56f84cf3630fb531b48f66c1a2a682e21ad79b25cd663c39ddb"
+      "fingerprint": "1d0ea49c0f7b3c409639403943a170fc96430dc32b86eab06aa4cf16e155f070"
     },
     {
       "id": "c-culture-schema",
@@ -6177,7 +6177,7 @@
     "schemaVersion": 1,
     "examId": "cedric-sciences-chapitre-2-2026",
     "enfant": "Cédric",
-    "contentVersion": "1.1.0",
+    "contentVersion": "1.1.1",
     "title": "Cédric · Sciences · Chapitre 2",
     "subject": "Sciences et technologie",
     "chapitre": "Chapitre 2 — L’ADN et l’organisation cellulaire",
@@ -7325,7 +7325,7 @@
     "corr-i-adn-complement": "<section class=\"example\"><h3>Bonne réponse</h3><p><b>T–G–C–A</b></p><p>A s’associe à T et C à G; le complément est donc T–G–C–A.</p></section>",
     "corr-i-adn-gene": "<section class=\"example\"><h3>Bonne réponse</h3><p><b>Une portion d’ADN portant le code d’une caractéristique précise</b></p><p>Un gène est une portion précise de la molécule d’ADN.</p></section>",
     "corr-i-adn-genome": "<section class=\"example\"><h3>Bonne réponse</h3><p><b>Un gène est une portion d’ADN; un génome est l’ensemble des gènes d’une espèce</b></p><p>Le gène correspond à une portion d’ADN; le génome regroupe tous les gènes d’une espèce.</p></section>",
-    "corr-c-adn-complexite": "<section class=\"example\"><h3>Bonne réponse</h3><p><b>Le nombre de gènes ne détermine pas à lui seul la complexité d’une espèce</b></p><p>Une espèce unicellulaire peut compter davantage de gènes qu’un humain; le nombre seul ne mesure donc pas la complexité.</p></section>",
+    "corr-c-adn-complexite": "<section class=\"example\"><h3>Bonne réponse</h3><p><b>Le nombre de gènes ne détermine pas à lui seul la complexité d’une espèce</b></p><p>Une espèce unicellulaire peut compter davantage de gènes qu’un humain; le nombre de gènes ne mesure donc pas, à lui seul, la complexité d’une espèce.</p></section>",
     "corr-c-adn-especes": "<section class=\"example\"><h3>Bonne réponse</h3><p><b>Les séquences de bases de leur ADN ne portent pas le même code</b></p><p>Les êtres vivants utilisent les mêmes quatre bases, mais leurs séquences et leurs gènes diffèrent.</p></section>",
     "corr-c-adn-autoreplication": "<section class=\"example\"><h3>Bonne réponse</h3><p><b>Elle permet de transmettre une copie de l’information génétique à chaque cellule fille</b></p><p>L’ADN se copie pour que chaque cellule fille reçoive l’information génétique nécessaire.</p></section>",
     "corr-c-adn-fermeture": "<section class=\"example\"><h3>Bonne réponse</h3><p><b>Il sert de modèle pour former un brin complémentaire</b></p><p>Chaque brin parental guide l’assemblage d’un nouveau brin complémentaire.</p></section>",
@@ -7336,7 +7336,7 @@
     "corr-i-chromosomes-diploide": "<section class=\"example\"><h3>Bonne réponse</h3><p><b>Elle possède deux versions de chaque chromosome</b></p><p>Une cellule diploïde possède deux exemplaires de chaque chromosome, un de chaque parent.</p></section>",
     "corr-i-chromosomes-homologues": "<section class=\"example\"><h3>Bonne réponse</h3><p><b>Ils portent les mêmes types de gènes, mais peuvent en porter différentes versions</b></p><p>Les homologues portent les gènes associés aux mêmes fonctions, mais peuvent contenir différentes versions de ces gènes.</p></section>",
     "corr-i-chromosomes-caryotype": "<section class=\"example\"><h3>Bonne réponse</h3><p><b>À organiser les chromosomes d’une cellule par paires homologues</b></p><p>Le caryotype est un montage où les chromosomes sont classés par paires.</p></section>",
-    "corr-i-chromosomes-xx-xy": "<section class=\"example\"><h3>Bonne réponse</h3><p><b>La femme possède généralement XX et l’homme XY</b></p><p>Le manuel montre XX chez la femme et XY chez l’homme.</p></section>",
+    "corr-i-chromosomes-xx-xy": "<section class=\"example\"><h3>Bonne réponse</h3><p><b>La femme possède généralement XX et l’homme XY</b></p><p>Chez l’humain, la 23e paire est généralement XX chez la femme et XY chez l’homme.</p></section>",
     "corr-c-chromosomes-gene-paire9": "<section class=\"example\"><h3>Bonne réponse</h3><p><b>La version du gène reçue de chaque parent</b></p><p>Les chromosomes homologues peuvent porter différentes versions d’un même gène.</p></section>",
     "corr-c-chromosomes-globule-rouge": "<section class=\"example\"><h3>Bonne réponse</h3><p><b>Il ne contient pas de noyau</b></p><p>Les globules rouges matures n’ont pas de noyau; ils ne contiennent donc pas les chromosomes nucléaires.</p></section>",
     "corr-c-chromosomes-chromatides": "<section class=\"example\"><h3>Bonne réponse</h3><p><b>De deux chromatides sœurs</b></p><p>La copie d’un chromosome forme deux chromatides sœurs rattachées.</p></section>",
@@ -7353,7 +7353,7 @@
     "corr-c-mitose-cancer": "<section class=\"example\"><h3>Bonne réponse</h3><p><b>Une mitose incontrôlée de cellules anormales</b></p><p>Une cellule dont les mécanismes de contrôle échouent peut se diviser sans contrôle et former une masse.</p></section>",
     "corr-c-mitose-somatique": "<section class=\"example\"><h3>Bonne réponse</h3><p><b>Une cellule de peau</b></p><p>Les cellules somatiques, comme celles de la peau, se renouvellent par mitose; les gamètes proviennent de la méiose.</p></section>",
     "corr-c-mitose-copie-avant": "<section class=\"example\"><h3>Bonne réponse</h3><p><b>Pour que chacune des deux cellules filles reçoive une copie complète</b></p><p>La réplication fournit deux copies qui pourront être distribuées aux deux cellules filles.</p></section>",
-    "corr-c-mitose-blessure-age": "<section class=\"example\"><h3>Bonne réponse</h3><p><b>Le nombre de mitoses possibles par cellule est limité, donc le remplacement peut ralentir</b></p><p>Le manuel indique que le nombre de mitoses d’une cellule est limité; moins de divisions disponibles ralentissent le remplacement.</p></section>",
+    "corr-c-mitose-blessure-age": "<section class=\"example\"><h3>Bonne réponse</h3><p><b>Le nombre de mitoses possibles par cellule est limité, donc le remplacement peut ralentir</b></p><p>Le nombre de divisions possibles d’une cellule est limité. Lorsque davantage de cellules approchent cette limite, le remplacement des cellules endommagées peut ralentir.</p></section>",
     "corr-c-mitose-schema": "<section class=\"example\"><h3>Bonne réponse</h3><p><b>Une cellule 2n produit deux cellules 2n identiques</b></p><p>Le schéma montre la conservation de 2n et la production de deux cellules filles.</p></section>",
     "corr-s-meiose-resultat": "<section class=\"example\"><h3>Bonne réponse</h3><p><b>Quatre cellules haploïdes génétiquement différentes</b></p><p>La méiose produit quatre gamètes haploïdes différents.</p></section>",
     "corr-s-meiose-gametes": "<section class=\"example\"><h3>Bonne réponse</h3><p><b>Les gamètes</b></p><p>Les spermatozoïdes et les ovules sont les seules cellules humaines issues de la méiose.</p></section>",
@@ -7382,8 +7382,8 @@
     "corr-s-ogm-definition": "<section class=\"example\"><h3>Bonne réponse</h3><p><b>Un organisme dont l’ADN a été modifié pour lui donner une nouvelle caractéristique</b></p><p>Un organisme génétiquement modifié a subi une transformation de son ADN.</p></section>",
     "corr-s-ogm-transgenese": "<section class=\"example\"><h3>Bonne réponse</h3><p><b>Ajouter ou modifier un ou plusieurs gènes dans le génome</b></p><p>La transgénèse sert à ajouter ou à modifier des gènes pour créer une propriété nouvelle.</p></section>",
     "corr-i-ogm-mais": "<section class=\"example\"><h3>Bonne réponse</h3><p><b>Pour qu’elles produisent une protéine toxique pour un insecte ravageur</b></p><p>Le maïs de l’exemple reçoit un gène bactérien qui le protège contre un insecte ravageur.</p></section>",
-    "corr-i-ogm-agriculture": "<section class=\"example\"><h3>Bonne réponse</h3><p><b>Réduire l’usage de pesticides grâce à une résistance aux insectes</b></p><p>Une plante résistante aux insectes peut réduire l’usage de pesticides, sans supprimer tous les risques.</p></section>",
-    "corr-i-ogm-environnement": "<section class=\"example\"><h3>Bonne réponse</h3><p><b>La dispersion d’un gène modifié vers d’autres espèces</b></p><p>Un gène peut se disperser ou se retrouver dans une plante non modifiée par croisement.</p></section>",
+    "corr-i-ogm-agriculture": "<section class=\"example\"><h3>Bonne réponse</h3><p><b>Réduire l’usage de pesticides contre cet insecte</b></p><p>Une plante résistante à un insecte peut réduire l’usage du pesticide visant cet insecte, sans supprimer tous les risques ni le besoin de surveillance.</p></section>",
+    "corr-i-ogm-environnement": "<section class=\"example\"><h3>Bonne réponse</h3><p><b>La dispersion du gène modifié par croisement</b></p><p>Un croisement peut transmettre le gène modifié à des plantes compatibles qui ne devaient pas le posséder.</p></section>",
     "corr-i-ogm-aucun-risque": "<section class=\"example\"><h3>Bonne réponse</h3><p><b>Les effets à long terme ne sont pas tous connus et plusieurs risques sont surveillés</b></p><p>L’usage est relativement récent; les chercheurs surveillent les effets et les autorités restent prudentes.</p></section>",
     "corr-c-ogm-medicament": "<section class=\"example\"><h3>Bonne réponse</h3><p><b>Une plante-usine qui produit une molécule servant à fabriquer un médicament</b></p><p>Certaines plantes peuvent être modifiées pour produire des molécules utiles à des médicaments ou vaccins.</p></section>",
     "corr-c-ogm-herbicide": "<section class=\"example\"><h3>Bonne réponse</h3><p><b>Des mauvaises herbes tolérantes peuvent être favorisées par sélection naturelle</b></p><p>L’usage répété peut sélectionner des mauvaises herbes qui résistent mieux à l’herbicide.</p></section>",
@@ -7398,7 +7398,7 @@
     "corr-i-differenciation-adulte": "<section class=\"example\"><h3>Bonne réponse</h3><p><b>Certaines cellules souches conservent la capacité de produire des cellules spécialisées</b></p><p>Des cellules souches demeurent présentes et peuvent encore se différencier chez l’adulte.</p></section>",
     "corr-i-differenciation-exemple": "<section class=\"example\"><h3>Bonne réponse</h3><p><b>Une cellule musculaire capable de se contracter</b></p><p>Une cellule musculaire possède une structure et une fonction spécialisées.</p></section>",
     "corr-c-differenciation-induite": "<section class=\"example\"><h3>Bonne réponse</h3><p><b>Une cellule spécialisée ramenée à un état de cellule souche</b></p><p>On peut reprogrammer une cellule spécialisée pour qu’elle retrouve un potentiel de cellule souche.</p></section>",
-    "corr-c-differenciation-ethique": "<section class=\"example\"><h3>Bonne réponse</h3><p><b>Leur prélèvement exige la destruction de l’embryon d’origine</b></p><p>Le manuel indique que l’obtention de ces cellules détruit l’embryon dont elles proviennent.</p></section>",
+    "corr-c-differenciation-ethique": "<section class=\"example\"><h3>Bonne réponse</h3><p><b>Leur prélèvement exige la destruction de l’embryon d’origine</b></p><p>Le prélèvement de cellules souches embryonnaires peut exiger la destruction de l’embryon dont elles proviennent, ce qui soulève un débat éthique.</p></section>",
     "corr-c-differenciation-guerison-age": "<section class=\"example\"><h3>Bonne réponse</h3><p><b>Les cellules ont un nombre limité de mitoses et peuvent remplacer moins vite les cellules abîmées</b></p><p>La limite du nombre de divisions peut réduire la vitesse de renouvellement des tissus.</p></section>",
     "corr-c-differenciation-organe-rechange": "<section class=\"example\"><h3>Bonne réponse</h3><p><b>Une cellule souche guidée vers la différenciation voulue</b></p><p>Les cellules souches peuvent être multipliées puis orientées vers le type cellulaire nécessaire.</p></section>",
     "corr-c-differenciation-tissu": "<section class=\"example\"><h3>Bonne réponse</h3><p><b>Elle produit des cellules allongées capables de se contracter</b></p><p>Les cellules doivent acquérir la structure et la fonction propres au muscle.</p></section>",
@@ -7419,19 +7419,19 @@
     "corr-s-organisation-organe": "<section class=\"example\"><h3>Bonne réponse</h3><p><b>Une structure constituée de plusieurs tissus qui participent à une même tâche</b></p><p>Un organe réunit plusieurs tissus qui coopèrent.</p></section>",
     "corr-i-organisation-systeme": "<section class=\"example\"><h3>Bonne réponse</h3><p><b>Un ensemble d’organes, de tissus et de cellules qui coopèrent à un processus vital</b></p><p>Un système regroupe plusieurs structures qui travaillent ensemble pour le fonctionnement de l’organisme.</p></section>",
     "corr-i-organisation-estomac": "<section class=\"example\"><h3>Bonne réponse</h3><p><b>Il est formé de plusieurs tissus interconnectés</b></p><p>L’estomac contient notamment des tissus musculaire, épithélial, conjonctif et nerveux.</p></section>",
-    "corr-i-organisation-respiratoire": "<section class=\"example\"><h3>Bonne réponse</h3><p><b>Trachée, poumons et diaphragme</b></p><p>La figure présente la trachée, les poumons et le diaphragme dans le système respiratoire.</p></section>",
+    "corr-i-organisation-respiratoire": "<section class=\"example\"><h3>Bonne réponse</h3><p><b>Trachée, poumons et diaphragme</b></p><p>La trachée conduit l’air, les poumons permettent les échanges gazeux et le diaphragme participe à la ventilation.</p></section>",
     "corr-i-organisation-fonctions": "<section class=\"example\"><h3>Bonne réponse</h3><p><b>Nutrition, relation et reproduction</b></p><p>Les systèmes contribuent aux fonctions de nutrition, de relation ou de reproduction.</p></section>",
     "corr-c-organisation-digestif": "<section class=\"example\"><h3>Bonne réponse</h3><p><b>La nutrition</b></p><p>Le système digestif approvisionne l’organisme en substances nécessaires : il relève de la nutrition.</p></section>",
     "corr-c-organisation-nerveux": "<section class=\"example\"><h3>Bonne réponse</h3><p><b>La relation</b></p><p>Le système nerveux permet à l’organisme de recevoir de l’information et d’interagir avec son environnement.</p></section>",
     "corr-c-organisation-squelettique": "<section class=\"example\"><h3>Bonne réponse</h3><p><b>Il participe aux mouvements et aux interactions avec l’environnement</b></p><p>Avec les muscles et le système nerveux, le squelette permet le mouvement et l’interaction.</p></section>",
-    "corr-c-organisation-excreteur": "<section class=\"example\"><h3>Bonne réponse</h3><p><b>élimine des déchets liés au fonctionnement et aux échanges de matière</b></p><p>Dans le schéma du manuel, l’excrétion contribue à la gestion des substances de l’organisme.</p></section>",
+    "corr-c-organisation-excreteur": "<section class=\"example\"><h3>Bonne réponse</h3><p><b>élimine des déchets liés au fonctionnement et aux échanges de matière</b></p><p>Le système excréteur participe à la fonction de nutrition en éliminant des déchets produits lors du fonctionnement et des échanges de matière.</p></section>",
     "corr-c-organisation-plusieurs-tissus": "<section class=\"example\"><h3>Bonne réponse</h3><p><b>Chaque tissu accomplit une partie différente de la tâche globale de l’organe</b></p><p>Les tissus musculaire, épithélial, conjonctif et nerveux assurent des rôles complémentaires.</p></section>",
     "corr-c-organisation-schema": "<section class=\"example\"><h3>Bonne réponse</h3><p><b>Un système</b></p><p>Plusieurs organes et tissus qui coopèrent forment un système.</p></section>",
     "corr-s-culture-definition": "<section class=\"example\"><h3>Bonne réponse</h3><p><b>La multiplication de cellules hors de leur milieu naturel ou de leur organisme</b></p><p>La culture cellulaire maintient et multiplie des cellules en laboratoire dans un milieu adapté.</p></section>",
     "corr-s-culture-ordre": "<section class=\"example\"><h3>Bonne réponse</h3><p><b>Prélèvement → transfert dans un milieu → incubation → nouvelles cellules</b></p><p>Il faut d’abord obtenir les cellules, les placer dans un milieu, contrôler leur croissance, puis recueillir les nouvelles cellules.</p></section>",
-    "corr-i-culture-utilite": "<section class=\"example\"><h3>Bonne réponse</h3><p><b>Tester des médicaments ou des produits sans recourir directement à des animaux</b></p><p>Des cellules cultivées permettent de tester l’efficacité ou la toxicité de produits.</p></section>",
+    "corr-i-culture-utilite": "<section class=\"example\"><h3>Bonne réponse</h3><p><b>Elle permet d’observer les effets du produit sur des cellules dans des conditions contrôlées</b></p><p>Des cellules cultivées permettent d’observer l’efficacité ou la toxicité d’un produit dans des conditions contrôlées. Ce test ne garantit pas, à lui seul, l’absence de risque chez toute personne.</p></section>",
     "corr-i-culture-vaccin": "<section class=\"example\"><h3>Bonne réponse</h3><p><b>Pour produire ou développer des vaccins</b></p><p>La culture de certains virus fournit du matériel utile à la mise au point de vaccins.</p></section>",
-    "corr-i-culture-milieux": "<section class=\"example\"><h3>Bonne réponse</h3><p><b>Un milieu solide aide à recenser des micro-organismes; un milieu liquide favorise une croissance rapide</b></p><p>Le manuel distingue l’usage du milieu solide pour compter et du bouillon liquide pour favoriser la croissance.</p></section>",
+    "corr-i-culture-milieux": "<section class=\"example\"><h3>Bonne réponse</h3><p><b>Un milieu solide aide à recenser des micro-organismes; un milieu liquide favorise une croissance rapide</b></p><p>Un milieu solide facilite le repérage et le dénombrement de colonies; un milieu liquide favorise généralement une multiplication rapide.</p></section>",
     "corr-i-culture-conditions": "<section class=\"example\"><h3>Bonne réponse</h3><p><b>Température, pression, humidité, pH, nutriments et lumière</b></p><p>L’incubateur contrôle les conditions physiques et chimiques nécessaires à la croissance.</p></section>",
     "corr-c-culture-cordon": "<section class=\"example\"><h3>Bonne réponse</h3><p><b>Il contient des cellules souches capables de produire différents types de cellules sanguines</b></p><p>Ses cellules souches hématopoïétiques peuvent reconstituer des cellules sanguines saines.</p></section>",
     "corr-c-culture-peau": "<section class=\"example\"><h3>Bonne réponse</h3><p><b>Cultiver des cellules pour fabriquer de la nouvelle peau destinée aux grands brûlés</b></p><p>La culture cellulaire peut produire des tissus, comme de la peau de remplacement.</p></section>",
@@ -7455,7 +7455,7 @@
   },
   "validationSource": {
     "verified": true,
-    "date": "2026-10-04",
-    "note": "Les 19 captures de théorie et d’activités ainsi que les 10 feuilles complémentaires ont été comparées. Les 21 objectifs de la feuille L’organisation du vivant ont été vérifiés contre les leçons et les parcours; les ajouts complètent les organites, les phases, les niveaux d’organisation et les fonctions des tissus sans retirer le contenu existant."
+    "date": "2026-10-11",
+    "note": "Les 19 captures de théorie et d’activités ainsi que les 10 feuilles complémentaires ont été comparées. Les 21 objectifs de la feuille L’organisation du vivant ont été vérifiés contre les leçons et les parcours; les ajouts complètent les organites, les phases, les niveaux d’organisation et les fonctions des tissus sans retirer le contenu existant. Les questions ont aussi été auditées afin qu’aucune ne dépende d’un manuel, d’une page ou d’un exemple absent; toute référence à un schéma est maintenant accompagnée du visuel requis."
   }
 }
