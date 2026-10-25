@@ -7830,7 +7830,7 @@
       "writtenPrompt": "Du sel est dissous dans l’eau. Quel type de changement est principalement illustré?",
       "o": [
         "Une combustion",
-        "Une précipitation",
+        "Une précipitation qui produit un solide",
         "La préparation d’un mélange",
         "Une oxydation"
       ],
@@ -7846,7 +7846,7 @@
       },
       "responseType": "choice",
       "feedbackResource": "corr-s-revision-2026-03",
-      "fingerprint": "a4db6d1ae8e68f3d00df075f7672e2dd157e1a0f5daffb94148f46f7689c34f5"
+      "fingerprint": "40ff4a1a34b3379417da608ce42b5705f4fec02e1b3bbc8071527032c097b8f9"
     },
     {
       "id": "s-revision-2026-04",
@@ -7916,7 +7916,7 @@
         "La formation d’un précipité",
         "Un changement de forme",
         "Une évaporation",
-        "Une simple dissolution"
+        "Une simple dissolution d’un solide dans un liquide"
       ],
       "a": 0,
       "accepted": [
@@ -7930,7 +7930,7 @@
       },
       "responseType": "choice",
       "feedbackResource": "corr-s-revision-2026-05",
-      "fingerprint": "71eb6dbbafa4ae430feadfaffc3d162fda99eee81ecbf5a60c855c1e56dabc7d"
+      "fingerprint": "ddb2937ebc316f32bdd641910af4b26a4823ce5032ea621daac50be667d9963b"
     },
     {
       "id": "s-revision-2026-06",
@@ -7955,7 +7955,7 @@
       "q": "Quels sont les produits principaux d’une combustion du bois observables dans l’exercice?",
       "writtenPrompt": "Quels sont les produits principaux d’une combustion du bois observables dans l’exercice?",
       "o": [
-        "Une nouvelle forme et de la glace",
+        "Une nouvelle forme du bois et la formation de glace",
         "De la chaleur, de la lumière et des gaz",
         "Seulement une couleur différente",
         "Un mélange sans nouvelle substance"
@@ -7972,7 +7972,7 @@
       },
       "responseType": "choice",
       "feedbackResource": "corr-s-revision-2026-06",
-      "fingerprint": "84341669b4f4b68b7bc1d91fe660d075576d2c359ef0b3f0674be83665fa3c21"
+      "fingerprint": "b69c974c0ac375cf277e3b87bf980503bd7228d0b75c4053620f9c18299735d5"
     },
     {
       "id": "s-revision-2026-07",
@@ -8041,7 +8041,7 @@
       "o": [
         "La substance est-elle encore la même?",
         "L’objet est-il plus petit?",
-        "Le changement est-il visible?",
+        "Le changement est-il visible à l’œil nu?",
         "A-t-on utilisé un outil?"
       ],
       "a": 0,
@@ -8056,7 +8056,7 @@
       },
       "responseType": "choice",
       "feedbackResource": "corr-s-revision-2026-08",
-      "fingerprint": "d133cfb77c89eca15c003b9f8aa8ceb4ce4498f639c563aeeba20914af42578a"
+      "fingerprint": "a9e150f7d4e48ff17930375528060d0039b1e28eff053c5ae90c92143ee4edf4"
     },
     {
       "id": "s-revision-2026-09",
@@ -8167,7 +8167,7 @@
       "o": [
         "Sa forme change sans former une autre substance",
         "De l’oxygène disparaît",
-        "Le métal devient un nouvel élément",
+        "Le métal devient un nouvel élément après le choc",
         "Une réaction produit un gaz"
       ],
       "a": 0,
@@ -8182,7 +8182,7 @@
       },
       "responseType": "choice",
       "feedbackResource": "corr-i-revision-2026-01",
-      "fingerprint": "92018a3df799ded94b40793cba3f695560c9c007e66fff335b448453cdff56ad"
+      "fingerprint": "33f53f131ea5a6fb263ac768063b71b25b255f512cdad4ab2425e5d04608927d"
     },
     {
       "id": "i-revision-2026-02",
@@ -8207,7 +8207,7 @@
       "q": "On sépare du sable d’un mélange avec de l’eau. Quelle affirmation est correcte?",
       "writtenPrompt": "On sépare du sable d’un mélange avec de l’eau. Quelle affirmation est correcte?",
       "o": [
-        "C’est un changement chimique car l’eau s’évapore",
+        "C’est chimique parce que l’eau s’évapore pendant la séparation",
         "C’est un changement physique : les substances sont séparées",
         "Les atomes du sable sont détruits",
         "Le sable devient un nouveau composé"
@@ -8224,7 +8224,7 @@
       },
       "responseType": "choice",
       "feedbackResource": "corr-i-revision-2026-02",
-      "fingerprint": "814b25d1f30cc827694c7e4b2d99a06500cb8f660c89ae8d8850021d0b54602f"
+      "fingerprint": "063c46f07dda8e862c14c97b7f0df4a468dd63b63ea456a2cee1afb2403c376a"
     },
     {
       "id": "i-revision-2026-03",
@@ -8375,7 +8375,7 @@
       "q": "Un liquide devient plus chaud pendant un mélange. Pourquoi ne faut-il pas conclure immédiatement à un changement chimique?",
       "writtenPrompt": "Un liquide devient plus chaud pendant un mélange. Pourquoi ne faut-il pas conclure immédiatement à un changement chimique?",
       "o": [
-        "La température ne peut jamais changer",
+        "La température ne peut jamais changer pendant un simple mélange",
         "Un indice seul ne prouve pas la formation d’une nouvelle substance",
         "La chaleur détruit toujours les atomes",
         "Un mélange est toujours chimique"
@@ -8392,7 +8392,7 @@
       },
       "responseType": "choice",
       "feedbackResource": "corr-i-revision-2026-06",
-      "fingerprint": "3f022ffb3dea3f75cc644d3ee216cd34c7024c8d760a6965fa719ddf09903617"
+      "fingerprint": "5de68cd298777d36fb379b374b517f293d06e5d9742bdfa9c36b22d9b1eac5bb"
     },
     {
       "id": "i-revision-2026-07",
@@ -8417,7 +8417,7 @@
       "q": "Une bûche brûle. Laquelle de ces réponses explique le mieux le changement?",
       "writtenPrompt": "Une bûche brûle. Laquelle de ces réponses explique le mieux le changement?",
       "o": [
-        "Le bois change seulement de forme",
+        "Le bois change seulement de forme quand la flamme le consume",
         "Les molécules de départ se réorganisent en nouvelles substances",
         "Tous les atomes sont détruits",
         "La chaleur transforme le bois en glace"
@@ -8434,7 +8434,7 @@
       },
       "responseType": "choice",
       "feedbackResource": "corr-i-revision-2026-07",
-      "fingerprint": "c1e08e58f6eb853e46bf299a6dcc7e677732243e263b03f40a360df22ffb2821"
+      "fingerprint": "99ed9cba9398ba6c25114c43d1975017672c6a61b114f2c2af4be708af0ae02c"
     },
     {
       "id": "i-revision-2026-08",
@@ -8543,7 +8543,7 @@
       "q": "Quelle réponse donne à la fois le type de changement et une justification scientifique pour une glace qui fond?",
       "writtenPrompt": "Quelle réponse donne à la fois le type de changement et une justification scientifique pour une glace qui fond?",
       "o": [
-        "Chimique, car elle devient liquide",
+        "Chimique, car la glace devient liquide et prend une autre forme",
         "Physique, car H₂O reste H₂O malgré le changement d’état",
         "Chimique, car les atomes se séparent",
         "Physique, car aucune énergie n’est échangée"
@@ -8560,7 +8560,7 @@
       },
       "responseType": "choice",
       "feedbackResource": "corr-i-revision-2026-10",
-      "fingerprint": "77283a0fe17cabde9b8982652175a0d62ec544463ab82045c57e3bd1d31e5736"
+      "fingerprint": "f6726f7ac683863be7bfb863488217706e688b6bbb98b63f15f6afe4b6067182"
     },
     {
       "id": "i-revision-2026-11",
@@ -8711,7 +8711,7 @@
       "q": "Une boisson gazeuse est versée dans un verre et perd du gaz déjà dissous. Quelle conclusion est la plus prudente?",
       "writtenPrompt": "Une boisson gazeuse est versée dans un verre et perd du gaz déjà dissous. Quelle conclusion est la plus prudente?",
       "o": [
-        "L’échappement d’un gaz prouve toujours une réaction chimique",
+        "L’échappement d’un gaz prouve toujours une réaction chimique nouvelle",
         "Il peut s’agir d’une séparation physique du gaz déjà présent",
         "Le verre produit de nouveaux atomes",
         "Le gaz se transforme forcément en métal"
@@ -8728,7 +8728,7 @@
       },
       "responseType": "choice",
       "feedbackResource": "corr-c-revision-2026-01",
-      "fingerprint": "dc072e3a20efe3eafe93c975379e79da71c29b0f20879fcad8098557cf7301fc"
+      "fingerprint": "7d92695a233f0600920e8693cb4b2a2f60c6728209532605f579acedb2eb9547"
     },
     {
       "id": "c-revision-2026-02",
@@ -8838,7 +8838,7 @@
       "writtenPrompt": "Un solide blanc apparaît quand on mélange deux solutions transparentes. Quel raisonnement convient?",
       "o": [
         "Un précipité est formé; une nouvelle substance est probable",
-        "C’est forcément un changement d’état de l’eau",
+        "C’est forcément un simple changement d’état de l’eau mélangée",
         "Les deux liquides ont été coupés",
         "Les atomes ont disparu"
       ],
@@ -8854,7 +8854,7 @@
       },
       "responseType": "choice",
       "feedbackResource": "corr-c-revision-2026-04",
-      "fingerprint": "7a6bec9c431f16e612f73f2b000d989a6860379574423961abaca636c24d6e9f"
+      "fingerprint": "4c6d8d47909c6ea8496448644ebf363e076d6f27505bbc9c0cdc1cd03403b767"
     },
     {
       "id": "c-revision-2026-05",
@@ -8879,7 +8879,7 @@
       "q": "Le cuivre exposé à l’air devient vert avec le temps. Quelle explication est la meilleure?",
       "writtenPrompt": "Le cuivre exposé à l’air devient vert avec le temps. Quelle explication est la meilleure?",
       "o": [
-        "C’est uniquement une modification de forme",
+        "C’est uniquement une modification de forme et de couleur sans réaction",
         "Une oxydation produit des substances de surface différentes",
         "Le cuivre fond sans chauffer",
         "Le cuivre devient un élément nommé vert"
@@ -8896,7 +8896,7 @@
       },
       "responseType": "choice",
       "feedbackResource": "corr-c-revision-2026-05",
-      "fingerprint": "8e7ca6d1d21235a2dd8b3edf0e651cbeec7ebccc2beaad1e724ada454e0ccbdc"
+      "fingerprint": "c55708b085dab67e0c3c7fde1c434220c7b0a52b751c40cd4e4ca96136cfb112"
     },
     {
       "id": "c-revision-2026-06",
@@ -8924,7 +8924,7 @@
         "La couleur n’existe pas dans la matière",
         "Un mélange peut changer l’apparence sans créer de substance",
         "Les couleurs ne changent jamais",
-        "Toutes les réactions sont incolores"
+        "Toutes les réactions chimiques produisent uniquement des substances incolores"
       ],
       "a": 1,
       "accepted": [
@@ -8938,7 +8938,7 @@
       },
       "responseType": "choice",
       "feedbackResource": "corr-c-revision-2026-06",
-      "fingerprint": "474297c755e7bb90ff096320d35e41affb8deaba28de9fdeac3ec9e5b352544a"
+      "fingerprint": "0a2cde7c37f00157532dd1b74260653eb5898e576a9aeaac2a96e3300c59ffcf"
     },
     {
       "id": "c-revision-2026-07",
@@ -9049,7 +9049,7 @@
       "o": [
         "Les deux créent de nouvelles substances",
         "L’évaporation conserve H₂O; la combustion forme de nouvelles substances",
-        "La combustion ne change que l’état du bois",
+        "La combustion ne change que l’état du bois, comme l’évaporation de l’eau",
         "L’évaporation détruit les molécules d’eau"
       ],
       "a": 1,
@@ -9064,7 +9064,7 @@
       },
       "responseType": "choice",
       "feedbackResource": "corr-c-revision-2026-09",
-      "fingerprint": "ca2b70ba77d87d06482ea1b0965c47640d1cc1ed7e04b62b6fc108ae6feeca52"
+      "fingerprint": "48aa61551d6e70f5cd54bedcb9cd2a90b82b96c9ffd9adb9df1aa7c02d01e529"
     },
     {
       "id": "c-revision-2026-10",
@@ -9091,7 +9091,7 @@
       "o": [
         "Physique, parce que le lait reste blanc",
         "Chimique : le mélange entraîne la formation de grumeaux et modifie la matière",
-        "Physique, car toute préparation de mélange est physique",
+        "Physique, car toute préparation de mélange est forcément physique, même avec des grumeaux",
         "On ne peut pas l’observer"
       ],
       "a": 1,
@@ -9106,7 +9106,7 @@
       },
       "responseType": "choice",
       "feedbackResource": "corr-c-revision-2026-10",
-      "fingerprint": "1c53c8d89e60d54335a3744f53fc76af14d5f5d0667f648886f651d98071038d"
+      "fingerprint": "f1cd2aafdf9049f1864b51c048552cd5ade081e6215fb95121d3c1072dda714e"
     },
     {
       "id": "c-revision-2026-11",
@@ -9133,7 +9133,7 @@
       "o": [
         "Chimique : un précipité jaune se forme, signe d’une nouvelle substance",
         "Physique : leur couleur change",
-        "Chimique : on a simplement mélangé des liquides",
+        "Chimique : on a simplement mélangé deux liquides de couleurs différentes",
         "Physique : la température reste inconnue"
       ],
       "a": 0,
@@ -9148,7 +9148,7 @@
       },
       "responseType": "choice",
       "feedbackResource": "corr-c-revision-2026-11",
-      "fingerprint": "1f525ec1d0490476bb185515690289ff28fde06570b1c7c704ca89bb7015f95e"
+      "fingerprint": "fe75899221938dd1df5d54cee22193af2a19ef3d523a6f29d10bc0fb7d71f58a"
     },
     {
       "id": "c-revision-2026-12",
@@ -9173,7 +9173,7 @@
       "q": "Dans quel cas l’absence de changement visible ne suffit-elle pas à conclure?",
       "writtenPrompt": "Dans quel cas l’absence de changement visible ne suffit-elle pas à conclure?",
       "o": [
-        "Quand on sait déjà que la substance est nouvelle",
+        "Quand on sait déjà avec certitude que la substance formée est nouvelle",
         "Quand la transformation peut être lente ou difficile à observer",
         "Quand le papier est déchiré",
         "Quand le glaçon fond"
@@ -9190,7 +9190,7 @@
       },
       "responseType": "choice",
       "feedbackResource": "corr-c-revision-2026-12",
-      "fingerprint": "6832b4e33da99fc41cdbc0c156284815fbc70cf29db37595fe04b747ca22bf82"
+      "fingerprint": "893f2b20c8d4f613ea3bd2e80393df6daea06ce50bd987e76af509433609b247"
     },
     {
       "id": "c-revision-2026-13",
@@ -9343,7 +9343,7 @@
       "o": [
         "Les atomes A et B sont conservés, mais les liaisons changent",
         "Les atomes A disparaissent",
-        "Les molécules AB restent intactes",
+        "Les molécules AB restent intactes même après la formation de A₂ et B₂",
         "Deux nouveaux éléments sont créés"
       ],
       "a": 0,
@@ -9358,7 +9358,7 @@
       },
       "responseType": "choice",
       "feedbackResource": "corr-c-revision-2026-16",
-      "fingerprint": "c8a0134ffd34d1076d1bde5e862b5e7161ae6ab02090673452ed878bd105a76f"
+      "fingerprint": "4a4a337413eddaaf920f8d488d2777bc1cb6f74092b54e043d37e893cf0d0069"
     },
     {
       "id": "c-revision-2026-17",
@@ -9384,7 +9384,7 @@
       "writtenPrompt": "Quelle erreur commet-on en affirmant que deux molécules de CO₂ contiennent seulement trois atomes?",
       "o": [
         "On oublie le coefficient 2 devant la formule",
-        "On compte deux fois le carbone",
+        "On compte deux fois le carbone dans chacune des deux molécules de CO₂",
         "On confond le C avec le calcium",
         "On transforme l’oxygène en azote"
       ],
@@ -9400,7 +9400,7 @@
       },
       "responseType": "choice",
       "feedbackResource": "corr-c-revision-2026-17",
-      "fingerprint": "ff4bbce4a8e5734e56fb8910a8aa1588b666708fb79d434f5d25f67a888137d6"
+      "fingerprint": "139ae2c108d586732fbe0c8d284318075317bb0a4253b047fbfd0001800651d5"
     }
   ],
   "variants": {},
