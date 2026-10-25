@@ -6,6 +6,30 @@
       "title": "Origines 2, 3e édition — Chapitre 1, L’organisation de la matière",
       "availability": "14 captures consultées : pages 2 à 26, avec un doublon des pages 12–13. Originaux privés.",
       "pages": "2–26"
+    },
+    {
+      "id": "revision-1-2",
+      "title": "Document de révision — univers matériel, chapitres 1 et 2.1–2.2",
+      "availability": "7 pages reçues et vérifiées; question 14 exclue par la consigne de la professeure.",
+      "pages": "1–6"
+    },
+    {
+      "id": "corrige-revision-1-2",
+      "title": "Corrigé du document de révision",
+      "availability": "6 pages reçues et vérifiées; aucune page originale publiée.",
+      "pages": "1–6"
+    },
+    {
+      "id": "diaporama-1-2",
+      "title": "Révision chapitres 1, 2.1 et 2.2 — diaporama corrigé",
+      "availability": "24 diapositives reçues; points 2–19 vérifiés. L’indication « fluor liquide » à la diapositive 8 est erronée et n’est pas reprise.",
+      "pages": "2–19"
+    },
+    {
+      "id": "examen-mirka-ch1",
+      "title": "Copie corrigée de l’examen du chapitre 1",
+      "availability": "9 pages reçues, utilisées seulement pour cibler la pratique; copie et données personnelles non publiées.",
+      "pages": "1–9"
     }
   ],
   "inventory": [
@@ -1268,6 +1292,926 @@
       ],
       "status": "reviewed",
       "note": "Page consultée; formulation adaptée pour la pratique."
+    },
+    {
+      "id": "notion-s-revision-2026-01",
+      "title": "Lequel est un changement physique?",
+      "kind": "notion-ou-application",
+      "sourceRefs": [
+        {
+          "documentId": "revision-1-2",
+          "pages": "1–6"
+        },
+        {
+          "documentId": "diaporama-1-2",
+          "pages": "2–19"
+        }
+      ],
+      "lessonIds": [
+        "changements-physiques"
+      ],
+      "questionIds": [
+        "s-revision-2026-01"
+      ],
+      "status": "reviewed",
+      "note": "Question originale adaptée à la révision reçue; réponse et distracteurs vérifiés."
+    },
+    {
+      "id": "notion-s-revision-2026-02",
+      "title": "Quand on déchire une feuille, qu’est-ce qui change principalement?",
+      "kind": "notion-ou-application",
+      "sourceRefs": [
+        {
+          "documentId": "revision-1-2",
+          "pages": "1–6"
+        },
+        {
+          "documentId": "diaporama-1-2",
+          "pages": "2–19"
+        }
+      ],
+      "lessonIds": [
+        "changements-physiques"
+      ],
+      "questionIds": [
+        "s-revision-2026-02"
+      ],
+      "status": "reviewed",
+      "note": "Question originale adaptée à la révision reçue; réponse et distracteurs vérifiés."
+    },
+    {
+      "id": "notion-s-revision-2026-03",
+      "title": "Du sel est dissous dans l’eau. Quel type de changement est principalement illustré?",
+      "kind": "notion-ou-application",
+      "sourceRefs": [
+        {
+          "documentId": "revision-1-2",
+          "pages": "1–6"
+        },
+        {
+          "documentId": "diaporama-1-2",
+          "pages": "2–19"
+        }
+      ],
+      "lessonIds": [
+        "changements-physiques"
+      ],
+      "questionIds": [
+        "s-revision-2026-03"
+      ],
+      "status": "reviewed",
+      "note": "Question originale adaptée à la révision reçue; réponse et distracteurs vérifiés."
+    },
+    {
+      "id": "notion-s-revision-2026-04",
+      "title": "Quel événement indique le plus clairement qu’une nouvelle substance s’est formée?",
+      "kind": "notion-ou-application",
+      "sourceRefs": [
+        {
+          "documentId": "revision-1-2",
+          "pages": "1–6"
+        },
+        {
+          "documentId": "diaporama-1-2",
+          "pages": "2–19"
+        }
+      ],
+      "lessonIds": [
+        "changements-chimiques"
+      ],
+      "questionIds": [
+        "s-revision-2026-04"
+      ],
+      "status": "reviewed",
+      "note": "Question originale adaptée à la révision reçue; réponse et distracteurs vérifiés."
+    },
+    {
+      "id": "notion-s-revision-2026-05",
+      "title": "Deux liquides incolores forment un solide jaune quand on les mélange. Quel indice observe-t-on?",
+      "kind": "notion-ou-application",
+      "sourceRefs": [
+        {
+          "documentId": "revision-1-2",
+          "pages": "1–6"
+        },
+        {
+          "documentId": "diaporama-1-2",
+          "pages": "2–19"
+        }
+      ],
+      "lessonIds": [
+        "changements-chimiques"
+      ],
+      "questionIds": [
+        "s-revision-2026-05"
+      ],
+      "status": "reviewed",
+      "note": "Question originale adaptée à la révision reçue; réponse et distracteurs vérifiés."
+    },
+    {
+      "id": "notion-s-revision-2026-06",
+      "title": "Quels sont les produits principaux d’une combustion du bois observables dans l’exercice?",
+      "kind": "notion-ou-application",
+      "sourceRefs": [
+        {
+          "documentId": "revision-1-2",
+          "pages": "1–6"
+        },
+        {
+          "documentId": "diaporama-1-2",
+          "pages": "2–19"
+        }
+      ],
+      "lessonIds": [
+        "changements-chimiques"
+      ],
+      "questionIds": [
+        "s-revision-2026-06"
+      ],
+      "status": "reviewed",
+      "note": "Question originale adaptée à la révision reçue; réponse et distracteurs vérifiés."
+    },
+    {
+      "id": "notion-s-revision-2026-07",
+      "title": "Une pomme est coupée en morceaux. Quelle justification est correcte?",
+      "kind": "notion-ou-application",
+      "sourceRefs": [
+        {
+          "documentId": "revision-1-2",
+          "pages": "1–6"
+        },
+        {
+          "documentId": "diaporama-1-2",
+          "pages": "2–19"
+        }
+      ],
+      "lessonIds": [
+        "comparer-changements"
+      ],
+      "questionIds": [
+        "s-revision-2026-07"
+      ],
+      "status": "reviewed",
+      "note": "Question originale adaptée à la révision reçue; réponse et distracteurs vérifiés."
+    },
+    {
+      "id": "notion-s-revision-2026-08",
+      "title": "Quelle question aide le mieux à distinguer un changement chimique d’un changement physique?",
+      "kind": "notion-ou-application",
+      "sourceRefs": [
+        {
+          "documentId": "revision-1-2",
+          "pages": "1–6"
+        },
+        {
+          "documentId": "diaporama-1-2",
+          "pages": "2–19"
+        }
+      ],
+      "lessonIds": [
+        "comparer-changements"
+      ],
+      "questionIds": [
+        "s-revision-2026-08"
+      ],
+      "status": "reviewed",
+      "note": "Question originale adaptée à la révision reçue; réponse et distracteurs vérifiés."
+    },
+    {
+      "id": "notion-s-revision-2026-09",
+      "title": "Combien d’atomes y a-t-il dans une molécule de CO₂?",
+      "kind": "notion-ou-application",
+      "sourceRefs": [
+        {
+          "documentId": "revision-1-2",
+          "pages": "1–6"
+        },
+        {
+          "documentId": "diaporama-1-2",
+          "pages": "2–19"
+        }
+      ],
+      "lessonIds": [
+        "atomes-conservation"
+      ],
+      "questionIds": [
+        "s-revision-2026-09"
+      ],
+      "status": "reviewed",
+      "note": "Question originale adaptée à la révision reçue; réponse et distracteurs vérifiés."
+    },
+    {
+      "id": "notion-s-revision-2026-10",
+      "title": "Pendant une réaction chimique, que devient le nombre total d’atomes de chaque élément?",
+      "kind": "notion-ou-application",
+      "sourceRefs": [
+        {
+          "documentId": "revision-1-2",
+          "pages": "1–6"
+        },
+        {
+          "documentId": "diaporama-1-2",
+          "pages": "2–19"
+        }
+      ],
+      "lessonIds": [
+        "atomes-conservation"
+      ],
+      "questionIds": [
+        "s-revision-2026-10"
+      ],
+      "status": "reviewed",
+      "note": "Question originale adaptée à la révision reçue; réponse et distracteurs vérifiés."
+    },
+    {
+      "id": "notion-i-revision-2026-01",
+      "title": "Une automobile est redressée après un choc. Pourquoi est-ce un changement physique?",
+      "kind": "notion-ou-application",
+      "sourceRefs": [
+        {
+          "documentId": "revision-1-2",
+          "pages": "1–6"
+        },
+        {
+          "documentId": "diaporama-1-2",
+          "pages": "2–19"
+        }
+      ],
+      "lessonIds": [
+        "changements-physiques"
+      ],
+      "questionIds": [
+        "i-revision-2026-01"
+      ],
+      "status": "reviewed",
+      "note": "Question originale adaptée à la révision reçue; réponse et distracteurs vérifiés."
+    },
+    {
+      "id": "notion-i-revision-2026-02",
+      "title": "On sépare du sable d’un mélange avec de l’eau. Quelle affirmation est correcte?",
+      "kind": "notion-ou-application",
+      "sourceRefs": [
+        {
+          "documentId": "revision-1-2",
+          "pages": "1–6"
+        },
+        {
+          "documentId": "diaporama-1-2",
+          "pages": "2–19"
+        }
+      ],
+      "lessonIds": [
+        "changements-physiques"
+      ],
+      "questionIds": [
+        "i-revision-2026-02"
+      ],
+      "status": "reviewed",
+      "note": "Question originale adaptée à la révision reçue; réponse et distracteurs vérifiés."
+    },
+    {
+      "id": "notion-i-revision-2026-03",
+      "title": "Quel ensemble contient uniquement des exemples de changements physiques?",
+      "kind": "notion-ou-application",
+      "sourceRefs": [
+        {
+          "documentId": "revision-1-2",
+          "pages": "1–6"
+        },
+        {
+          "documentId": "diaporama-1-2",
+          "pages": "2–19"
+        }
+      ],
+      "lessonIds": [
+        "changements-physiques"
+      ],
+      "questionIds": [
+        "i-revision-2026-03"
+      ],
+      "status": "reviewed",
+      "note": "Question originale adaptée à la révision reçue; réponse et distracteurs vérifiés."
+    },
+    {
+      "id": "notion-i-revision-2026-04",
+      "title": "Le vinaigre réagit avec le bicarbonate : des bulles apparaissent et le récipient se réchauffe. Quels indices sont présents?",
+      "kind": "notion-ou-application",
+      "sourceRefs": [
+        {
+          "documentId": "revision-1-2",
+          "pages": "1–6"
+        },
+        {
+          "documentId": "diaporama-1-2",
+          "pages": "2–19"
+        }
+      ],
+      "lessonIds": [
+        "changements-chimiques"
+      ],
+      "questionIds": [
+        "i-revision-2026-04"
+      ],
+      "status": "reviewed",
+      "note": "Question originale adaptée à la révision reçue; réponse et distracteurs vérifiés."
+    },
+    {
+      "id": "notion-i-revision-2026-05",
+      "title": "Quel phénomène crée une nouvelle substance?",
+      "kind": "notion-ou-application",
+      "sourceRefs": [
+        {
+          "documentId": "revision-1-2",
+          "pages": "1–6"
+        },
+        {
+          "documentId": "diaporama-1-2",
+          "pages": "2–19"
+        }
+      ],
+      "lessonIds": [
+        "changements-chimiques"
+      ],
+      "questionIds": [
+        "i-revision-2026-05"
+      ],
+      "status": "reviewed",
+      "note": "Question originale adaptée à la révision reçue; réponse et distracteurs vérifiés."
+    },
+    {
+      "id": "notion-i-revision-2026-06",
+      "title": "Un liquide devient plus chaud pendant un mélange. Pourquoi ne faut-il pas conclure immédiatement à un changement chimique?",
+      "kind": "notion-ou-application",
+      "sourceRefs": [
+        {
+          "documentId": "revision-1-2",
+          "pages": "1–6"
+        },
+        {
+          "documentId": "diaporama-1-2",
+          "pages": "2–19"
+        }
+      ],
+      "lessonIds": [
+        "changements-chimiques"
+      ],
+      "questionIds": [
+        "i-revision-2026-06"
+      ],
+      "status": "reviewed",
+      "note": "Question originale adaptée à la révision reçue; réponse et distracteurs vérifiés."
+    },
+    {
+      "id": "notion-i-revision-2026-07",
+      "title": "Une bûche brûle. Laquelle de ces réponses explique le mieux le changement?",
+      "kind": "notion-ou-application",
+      "sourceRefs": [
+        {
+          "documentId": "revision-1-2",
+          "pages": "1–6"
+        },
+        {
+          "documentId": "diaporama-1-2",
+          "pages": "2–19"
+        }
+      ],
+      "lessonIds": [
+        "changements-chimiques"
+      ],
+      "questionIds": [
+        "i-revision-2026-07"
+      ],
+      "status": "reviewed",
+      "note": "Question originale adaptée à la révision reçue; réponse et distracteurs vérifiés."
+    },
+    {
+      "id": "notion-i-revision-2026-08",
+      "title": "Une carotte est coupée puis laissée au four jusqu’à ce qu’elle brunisse. Quel ordre décrit ces étapes?",
+      "kind": "notion-ou-application",
+      "sourceRefs": [
+        {
+          "documentId": "revision-1-2",
+          "pages": "1–6"
+        },
+        {
+          "documentId": "diaporama-1-2",
+          "pages": "2–19"
+        }
+      ],
+      "lessonIds": [
+        "comparer-changements"
+      ],
+      "questionIds": [
+        "i-revision-2026-08"
+      ],
+      "status": "reviewed",
+      "note": "Question originale adaptée à la révision reçue; réponse et distracteurs vérifiés."
+    },
+    {
+      "id": "notion-i-revision-2026-09",
+      "title": "On dilue du sirop dans l’eau. Quelle réponse est la mieux justifiée?",
+      "kind": "notion-ou-application",
+      "sourceRefs": [
+        {
+          "documentId": "revision-1-2",
+          "pages": "1–6"
+        },
+        {
+          "documentId": "diaporama-1-2",
+          "pages": "2–19"
+        }
+      ],
+      "lessonIds": [
+        "comparer-changements"
+      ],
+      "questionIds": [
+        "i-revision-2026-09"
+      ],
+      "status": "reviewed",
+      "note": "Question originale adaptée à la révision reçue; réponse et distracteurs vérifiés."
+    },
+    {
+      "id": "notion-i-revision-2026-10",
+      "title": "Quelle réponse donne à la fois le type de changement et une justification scientifique pour une glace qui fond?",
+      "kind": "notion-ou-application",
+      "sourceRefs": [
+        {
+          "documentId": "revision-1-2",
+          "pages": "1–6"
+        },
+        {
+          "documentId": "diaporama-1-2",
+          "pages": "2–19"
+        }
+      ],
+      "lessonIds": [
+        "comparer-changements"
+      ],
+      "questionIds": [
+        "i-revision-2026-10"
+      ],
+      "status": "reviewed",
+      "note": "Question originale adaptée à la révision reçue; réponse et distracteurs vérifiés."
+    },
+    {
+      "id": "notion-i-revision-2026-11",
+      "title": "Combien d’atomes compte C₂H₆?",
+      "kind": "notion-ou-application",
+      "sourceRefs": [
+        {
+          "documentId": "revision-1-2",
+          "pages": "1–6"
+        },
+        {
+          "documentId": "diaporama-1-2",
+          "pages": "2–19"
+        }
+      ],
+      "lessonIds": [
+        "atomes-conservation"
+      ],
+      "questionIds": [
+        "i-revision-2026-11"
+      ],
+      "status": "reviewed",
+      "note": "Question originale adaptée à la révision reçue; réponse et distracteurs vérifiés."
+    },
+    {
+      "id": "notion-i-revision-2026-12",
+      "title": "Dans 2H₂O, combien y a-t-il d’atomes d’hydrogène en tout?",
+      "kind": "notion-ou-application",
+      "sourceRefs": [
+        {
+          "documentId": "revision-1-2",
+          "pages": "1–6"
+        },
+        {
+          "documentId": "diaporama-1-2",
+          "pages": "2–19"
+        }
+      ],
+      "lessonIds": [
+        "atomes-conservation"
+      ],
+      "questionIds": [
+        "i-revision-2026-12"
+      ],
+      "status": "reviewed",
+      "note": "Question originale adaptée à la révision reçue; réponse et distracteurs vérifiés."
+    },
+    {
+      "id": "notion-i-revision-2026-13",
+      "title": "Quelle phrase respecte la conservation de la matière?",
+      "kind": "notion-ou-application",
+      "sourceRefs": [
+        {
+          "documentId": "revision-1-2",
+          "pages": "1–6"
+        },
+        {
+          "documentId": "diaporama-1-2",
+          "pages": "2–19"
+        }
+      ],
+      "lessonIds": [
+        "atomes-conservation"
+      ],
+      "questionIds": [
+        "i-revision-2026-13"
+      ],
+      "status": "reviewed",
+      "note": "Question originale adaptée à la révision reçue; réponse et distracteurs vérifiés."
+    },
+    {
+      "id": "notion-c-revision-2026-01",
+      "title": "Une boisson gazeuse est versée dans un verre et perd du gaz déjà dissous. Quelle conclusion est la plus prudente?",
+      "kind": "notion-ou-application",
+      "sourceRefs": [
+        {
+          "documentId": "revision-1-2",
+          "pages": "1–6"
+        },
+        {
+          "documentId": "diaporama-1-2",
+          "pages": "2–19"
+        }
+      ],
+      "lessonIds": [
+        "changements-physiques"
+      ],
+      "questionIds": [
+        "c-revision-2026-01"
+      ],
+      "status": "reviewed",
+      "note": "Question originale adaptée à la révision reçue; réponse et distracteurs vérifiés."
+    },
+    {
+      "id": "notion-c-revision-2026-02",
+      "title": "Une feuille est découpée, puis ses morceaux sont dispersés. Qu’est-ce qui reste identique?",
+      "kind": "notion-ou-application",
+      "sourceRefs": [
+        {
+          "documentId": "revision-1-2",
+          "pages": "1–6"
+        },
+        {
+          "documentId": "diaporama-1-2",
+          "pages": "2–19"
+        }
+      ],
+      "lessonIds": [
+        "changements-physiques"
+      ],
+      "questionIds": [
+        "c-revision-2026-02"
+      ],
+      "status": "reviewed",
+      "note": "Question originale adaptée à la révision reçue; réponse et distracteurs vérifiés."
+    },
+    {
+      "id": "notion-c-revision-2026-03",
+      "title": "Quel trio correspond aux trois catégories travaillées pour les changements physiques?",
+      "kind": "notion-ou-application",
+      "sourceRefs": [
+        {
+          "documentId": "revision-1-2",
+          "pages": "1–6"
+        },
+        {
+          "documentId": "diaporama-1-2",
+          "pages": "2–19"
+        }
+      ],
+      "lessonIds": [
+        "changements-physiques"
+      ],
+      "questionIds": [
+        "c-revision-2026-03"
+      ],
+      "status": "reviewed",
+      "note": "Question originale adaptée à la révision reçue; réponse et distracteurs vérifiés."
+    },
+    {
+      "id": "notion-c-revision-2026-04",
+      "title": "Un solide blanc apparaît quand on mélange deux solutions transparentes. Quel raisonnement convient?",
+      "kind": "notion-ou-application",
+      "sourceRefs": [
+        {
+          "documentId": "revision-1-2",
+          "pages": "1–6"
+        },
+        {
+          "documentId": "diaporama-1-2",
+          "pages": "2–19"
+        }
+      ],
+      "lessonIds": [
+        "changements-chimiques"
+      ],
+      "questionIds": [
+        "c-revision-2026-04"
+      ],
+      "status": "reviewed",
+      "note": "Question originale adaptée à la révision reçue; réponse et distracteurs vérifiés."
+    },
+    {
+      "id": "notion-c-revision-2026-05",
+      "title": "Le cuivre exposé à l’air devient vert avec le temps. Quelle explication est la meilleure?",
+      "kind": "notion-ou-application",
+      "sourceRefs": [
+        {
+          "documentId": "revision-1-2",
+          "pages": "1–6"
+        },
+        {
+          "documentId": "diaporama-1-2",
+          "pages": "2–19"
+        }
+      ],
+      "lessonIds": [
+        "changements-chimiques"
+      ],
+      "questionIds": [
+        "c-revision-2026-05"
+      ],
+      "status": "reviewed",
+      "note": "Question originale adaptée à la révision reçue; réponse et distracteurs vérifiés."
+    },
+    {
+      "id": "notion-c-revision-2026-06",
+      "title": "Pourquoi la couleur seule ne permet-elle pas toujours de conclure à une réaction?",
+      "kind": "notion-ou-application",
+      "sourceRefs": [
+        {
+          "documentId": "revision-1-2",
+          "pages": "1–6"
+        },
+        {
+          "documentId": "diaporama-1-2",
+          "pages": "2–19"
+        }
+      ],
+      "lessonIds": [
+        "changements-chimiques"
+      ],
+      "questionIds": [
+        "c-revision-2026-06"
+      ],
+      "status": "reviewed",
+      "note": "Question originale adaptée à la révision reçue; réponse et distracteurs vérifiés."
+    },
+    {
+      "id": "notion-c-revision-2026-07",
+      "title": "Une bûche brûle dans un système fermé. Quelle quantité se conserve?",
+      "kind": "notion-ou-application",
+      "sourceRefs": [
+        {
+          "documentId": "revision-1-2",
+          "pages": "1–6"
+        },
+        {
+          "documentId": "diaporama-1-2",
+          "pages": "2–19"
+        }
+      ],
+      "lessonIds": [
+        "changements-chimiques"
+      ],
+      "questionIds": [
+        "c-revision-2026-07"
+      ],
+      "status": "reviewed",
+      "note": "Question originale adaptée à la révision reçue; réponse et distracteurs vérifiés."
+    },
+    {
+      "id": "notion-c-revision-2026-08",
+      "title": "On brise un comprimé en deux; ensuite, il réagit dans l’eau en produisant un gaz. Quel ordre est correct?",
+      "kind": "notion-ou-application",
+      "sourceRefs": [
+        {
+          "documentId": "revision-1-2",
+          "pages": "1–6"
+        },
+        {
+          "documentId": "diaporama-1-2",
+          "pages": "2–19"
+        }
+      ],
+      "lessonIds": [
+        "comparer-changements"
+      ],
+      "questionIds": [
+        "c-revision-2026-08"
+      ],
+      "status": "reviewed",
+      "note": "Question originale adaptée à la révision reçue; réponse et distracteurs vérifiés."
+    },
+    {
+      "id": "notion-c-revision-2026-09",
+      "title": "Une goutte d’eau s’évapore; ailleurs, du bois brûle. Quelle comparaison est juste?",
+      "kind": "notion-ou-application",
+      "sourceRefs": [
+        {
+          "documentId": "revision-1-2",
+          "pages": "1–6"
+        },
+        {
+          "documentId": "diaporama-1-2",
+          "pages": "2–19"
+        }
+      ],
+      "lessonIds": [
+        "comparer-changements"
+      ],
+      "questionIds": [
+        "c-revision-2026-09"
+      ],
+      "status": "reviewed",
+      "note": "Question originale adaptée à la révision reçue; réponse et distracteurs vérifiés."
+    },
+    {
+      "id": "notion-c-revision-2026-10",
+      "title": "Pour expliquer scientifiquement la coagulation du lait après ajout de vinaigre, quelle réponse est la plus solide?",
+      "kind": "notion-ou-application",
+      "sourceRefs": [
+        {
+          "documentId": "revision-1-2",
+          "pages": "1–6"
+        },
+        {
+          "documentId": "diaporama-1-2",
+          "pages": "2–19"
+        }
+      ],
+      "lessonIds": [
+        "comparer-changements"
+      ],
+      "questionIds": [
+        "c-revision-2026-10"
+      ],
+      "status": "reviewed",
+      "note": "Question originale adaptée à la révision reçue; réponse et distracteurs vérifiés."
+    },
+    {
+      "id": "notion-c-revision-2026-11",
+      "title": "Deux liquides incolores donnent un solide jaune. Quelle réponse d’examen est complète?",
+      "kind": "notion-ou-application",
+      "sourceRefs": [
+        {
+          "documentId": "revision-1-2",
+          "pages": "1–6"
+        },
+        {
+          "documentId": "diaporama-1-2",
+          "pages": "2–19"
+        }
+      ],
+      "lessonIds": [
+        "comparer-changements"
+      ],
+      "questionIds": [
+        "c-revision-2026-11"
+      ],
+      "status": "reviewed",
+      "note": "Question originale adaptée à la révision reçue; réponse et distracteurs vérifiés."
+    },
+    {
+      "id": "notion-c-revision-2026-12",
+      "title": "Dans quel cas l’absence de changement visible ne suffit-elle pas à conclure?",
+      "kind": "notion-ou-application",
+      "sourceRefs": [
+        {
+          "documentId": "revision-1-2",
+          "pages": "1–6"
+        },
+        {
+          "documentId": "diaporama-1-2",
+          "pages": "2–19"
+        }
+      ],
+      "lessonIds": [
+        "comparer-changements"
+      ],
+      "questionIds": [
+        "c-revision-2026-12"
+      ],
+      "status": "reviewed",
+      "note": "Question originale adaptée à la révision reçue; réponse et distracteurs vérifiés."
+    },
+    {
+      "id": "notion-c-revision-2026-13",
+      "title": "Dans trois molécules de H₂O, combien y a-t-il d’atomes d’oxygène au total?",
+      "kind": "notion-ou-application",
+      "sourceRefs": [
+        {
+          "documentId": "revision-1-2",
+          "pages": "1–6"
+        },
+        {
+          "documentId": "diaporama-1-2",
+          "pages": "2–19"
+        }
+      ],
+      "lessonIds": [
+        "atomes-conservation"
+      ],
+      "questionIds": [
+        "c-revision-2026-13"
+      ],
+      "status": "reviewed",
+      "note": "Question originale adaptée à la révision reçue; réponse et distracteurs vérifiés."
+    },
+    {
+      "id": "notion-c-revision-2026-14",
+      "title": "Une molécule C₁₂H₂₂O₁₁ contient combien d’atomes au total?",
+      "kind": "notion-ou-application",
+      "sourceRefs": [
+        {
+          "documentId": "revision-1-2",
+          "pages": "1–6"
+        },
+        {
+          "documentId": "diaporama-1-2",
+          "pages": "2–19"
+        }
+      ],
+      "lessonIds": [
+        "atomes-conservation"
+      ],
+      "questionIds": [
+        "c-revision-2026-14"
+      ],
+      "status": "reviewed",
+      "note": "Question originale adaptée à la révision reçue; réponse et distracteurs vérifiés."
+    },
+    {
+      "id": "notion-c-revision-2026-15",
+      "title": "Quel est le nombre de sortes d’éléments dans NH₃?",
+      "kind": "notion-ou-application",
+      "sourceRefs": [
+        {
+          "documentId": "revision-1-2",
+          "pages": "1–6"
+        },
+        {
+          "documentId": "diaporama-1-2",
+          "pages": "2–19"
+        }
+      ],
+      "lessonIds": [
+        "atomes-conservation"
+      ],
+      "questionIds": [
+        "c-revision-2026-15"
+      ],
+      "status": "reviewed",
+      "note": "Question originale adaptée à la révision reçue; réponse et distracteurs vérifiés."
+    },
+    {
+      "id": "notion-c-revision-2026-16",
+      "title": "Une réaction transforme deux molécules AB en A₂ et B₂. Quelle affirmation est exacte?",
+      "kind": "notion-ou-application",
+      "sourceRefs": [
+        {
+          "documentId": "revision-1-2",
+          "pages": "1–6"
+        },
+        {
+          "documentId": "diaporama-1-2",
+          "pages": "2–19"
+        }
+      ],
+      "lessonIds": [
+        "atomes-conservation"
+      ],
+      "questionIds": [
+        "c-revision-2026-16"
+      ],
+      "status": "reviewed",
+      "note": "Question originale adaptée à la révision reçue; réponse et distracteurs vérifiés."
+    },
+    {
+      "id": "notion-c-revision-2026-17",
+      "title": "Quelle erreur commet-on en affirmant que deux molécules de CO₂ contiennent seulement trois atomes?",
+      "kind": "notion-ou-application",
+      "sourceRefs": [
+        {
+          "documentId": "revision-1-2",
+          "pages": "1–6"
+        },
+        {
+          "documentId": "diaporama-1-2",
+          "pages": "2–19"
+        }
+      ],
+      "lessonIds": [
+        "atomes-conservation"
+      ],
+      "questionIds": [
+        "c-revision-2026-17"
+      ],
+      "status": "reviewed",
+      "note": "Question originale adaptée à la révision reçue; réponse et distracteurs vérifiés."
     }
   ],
   "objectives": [
@@ -1549,6 +2493,122 @@
         "c-raisonnement-atome",
         "c-raisonnement-sulfate",
         "c-raisonnement-comparer"
+      ]
+    },
+    {
+      "id": "obj-changements-physiques",
+      "title": "Les changements physiques",
+      "sourceRefs": [
+        {
+          "documentId": "revision-1-2",
+          "pages": "1–6"
+        },
+        {
+          "documentId": "diaporama-1-2",
+          "pages": "2–19"
+        }
+      ],
+      "lessonIds": [
+        "changements-physiques"
+      ],
+      "questionIds": [
+        "s-revision-2026-01",
+        "s-revision-2026-02",
+        "s-revision-2026-03",
+        "i-revision-2026-01",
+        "i-revision-2026-02",
+        "i-revision-2026-03",
+        "c-revision-2026-01",
+        "c-revision-2026-02",
+        "c-revision-2026-03"
+      ]
+    },
+    {
+      "id": "obj-changements-chimiques",
+      "title": "Les changements chimiques",
+      "sourceRefs": [
+        {
+          "documentId": "revision-1-2",
+          "pages": "1–6"
+        },
+        {
+          "documentId": "diaporama-1-2",
+          "pages": "2–19"
+        }
+      ],
+      "lessonIds": [
+        "changements-chimiques"
+      ],
+      "questionIds": [
+        "s-revision-2026-04",
+        "s-revision-2026-05",
+        "s-revision-2026-06",
+        "i-revision-2026-04",
+        "i-revision-2026-05",
+        "i-revision-2026-06",
+        "i-revision-2026-07",
+        "c-revision-2026-04",
+        "c-revision-2026-05",
+        "c-revision-2026-06",
+        "c-revision-2026-07"
+      ]
+    },
+    {
+      "id": "obj-comparer-changements",
+      "title": "Reconnaître et expliquer un changement",
+      "sourceRefs": [
+        {
+          "documentId": "revision-1-2",
+          "pages": "1–6"
+        },
+        {
+          "documentId": "diaporama-1-2",
+          "pages": "2–19"
+        }
+      ],
+      "lessonIds": [
+        "comparer-changements"
+      ],
+      "questionIds": [
+        "s-revision-2026-07",
+        "s-revision-2026-08",
+        "i-revision-2026-08",
+        "i-revision-2026-09",
+        "i-revision-2026-10",
+        "c-revision-2026-08",
+        "c-revision-2026-09",
+        "c-revision-2026-10",
+        "c-revision-2026-11",
+        "c-revision-2026-12"
+      ]
+    },
+    {
+      "id": "obj-atomes-conservation",
+      "title": "Compter les atomes et conserver la matière",
+      "sourceRefs": [
+        {
+          "documentId": "revision-1-2",
+          "pages": "1–6"
+        },
+        {
+          "documentId": "diaporama-1-2",
+          "pages": "2–19"
+        }
+      ],
+      "lessonIds": [
+        "atomes-conservation"
+      ],
+      "questionIds": [
+        "s-revision-2026-09",
+        "s-revision-2026-10",
+        "i-revision-2026-11",
+        "i-revision-2026-12",
+        "i-revision-2026-13",
+        "c-revision-2026-13",
+        "c-revision-2026-14",
+        "c-revision-2026-15",
+        "c-revision-2026-16",
+        "c-revision-2026-17"
       ]
     }
   ],
@@ -1871,6 +2931,114 @@
       ],
       "more": "Dans les exercices à développer, tu peux préparer une réponse sur papier et l’expliquer à un adulte. Le bilan distingue ces exercices des réponses corrigées automatiquement.",
       "afterCoreResource": "repere-raisonner"
+    },
+    {
+      "id": "changements-physiques",
+      "title": "Les changements physiques",
+      "theme": "physique",
+      "reference": "Révision 2026",
+      "pages": "1–6",
+      "sourceRefs": [
+        {
+          "documentId": "revision-1-2",
+          "pages": "1–6"
+        },
+        {
+          "documentId": "diaporama-1-2",
+          "pages": "2–19"
+        }
+      ],
+      "core": "<b>Un changement physique modifie l’état, la forme ou le mélange d’une substance sans créer de nouvelle substance.</b> Les particules de départ restent les mêmes.",
+      "example": "Quand la glace fond, l’eau passe de l’état solide à l’état liquide : elle demeure de l’eau.",
+      "parts": [
+        {
+          "title": "À retenir",
+          "body": "<p>État : fondre, geler, évaporer. Forme : couper, déchirer, plier. Mélange : dissoudre du sucre dans l’eau ou séparer un mélange.</p>"
+        }
+      ],
+      "more": "Ne confonds pas « dissoudre » et « disparaître » : la substance dissoute est toujours présente.",
+      "afterCoreResource": "schema-particules"
+    },
+    {
+      "id": "changements-chimiques",
+      "title": "Les changements chimiques",
+      "theme": "chimique",
+      "reference": "Révision 2026",
+      "pages": "1–6",
+      "sourceRefs": [
+        {
+          "documentId": "revision-1-2",
+          "pages": "1–6"
+        },
+        {
+          "documentId": "diaporama-1-2",
+          "pages": "2–19"
+        }
+      ],
+      "core": "<b>Un changement chimique transforme les substances de départ en nouvelles substances.</b> Les atomes sont conservés, mais ils peuvent se réorganiser pour former de nouvelles molécules.",
+      "example": "La combustion du bois produit notamment des gaz et libère de la chaleur et de la lumière. La rouille résulte aussi d’un changement chimique.",
+      "parts": [
+        {
+          "title": "À retenir",
+          "body": "<p>Indices possibles : dégagement d’un gaz, formation d’un solide (précipité), changement de couleur, variation de température et émission de lumière. Un indice isolé ne suffit pas toujours : cherche la formation d’une nouvelle substance.</p>"
+        }
+      ],
+      "more": "Une variation de température ou un changement de couleur peut aussi accompagner un phénomène physique. Appuie ta conclusion sur le contexte.",
+      "afterCoreResource": "schema-indices"
+    },
+    {
+      "id": "comparer-changements",
+      "title": "Reconnaître et expliquer un changement",
+      "theme": "comparaison",
+      "reference": "Révision 2026",
+      "pages": "1–6",
+      "sourceRefs": [
+        {
+          "documentId": "revision-1-2",
+          "pages": "1–6"
+        },
+        {
+          "documentId": "diaporama-1-2",
+          "pages": "2–19"
+        }
+      ],
+      "core": "<b>Pour classer une situation, demande-toi si la matière garde sa composition ou si de nouvelles substances se forment.</b> Nomme ensuite le type de changement et donne un fait observable qui justifie ton choix.",
+      "example": "Couper une pomme : changement physique de forme. Une pomme qui brunit avec le temps : changement chimique lié à une transformation de sa matière.",
+      "parts": [
+        {
+          "title": "À retenir",
+          "body": "<p>Une même scène peut comporter plusieurs phénomènes. Par exemple, couper du bois modifie sa forme; le brûler forme de nouvelles substances.</p>"
+        }
+      ],
+      "more": "Réponse d’examen : « C’est un changement ___ parce que ___. »",
+      "afterCoreResource": "schema-particules"
+    },
+    {
+      "id": "atomes-conservation",
+      "title": "Compter les atomes et conserver la matière",
+      "theme": "conservation",
+      "reference": "Révision 2026",
+      "pages": "1–6",
+      "sourceRefs": [
+        {
+          "documentId": "revision-1-2",
+          "pages": "1–6"
+        },
+        {
+          "documentId": "diaporama-1-2",
+          "pages": "2–19"
+        }
+      ],
+      "core": "<b>Dans une transformation, les atomes ne sont ni créés ni détruits : leur nombre est conservé pour chaque élément.</b> Les molécules peuvent toutefois changer lors d’une réaction chimique.",
+      "example": "Deux molécules H₂ et une molécule O₂ contiennent quatre atomes H et deux atomes O. Elles peuvent former deux molécules H₂O, qui contiennent exactement ces mêmes atomes.",
+      "parts": [
+        {
+          "title": "À retenir",
+          "body": "<p>Dans une formule, l’indice donne le nombre d’atomes qui le précèdent; sans indice, il y en a un. Un coefficient devant la formule multiplie tous ses atomes.</p>"
+        }
+      ],
+      "more": "Pour vérifier une équation, compte séparément les atomes de chaque élément avant et après. La question 14 du document imprimable est exclue, mais le principe de conservation est présent dans la révision.",
+      "afterCoreResource": "schema-particules"
     }
   ],
   "questions": [
@@ -6553,6 +7721,1686 @@
       "responseType": "choice",
       "feedbackResource": "corr-c-raisonnement-comparer",
       "fingerprint": "21b0ce957b96c911b9e701ec8aef6a0a4d8f68de2c389bde6b9cb8b445c42b43"
+    },
+    {
+      "id": "s-revision-2026-01",
+      "lessonId": "changements-physiques",
+      "objectiveIds": [
+        "obj-changements-physiques"
+      ],
+      "inventoryIds": [
+        "notion-s-revision-2026-01"
+      ],
+      "sourceRefs": [
+        {
+          "documentId": "revision-1-2",
+          "pages": "1–6"
+        },
+        {
+          "documentId": "diaporama-1-2",
+          "pages": "2–19"
+        }
+      ],
+      "t": "physique",
+      "q": "Lequel est un changement physique?",
+      "writtenPrompt": "Lequel est un changement physique?",
+      "o": [
+        "Une glace qui fond",
+        "Une bûche qui brûle",
+        "Du cuivre qui rouille",
+        "Du lait qui caille"
+      ],
+      "a": 0,
+      "accepted": [
+        "Une glace qui fond"
+      ],
+      "e": "La glace change d’état, mais demeure de l’eau.",
+      "hint": "Décide d’abord si une nouvelle substance apparaît, puis vérifie chaque choix.",
+      "tutorial": "La glace change d’état, mais demeure de l’eau. Repère dans l’énoncé l’indice ou la formule qui justifie ce choix.",
+      "grading": {
+        "type": "aliases"
+      },
+      "responseType": "choice",
+      "feedbackResource": "corr-s-revision-2026-01",
+      "fingerprint": "c8bd274af35e2a30a9277a31c7c3da8bb5bc8cc29adc51845cda4cf5001049f0"
+    },
+    {
+      "id": "s-revision-2026-02",
+      "lessonId": "changements-physiques",
+      "objectiveIds": [
+        "obj-changements-physiques"
+      ],
+      "inventoryIds": [
+        "notion-s-revision-2026-02"
+      ],
+      "sourceRefs": [
+        {
+          "documentId": "revision-1-2",
+          "pages": "1–6"
+        },
+        {
+          "documentId": "diaporama-1-2",
+          "pages": "2–19"
+        }
+      ],
+      "t": "physique",
+      "q": "Quand on déchire une feuille, qu’est-ce qui change principalement?",
+      "writtenPrompt": "Quand on déchire une feuille, qu’est-ce qui change principalement?",
+      "o": [
+        "Sa composition",
+        "Sa forme",
+        "Son élément chimique",
+        "Le nombre de ses atomes"
+      ],
+      "a": 1,
+      "accepted": [
+        "Sa forme"
+      ],
+      "e": "Déchirer modifie la forme; le papier reste du papier.",
+      "hint": "Décide d’abord si une nouvelle substance apparaît, puis vérifie chaque choix.",
+      "tutorial": "Déchirer modifie la forme; le papier reste du papier. Repère dans l’énoncé l’indice ou la formule qui justifie ce choix.",
+      "grading": {
+        "type": "aliases"
+      },
+      "responseType": "choice",
+      "feedbackResource": "corr-s-revision-2026-02",
+      "fingerprint": "de412e88b2b518153561f1935aec9acf5778004ea4f051e8e89adc83bed8067f"
+    },
+    {
+      "id": "s-revision-2026-03",
+      "lessonId": "changements-physiques",
+      "objectiveIds": [
+        "obj-changements-physiques"
+      ],
+      "inventoryIds": [
+        "notion-s-revision-2026-03"
+      ],
+      "sourceRefs": [
+        {
+          "documentId": "revision-1-2",
+          "pages": "1–6"
+        },
+        {
+          "documentId": "diaporama-1-2",
+          "pages": "2–19"
+        }
+      ],
+      "t": "physique",
+      "q": "Du sel est dissous dans l’eau. Quel type de changement est principalement illustré?",
+      "writtenPrompt": "Du sel est dissous dans l’eau. Quel type de changement est principalement illustré?",
+      "o": [
+        "Une combustion",
+        "Une précipitation",
+        "La préparation d’un mélange",
+        "Une oxydation"
+      ],
+      "a": 2,
+      "accepted": [
+        "La préparation d’un mélange"
+      ],
+      "e": "Le sel reste présent dans le mélange; aucune nouvelle substance n’est nécessairement formée.",
+      "hint": "Décide d’abord si une nouvelle substance apparaît, puis vérifie chaque choix.",
+      "tutorial": "Le sel reste présent dans le mélange; aucune nouvelle substance n’est nécessairement formée. Repère dans l’énoncé l’indice ou la formule qui justifie ce choix.",
+      "grading": {
+        "type": "aliases"
+      },
+      "responseType": "choice",
+      "feedbackResource": "corr-s-revision-2026-03",
+      "fingerprint": "a4db6d1ae8e68f3d00df075f7672e2dd157e1a0f5daffb94148f46f7689c34f5"
+    },
+    {
+      "id": "s-revision-2026-04",
+      "lessonId": "changements-chimiques",
+      "objectiveIds": [
+        "obj-changements-chimiques"
+      ],
+      "inventoryIds": [
+        "notion-s-revision-2026-04"
+      ],
+      "sourceRefs": [
+        {
+          "documentId": "revision-1-2",
+          "pages": "1–6"
+        },
+        {
+          "documentId": "diaporama-1-2",
+          "pages": "2–19"
+        }
+      ],
+      "t": "chimique",
+      "q": "Quel événement indique le plus clairement qu’une nouvelle substance s’est formée?",
+      "writtenPrompt": "Quel événement indique le plus clairement qu’une nouvelle substance s’est formée?",
+      "o": [
+        "Une feuille coupée",
+        "Un glaçon fondu",
+        "Un clou qui rouille",
+        "Une pâte aplatie"
+      ],
+      "a": 2,
+      "accepted": [
+        "Un clou qui rouille"
+      ],
+      "e": "La rouille est une nouvelle substance produite par une réaction chimique.",
+      "hint": "Décide d’abord si une nouvelle substance apparaît, puis vérifie chaque choix.",
+      "tutorial": "La rouille est une nouvelle substance produite par une réaction chimique. Repère dans l’énoncé l’indice ou la formule qui justifie ce choix.",
+      "grading": {
+        "type": "aliases"
+      },
+      "responseType": "choice",
+      "feedbackResource": "corr-s-revision-2026-04",
+      "fingerprint": "f1019c3e0ddf011a18c01c698f18fe7058941cb6720390dc8171c02830ee73e1"
+    },
+    {
+      "id": "s-revision-2026-05",
+      "lessonId": "changements-chimiques",
+      "objectiveIds": [
+        "obj-changements-chimiques"
+      ],
+      "inventoryIds": [
+        "notion-s-revision-2026-05"
+      ],
+      "sourceRefs": [
+        {
+          "documentId": "revision-1-2",
+          "pages": "1–6"
+        },
+        {
+          "documentId": "diaporama-1-2",
+          "pages": "2–19"
+        }
+      ],
+      "t": "chimique",
+      "q": "Deux liquides incolores forment un solide jaune quand on les mélange. Quel indice observe-t-on?",
+      "writtenPrompt": "Deux liquides incolores forment un solide jaune quand on les mélange. Quel indice observe-t-on?",
+      "o": [
+        "La formation d’un précipité",
+        "Un changement de forme",
+        "Une évaporation",
+        "Une simple dissolution"
+      ],
+      "a": 0,
+      "accepted": [
+        "La formation d’un précipité"
+      ],
+      "e": "Le solide qui apparaît est un précipité, indice d’une transformation chimique.",
+      "hint": "Décide d’abord si une nouvelle substance apparaît, puis vérifie chaque choix.",
+      "tutorial": "Le solide qui apparaît est un précipité, indice d’une transformation chimique. Repère dans l’énoncé l’indice ou la formule qui justifie ce choix.",
+      "grading": {
+        "type": "aliases"
+      },
+      "responseType": "choice",
+      "feedbackResource": "corr-s-revision-2026-05",
+      "fingerprint": "71eb6dbbafa4ae430feadfaffc3d162fda99eee81ecbf5a60c855c1e56dabc7d"
+    },
+    {
+      "id": "s-revision-2026-06",
+      "lessonId": "changements-chimiques",
+      "objectiveIds": [
+        "obj-changements-chimiques"
+      ],
+      "inventoryIds": [
+        "notion-s-revision-2026-06"
+      ],
+      "sourceRefs": [
+        {
+          "documentId": "revision-1-2",
+          "pages": "1–6"
+        },
+        {
+          "documentId": "diaporama-1-2",
+          "pages": "2–19"
+        }
+      ],
+      "t": "chimique",
+      "q": "Quels sont les produits principaux d’une combustion du bois observables dans l’exercice?",
+      "writtenPrompt": "Quels sont les produits principaux d’une combustion du bois observables dans l’exercice?",
+      "o": [
+        "Une nouvelle forme et de la glace",
+        "De la chaleur, de la lumière et des gaz",
+        "Seulement une couleur différente",
+        "Un mélange sans nouvelle substance"
+      ],
+      "a": 1,
+      "accepted": [
+        "De la chaleur, de la lumière et des gaz"
+      ],
+      "e": "La combustion libère de la chaleur et de la lumière et forme de nouvelles substances, notamment des gaz.",
+      "hint": "Décide d’abord si une nouvelle substance apparaît, puis vérifie chaque choix.",
+      "tutorial": "La combustion libère de la chaleur et de la lumière et forme de nouvelles substances, notamment des gaz. Repère dans l’énoncé l’indice ou la formule qui justifie ce choix.",
+      "grading": {
+        "type": "aliases"
+      },
+      "responseType": "choice",
+      "feedbackResource": "corr-s-revision-2026-06",
+      "fingerprint": "84341669b4f4b68b7bc1d91fe660d075576d2c359ef0b3f0674be83665fa3c21"
+    },
+    {
+      "id": "s-revision-2026-07",
+      "lessonId": "comparer-changements",
+      "objectiveIds": [
+        "obj-comparer-changements"
+      ],
+      "inventoryIds": [
+        "notion-s-revision-2026-07"
+      ],
+      "sourceRefs": [
+        {
+          "documentId": "revision-1-2",
+          "pages": "1–6"
+        },
+        {
+          "documentId": "diaporama-1-2",
+          "pages": "2–19"
+        }
+      ],
+      "t": "comparaison",
+      "q": "Une pomme est coupée en morceaux. Quelle justification est correcte?",
+      "writtenPrompt": "Une pomme est coupée en morceaux. Quelle justification est correcte?",
+      "o": [
+        "Chimique : une nouvelle substance apparaît",
+        "Physique : sa forme change",
+        "Chimique : la masse disparaît",
+        "Physique : ses atomes changent d’élément"
+      ],
+      "a": 1,
+      "accepted": [
+        "Physique : sa forme change"
+      ],
+      "e": "La coupe modifie la forme de la pomme.",
+      "hint": "Décide d’abord si une nouvelle substance apparaît, puis vérifie chaque choix.",
+      "tutorial": "La coupe modifie la forme de la pomme. Repère dans l’énoncé l’indice ou la formule qui justifie ce choix.",
+      "grading": {
+        "type": "aliases"
+      },
+      "responseType": "choice",
+      "feedbackResource": "corr-s-revision-2026-07",
+      "fingerprint": "26734b00580f66e04853145bb5cc69f2d2c25ebc7d109387469338cea0eac621"
+    },
+    {
+      "id": "s-revision-2026-08",
+      "lessonId": "comparer-changements",
+      "objectiveIds": [
+        "obj-comparer-changements"
+      ],
+      "inventoryIds": [
+        "notion-s-revision-2026-08"
+      ],
+      "sourceRefs": [
+        {
+          "documentId": "revision-1-2",
+          "pages": "1–6"
+        },
+        {
+          "documentId": "diaporama-1-2",
+          "pages": "2–19"
+        }
+      ],
+      "t": "comparaison",
+      "q": "Quelle question aide le mieux à distinguer un changement chimique d’un changement physique?",
+      "writtenPrompt": "Quelle question aide le mieux à distinguer un changement chimique d’un changement physique?",
+      "o": [
+        "La substance est-elle encore la même?",
+        "L’objet est-il plus petit?",
+        "Le changement est-il visible?",
+        "A-t-on utilisé un outil?"
+      ],
+      "a": 0,
+      "accepted": [
+        "La substance est-elle encore la même?"
+      ],
+      "e": "Le critère décisif est la formation, ou non, de nouvelles substances.",
+      "hint": "Décide d’abord si une nouvelle substance apparaît, puis vérifie chaque choix.",
+      "tutorial": "Le critère décisif est la formation, ou non, de nouvelles substances. Repère dans l’énoncé l’indice ou la formule qui justifie ce choix.",
+      "grading": {
+        "type": "aliases"
+      },
+      "responseType": "choice",
+      "feedbackResource": "corr-s-revision-2026-08",
+      "fingerprint": "d133cfb77c89eca15c003b9f8aa8ceb4ce4498f639c563aeeba20914af42578a"
+    },
+    {
+      "id": "s-revision-2026-09",
+      "lessonId": "atomes-conservation",
+      "objectiveIds": [
+        "obj-atomes-conservation"
+      ],
+      "inventoryIds": [
+        "notion-s-revision-2026-09"
+      ],
+      "sourceRefs": [
+        {
+          "documentId": "revision-1-2",
+          "pages": "1–6"
+        },
+        {
+          "documentId": "diaporama-1-2",
+          "pages": "2–19"
+        }
+      ],
+      "t": "conservation",
+      "q": "Combien d’atomes y a-t-il dans une molécule de CO₂?",
+      "writtenPrompt": "Combien d’atomes y a-t-il dans une molécule de CO₂?",
+      "o": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "a": 1,
+      "accepted": [
+        "3"
+      ],
+      "e": "Un atome de carbone et deux atomes d’oxygène donnent trois atomes.",
+      "hint": "Décide d’abord si une nouvelle substance apparaît, puis vérifie chaque choix.",
+      "tutorial": "Un atome de carbone et deux atomes d’oxygène donnent trois atomes. Repère dans l’énoncé l’indice ou la formule qui justifie ce choix.",
+      "grading": {
+        "type": "aliases"
+      },
+      "responseType": "choice",
+      "feedbackResource": "corr-s-revision-2026-09",
+      "fingerprint": "99969f22185b6abe386db18643d557a60ce62099fc77caf544fe42ff20f020df"
+    },
+    {
+      "id": "s-revision-2026-10",
+      "lessonId": "atomes-conservation",
+      "objectiveIds": [
+        "obj-atomes-conservation"
+      ],
+      "inventoryIds": [
+        "notion-s-revision-2026-10"
+      ],
+      "sourceRefs": [
+        {
+          "documentId": "revision-1-2",
+          "pages": "1–6"
+        },
+        {
+          "documentId": "diaporama-1-2",
+          "pages": "2–19"
+        }
+      ],
+      "t": "conservation",
+      "q": "Pendant une réaction chimique, que devient le nombre total d’atomes de chaque élément?",
+      "writtenPrompt": "Pendant une réaction chimique, que devient le nombre total d’atomes de chaque élément?",
+      "o": [
+        "Il double toujours",
+        "Il est conservé",
+        "Il devient nul",
+        "Il diminue toujours"
+      ],
+      "a": 1,
+      "accepted": [
+        "Il est conservé"
+      ],
+      "e": "Les atomes se réorganisent sans être créés ni détruits.",
+      "hint": "Décide d’abord si une nouvelle substance apparaît, puis vérifie chaque choix.",
+      "tutorial": "Les atomes se réorganisent sans être créés ni détruits. Repère dans l’énoncé l’indice ou la formule qui justifie ce choix.",
+      "grading": {
+        "type": "aliases"
+      },
+      "responseType": "choice",
+      "feedbackResource": "corr-s-revision-2026-10",
+      "fingerprint": "9cbb1ddfb0f40d0687dc832b7ea265852aaa896b56d056d4827174506d7f9616"
+    },
+    {
+      "id": "i-revision-2026-01",
+      "lessonId": "changements-physiques",
+      "objectiveIds": [
+        "obj-changements-physiques"
+      ],
+      "inventoryIds": [
+        "notion-i-revision-2026-01"
+      ],
+      "sourceRefs": [
+        {
+          "documentId": "revision-1-2",
+          "pages": "1–6"
+        },
+        {
+          "documentId": "diaporama-1-2",
+          "pages": "2–19"
+        }
+      ],
+      "t": "physique",
+      "q": "Une automobile est redressée après un choc. Pourquoi est-ce un changement physique?",
+      "writtenPrompt": "Une automobile est redressée après un choc. Pourquoi est-ce un changement physique?",
+      "o": [
+        "Sa forme change sans former une autre substance",
+        "De l’oxygène disparaît",
+        "Le métal devient un nouvel élément",
+        "Une réaction produit un gaz"
+      ],
+      "a": 0,
+      "accepted": [
+        "Sa forme change sans former une autre substance"
+      ],
+      "e": "Le débosselage modifie la forme du métal sans changer sa composition.",
+      "hint": "Décide d’abord si une nouvelle substance apparaît, puis vérifie chaque choix.",
+      "tutorial": "Le débosselage modifie la forme du métal sans changer sa composition. Repère dans l’énoncé l’indice ou la formule qui justifie ce choix.",
+      "grading": {
+        "type": "aliases"
+      },
+      "responseType": "choice",
+      "feedbackResource": "corr-i-revision-2026-01",
+      "fingerprint": "92018a3df799ded94b40793cba3f695560c9c007e66fff335b448453cdff56ad"
+    },
+    {
+      "id": "i-revision-2026-02",
+      "lessonId": "changements-physiques",
+      "objectiveIds": [
+        "obj-changements-physiques"
+      ],
+      "inventoryIds": [
+        "notion-i-revision-2026-02"
+      ],
+      "sourceRefs": [
+        {
+          "documentId": "revision-1-2",
+          "pages": "1–6"
+        },
+        {
+          "documentId": "diaporama-1-2",
+          "pages": "2–19"
+        }
+      ],
+      "t": "physique",
+      "q": "On sépare du sable d’un mélange avec de l’eau. Quelle affirmation est correcte?",
+      "writtenPrompt": "On sépare du sable d’un mélange avec de l’eau. Quelle affirmation est correcte?",
+      "o": [
+        "C’est un changement chimique car l’eau s’évapore",
+        "C’est un changement physique : les substances sont séparées",
+        "Les atomes du sable sont détruits",
+        "Le sable devient un nouveau composé"
+      ],
+      "a": 1,
+      "accepted": [
+        "C’est un changement physique : les substances sont séparées"
+      ],
+      "e": "La séparation d’un mélange ne crée pas de nouvelle substance.",
+      "hint": "Décide d’abord si une nouvelle substance apparaît, puis vérifie chaque choix.",
+      "tutorial": "La séparation d’un mélange ne crée pas de nouvelle substance. Repère dans l’énoncé l’indice ou la formule qui justifie ce choix.",
+      "grading": {
+        "type": "aliases"
+      },
+      "responseType": "choice",
+      "feedbackResource": "corr-i-revision-2026-02",
+      "fingerprint": "814b25d1f30cc827694c7e4b2d99a06500cb8f660c89ae8d8850021d0b54602f"
+    },
+    {
+      "id": "i-revision-2026-03",
+      "lessonId": "changements-physiques",
+      "objectiveIds": [
+        "obj-changements-physiques"
+      ],
+      "inventoryIds": [
+        "notion-i-revision-2026-03"
+      ],
+      "sourceRefs": [
+        {
+          "documentId": "revision-1-2",
+          "pages": "1–6"
+        },
+        {
+          "documentId": "diaporama-1-2",
+          "pages": "2–19"
+        }
+      ],
+      "t": "physique",
+      "q": "Quel ensemble contient uniquement des exemples de changements physiques?",
+      "writtenPrompt": "Quel ensemble contient uniquement des exemples de changements physiques?",
+      "o": [
+        "Fonte, déchirure, dissolution",
+        "Rouille, combustion, déchirure",
+        "Combustion, fonte, cuisson",
+        "Précipité, rouille, mélange"
+      ],
+      "a": 0,
+      "accepted": [
+        "Fonte, déchirure, dissolution"
+      ],
+      "e": "Fonte, déchirure et dissolution sont ici des changements d’état, de forme et de mélange.",
+      "hint": "Décide d’abord si une nouvelle substance apparaît, puis vérifie chaque choix.",
+      "tutorial": "Fonte, déchirure et dissolution sont ici des changements d’état, de forme et de mélange. Repère dans l’énoncé l’indice ou la formule qui justifie ce choix.",
+      "grading": {
+        "type": "aliases"
+      },
+      "responseType": "choice",
+      "feedbackResource": "corr-i-revision-2026-03",
+      "fingerprint": "19cc22c771adfe38850db71867a94f1284f239fbd87bdc0db95be001d6e5828d"
+    },
+    {
+      "id": "i-revision-2026-04",
+      "lessonId": "changements-chimiques",
+      "objectiveIds": [
+        "obj-changements-chimiques"
+      ],
+      "inventoryIds": [
+        "notion-i-revision-2026-04"
+      ],
+      "sourceRefs": [
+        {
+          "documentId": "revision-1-2",
+          "pages": "1–6"
+        },
+        {
+          "documentId": "diaporama-1-2",
+          "pages": "2–19"
+        }
+      ],
+      "t": "chimique",
+      "q": "Le vinaigre réagit avec le bicarbonate : des bulles apparaissent et le récipient se réchauffe. Quels indices sont présents?",
+      "writtenPrompt": "Le vinaigre réagit avec le bicarbonate : des bulles apparaissent et le récipient se réchauffe. Quels indices sont présents?",
+      "o": [
+        "Gaz et variation de température",
+        "Fusion et changement de forme",
+        "Précipité et évaporation",
+        "Dissolution seulement"
+      ],
+      "a": 0,
+      "accepted": [
+        "Gaz et variation de température"
+      ],
+      "e": "Le dégagement gazeux et le réchauffement sont deux indices.",
+      "hint": "Décide d’abord si une nouvelle substance apparaît, puis vérifie chaque choix.",
+      "tutorial": "Le dégagement gazeux et le réchauffement sont deux indices. Repère dans l’énoncé l’indice ou la formule qui justifie ce choix.",
+      "grading": {
+        "type": "aliases"
+      },
+      "responseType": "choice",
+      "feedbackResource": "corr-i-revision-2026-04",
+      "fingerprint": "213dc55cfc466dc37cb6c418df523a14feb32a0f290dedb92428873a7c55706b"
+    },
+    {
+      "id": "i-revision-2026-05",
+      "lessonId": "changements-chimiques",
+      "objectiveIds": [
+        "obj-changements-chimiques"
+      ],
+      "inventoryIds": [
+        "notion-i-revision-2026-05"
+      ],
+      "sourceRefs": [
+        {
+          "documentId": "revision-1-2",
+          "pages": "1–6"
+        },
+        {
+          "documentId": "diaporama-1-2",
+          "pages": "2–19"
+        }
+      ],
+      "t": "chimique",
+      "q": "Quel phénomène crée une nouvelle substance?",
+      "writtenPrompt": "Quel phénomène crée une nouvelle substance?",
+      "o": [
+        "Former des glaçons",
+        "Couper une branche",
+        "Faire rouiller du fer",
+        "Mélanger du sable et du sel"
+      ],
+      "a": 2,
+      "accepted": [
+        "Faire rouiller du fer"
+      ],
+      "e": "La rouille résulte d’une réaction du fer avec son environnement.",
+      "hint": "Décide d’abord si une nouvelle substance apparaît, puis vérifie chaque choix.",
+      "tutorial": "La rouille résulte d’une réaction du fer avec son environnement. Repère dans l’énoncé l’indice ou la formule qui justifie ce choix.",
+      "grading": {
+        "type": "aliases"
+      },
+      "responseType": "choice",
+      "feedbackResource": "corr-i-revision-2026-05",
+      "fingerprint": "53abb33cc1827878a38079ed5b26d62e494a8d5988288e2106c4be17ba971982"
+    },
+    {
+      "id": "i-revision-2026-06",
+      "lessonId": "changements-chimiques",
+      "objectiveIds": [
+        "obj-changements-chimiques"
+      ],
+      "inventoryIds": [
+        "notion-i-revision-2026-06"
+      ],
+      "sourceRefs": [
+        {
+          "documentId": "revision-1-2",
+          "pages": "1–6"
+        },
+        {
+          "documentId": "diaporama-1-2",
+          "pages": "2–19"
+        }
+      ],
+      "t": "chimique",
+      "q": "Un liquide devient plus chaud pendant un mélange. Pourquoi ne faut-il pas conclure immédiatement à un changement chimique?",
+      "writtenPrompt": "Un liquide devient plus chaud pendant un mélange. Pourquoi ne faut-il pas conclure immédiatement à un changement chimique?",
+      "o": [
+        "La température ne peut jamais changer",
+        "Un indice seul ne prouve pas la formation d’une nouvelle substance",
+        "La chaleur détruit toujours les atomes",
+        "Un mélange est toujours chimique"
+      ],
+      "a": 1,
+      "accepted": [
+        "Un indice seul ne prouve pas la formation d’une nouvelle substance"
+      ],
+      "e": "Il faut considérer le contexte et vérifier la formation d’une nouvelle substance.",
+      "hint": "Décide d’abord si une nouvelle substance apparaît, puis vérifie chaque choix.",
+      "tutorial": "Il faut considérer le contexte et vérifier la formation d’une nouvelle substance. Repère dans l’énoncé l’indice ou la formule qui justifie ce choix.",
+      "grading": {
+        "type": "aliases"
+      },
+      "responseType": "choice",
+      "feedbackResource": "corr-i-revision-2026-06",
+      "fingerprint": "3f022ffb3dea3f75cc644d3ee216cd34c7024c8d760a6965fa719ddf09903617"
+    },
+    {
+      "id": "i-revision-2026-07",
+      "lessonId": "changements-chimiques",
+      "objectiveIds": [
+        "obj-changements-chimiques"
+      ],
+      "inventoryIds": [
+        "notion-i-revision-2026-07"
+      ],
+      "sourceRefs": [
+        {
+          "documentId": "revision-1-2",
+          "pages": "1–6"
+        },
+        {
+          "documentId": "diaporama-1-2",
+          "pages": "2–19"
+        }
+      ],
+      "t": "chimique",
+      "q": "Une bûche brûle. Laquelle de ces réponses explique le mieux le changement?",
+      "writtenPrompt": "Une bûche brûle. Laquelle de ces réponses explique le mieux le changement?",
+      "o": [
+        "Le bois change seulement de forme",
+        "Les molécules de départ se réorganisent en nouvelles substances",
+        "Tous les atomes sont détruits",
+        "La chaleur transforme le bois en glace"
+      ],
+      "a": 1,
+      "accepted": [
+        "Les molécules de départ se réorganisent en nouvelles substances"
+      ],
+      "e": "Une combustion est une réaction chimique : de nouvelles substances sont produites.",
+      "hint": "Décide d’abord si une nouvelle substance apparaît, puis vérifie chaque choix.",
+      "tutorial": "Une combustion est une réaction chimique : de nouvelles substances sont produites. Repère dans l’énoncé l’indice ou la formule qui justifie ce choix.",
+      "grading": {
+        "type": "aliases"
+      },
+      "responseType": "choice",
+      "feedbackResource": "corr-i-revision-2026-07",
+      "fingerprint": "c1e08e58f6eb853e46bf299a6dcc7e677732243e263b03f40a360df22ffb2821"
+    },
+    {
+      "id": "i-revision-2026-08",
+      "lessonId": "comparer-changements",
+      "objectiveIds": [
+        "obj-comparer-changements"
+      ],
+      "inventoryIds": [
+        "notion-i-revision-2026-08"
+      ],
+      "sourceRefs": [
+        {
+          "documentId": "revision-1-2",
+          "pages": "1–6"
+        },
+        {
+          "documentId": "diaporama-1-2",
+          "pages": "2–19"
+        }
+      ],
+      "t": "comparaison",
+      "q": "Une carotte est coupée puis laissée au four jusqu’à ce qu’elle brunisse. Quel ordre décrit ces étapes?",
+      "writtenPrompt": "Une carotte est coupée puis laissée au four jusqu’à ce qu’elle brunisse. Quel ordre décrit ces étapes?",
+      "o": [
+        "Physique puis chimique",
+        "Chimique puis physique",
+        "Deux changements physiques",
+        "Deux changements chimiques"
+      ],
+      "a": 0,
+      "accepted": [
+        "Physique puis chimique"
+      ],
+      "e": "Couper change la forme; brunir à la cuisson implique une transformation chimique.",
+      "hint": "Décide d’abord si une nouvelle substance apparaît, puis vérifie chaque choix.",
+      "tutorial": "Couper change la forme; brunir à la cuisson implique une transformation chimique. Repère dans l’énoncé l’indice ou la formule qui justifie ce choix.",
+      "grading": {
+        "type": "aliases"
+      },
+      "responseType": "choice",
+      "feedbackResource": "corr-i-revision-2026-08",
+      "fingerprint": "92edf4d036ca0394cc7587b33671fe2f9084787ee16fafd6d91e63adfc1a4cbe"
+    },
+    {
+      "id": "i-revision-2026-09",
+      "lessonId": "comparer-changements",
+      "objectiveIds": [
+        "obj-comparer-changements"
+      ],
+      "inventoryIds": [
+        "notion-i-revision-2026-09"
+      ],
+      "sourceRefs": [
+        {
+          "documentId": "revision-1-2",
+          "pages": "1–6"
+        },
+        {
+          "documentId": "diaporama-1-2",
+          "pages": "2–19"
+        }
+      ],
+      "t": "comparaison",
+      "q": "On dilue du sirop dans l’eau. Quelle réponse est la mieux justifiée?",
+      "writtenPrompt": "On dilue du sirop dans l’eau. Quelle réponse est la mieux justifiée?",
+      "o": [
+        "Chimique : les molécules cessent d’exister",
+        "Physique : on prépare un mélange",
+        "Chimique : le volume augmente",
+        "Physique : l’eau devient un autre élément"
+      ],
+      "a": 1,
+      "accepted": [
+        "Physique : on prépare un mélange"
+      ],
+      "e": "La dilution prépare un mélange; les substances ne sont pas nécessairement transformées.",
+      "hint": "Décide d’abord si une nouvelle substance apparaît, puis vérifie chaque choix.",
+      "tutorial": "La dilution prépare un mélange; les substances ne sont pas nécessairement transformées. Repère dans l’énoncé l’indice ou la formule qui justifie ce choix.",
+      "grading": {
+        "type": "aliases"
+      },
+      "responseType": "choice",
+      "feedbackResource": "corr-i-revision-2026-09",
+      "fingerprint": "de852009c93114356912f59b749bb1287a160db1714527dfb8f978bc6ed1dd1c"
+    },
+    {
+      "id": "i-revision-2026-10",
+      "lessonId": "comparer-changements",
+      "objectiveIds": [
+        "obj-comparer-changements"
+      ],
+      "inventoryIds": [
+        "notion-i-revision-2026-10"
+      ],
+      "sourceRefs": [
+        {
+          "documentId": "revision-1-2",
+          "pages": "1–6"
+        },
+        {
+          "documentId": "diaporama-1-2",
+          "pages": "2–19"
+        }
+      ],
+      "t": "comparaison",
+      "q": "Quelle réponse donne à la fois le type de changement et une justification scientifique pour une glace qui fond?",
+      "writtenPrompt": "Quelle réponse donne à la fois le type de changement et une justification scientifique pour une glace qui fond?",
+      "o": [
+        "Chimique, car elle devient liquide",
+        "Physique, car H₂O reste H₂O malgré le changement d’état",
+        "Chimique, car les atomes se séparent",
+        "Physique, car aucune énergie n’est échangée"
+      ],
+      "a": 1,
+      "accepted": [
+        "Physique, car H₂O reste H₂O malgré le changement d’état"
+      ],
+      "e": "Un changement d’état conserve la nature de la substance.",
+      "hint": "Décide d’abord si une nouvelle substance apparaît, puis vérifie chaque choix.",
+      "tutorial": "Un changement d’état conserve la nature de la substance. Repère dans l’énoncé l’indice ou la formule qui justifie ce choix.",
+      "grading": {
+        "type": "aliases"
+      },
+      "responseType": "choice",
+      "feedbackResource": "corr-i-revision-2026-10",
+      "fingerprint": "77283a0fe17cabde9b8982652175a0d62ec544463ab82045c57e3bd1d31e5736"
+    },
+    {
+      "id": "i-revision-2026-11",
+      "lessonId": "atomes-conservation",
+      "objectiveIds": [
+        "obj-atomes-conservation"
+      ],
+      "inventoryIds": [
+        "notion-i-revision-2026-11"
+      ],
+      "sourceRefs": [
+        {
+          "documentId": "revision-1-2",
+          "pages": "1–6"
+        },
+        {
+          "documentId": "diaporama-1-2",
+          "pages": "2–19"
+        }
+      ],
+      "t": "conservation",
+      "q": "Combien d’atomes compte C₂H₆?",
+      "writtenPrompt": "Combien d’atomes compte C₂H₆?",
+      "o": [
+        "2",
+        "6",
+        "8",
+        "12"
+      ],
+      "a": 2,
+      "accepted": [
+        "8"
+      ],
+      "e": "Il y a deux atomes de carbone et six d’hydrogène : huit au total.",
+      "hint": "Décide d’abord si une nouvelle substance apparaît, puis vérifie chaque choix.",
+      "tutorial": "Il y a deux atomes de carbone et six d’hydrogène : huit au total. Repère dans l’énoncé l’indice ou la formule qui justifie ce choix.",
+      "grading": {
+        "type": "aliases"
+      },
+      "responseType": "choice",
+      "feedbackResource": "corr-i-revision-2026-11",
+      "fingerprint": "5ca757ea6f77412fc3cecf1da94ad8b90abb39ac3462d793cd4710c572dfce7b"
+    },
+    {
+      "id": "i-revision-2026-12",
+      "lessonId": "atomes-conservation",
+      "objectiveIds": [
+        "obj-atomes-conservation"
+      ],
+      "inventoryIds": [
+        "notion-i-revision-2026-12"
+      ],
+      "sourceRefs": [
+        {
+          "documentId": "revision-1-2",
+          "pages": "1–6"
+        },
+        {
+          "documentId": "diaporama-1-2",
+          "pages": "2–19"
+        }
+      ],
+      "t": "conservation",
+      "q": "Dans 2H₂O, combien y a-t-il d’atomes d’hydrogène en tout?",
+      "writtenPrompt": "Dans 2H₂O, combien y a-t-il d’atomes d’hydrogène en tout?",
+      "o": [
+        "2",
+        "3",
+        "4",
+        "6"
+      ],
+      "a": 2,
+      "accepted": [
+        "4"
+      ],
+      "e": "Le coefficient 2 multiplie les deux H de chaque molécule : 4 H.",
+      "hint": "Décide d’abord si une nouvelle substance apparaît, puis vérifie chaque choix.",
+      "tutorial": "Le coefficient 2 multiplie les deux H de chaque molécule : 4 H. Repère dans l’énoncé l’indice ou la formule qui justifie ce choix.",
+      "grading": {
+        "type": "aliases"
+      },
+      "responseType": "choice",
+      "feedbackResource": "corr-i-revision-2026-12",
+      "fingerprint": "f4fe220ed76b0a6542f160c11d1b44df703659be9d2541827fa4512c4fb442d6"
+    },
+    {
+      "id": "i-revision-2026-13",
+      "lessonId": "atomes-conservation",
+      "objectiveIds": [
+        "obj-atomes-conservation"
+      ],
+      "inventoryIds": [
+        "notion-i-revision-2026-13"
+      ],
+      "sourceRefs": [
+        {
+          "documentId": "revision-1-2",
+          "pages": "1–6"
+        },
+        {
+          "documentId": "diaporama-1-2",
+          "pages": "2–19"
+        }
+      ],
+      "t": "conservation",
+      "q": "Quelle phrase respecte la conservation de la matière?",
+      "writtenPrompt": "Quelle phrase respecte la conservation de la matière?",
+      "o": [
+        "La masse disparaît quand l’eau gèle",
+        "Les atomes sont conservés pendant un changement chimique",
+        "Les molécules sont toujours intactes pendant une combustion",
+        "Un gaz n’a pas de masse"
+      ],
+      "a": 1,
+      "accepted": [
+        "Les atomes sont conservés pendant un changement chimique"
+      ],
+      "e": "La conservation s’applique aux atomes; les molécules peuvent changer.",
+      "hint": "Décide d’abord si une nouvelle substance apparaît, puis vérifie chaque choix.",
+      "tutorial": "La conservation s’applique aux atomes; les molécules peuvent changer. Repère dans l’énoncé l’indice ou la formule qui justifie ce choix.",
+      "grading": {
+        "type": "aliases"
+      },
+      "responseType": "choice",
+      "feedbackResource": "corr-i-revision-2026-13",
+      "fingerprint": "fa1d06a619f41ff831f3ebe24755f1ba07660d134401d23c720f5323026aeeaf"
+    },
+    {
+      "id": "c-revision-2026-01",
+      "lessonId": "changements-physiques",
+      "objectiveIds": [
+        "obj-changements-physiques"
+      ],
+      "inventoryIds": [
+        "notion-c-revision-2026-01"
+      ],
+      "sourceRefs": [
+        {
+          "documentId": "revision-1-2",
+          "pages": "1–6"
+        },
+        {
+          "documentId": "diaporama-1-2",
+          "pages": "2–19"
+        }
+      ],
+      "t": "physique",
+      "q": "Une boisson gazeuse est versée dans un verre et perd du gaz déjà dissous. Quelle conclusion est la plus prudente?",
+      "writtenPrompt": "Une boisson gazeuse est versée dans un verre et perd du gaz déjà dissous. Quelle conclusion est la plus prudente?",
+      "o": [
+        "L’échappement d’un gaz prouve toujours une réaction chimique",
+        "Il peut s’agir d’une séparation physique du gaz déjà présent",
+        "Le verre produit de nouveaux atomes",
+        "Le gaz se transforme forcément en métal"
+      ],
+      "a": 1,
+      "accepted": [
+        "Il peut s’agir d’une séparation physique du gaz déjà présent"
+      ],
+      "e": "Un gaz préexistant peut simplement quitter un mélange; le contexte compte.",
+      "hint": "Décide d’abord si une nouvelle substance apparaît, puis vérifie chaque choix.",
+      "tutorial": "Un gaz préexistant peut simplement quitter un mélange; le contexte compte. Repère dans l’énoncé l’indice ou la formule qui justifie ce choix.",
+      "grading": {
+        "type": "aliases"
+      },
+      "responseType": "choice",
+      "feedbackResource": "corr-c-revision-2026-01",
+      "fingerprint": "dc072e3a20efe3eafe93c975379e79da71c29b0f20879fcad8098557cf7301fc"
+    },
+    {
+      "id": "c-revision-2026-02",
+      "lessonId": "changements-physiques",
+      "objectiveIds": [
+        "obj-changements-physiques"
+      ],
+      "inventoryIds": [
+        "notion-c-revision-2026-02"
+      ],
+      "sourceRefs": [
+        {
+          "documentId": "revision-1-2",
+          "pages": "1–6"
+        },
+        {
+          "documentId": "diaporama-1-2",
+          "pages": "2–19"
+        }
+      ],
+      "t": "physique",
+      "q": "Une feuille est découpée, puis ses morceaux sont dispersés. Qu’est-ce qui reste identique?",
+      "writtenPrompt": "Une feuille est découpée, puis ses morceaux sont dispersés. Qu’est-ce qui reste identique?",
+      "o": [
+        "La forme des morceaux",
+        "La composition de la matière",
+        "Le nombre de feuilles entières",
+        "La position des morceaux"
+      ],
+      "a": 1,
+      "accepted": [
+        "La composition de la matière"
+      ],
+      "e": "La composition du papier reste la même malgré la découpe.",
+      "hint": "Décide d’abord si une nouvelle substance apparaît, puis vérifie chaque choix.",
+      "tutorial": "La composition du papier reste la même malgré la découpe. Repère dans l’énoncé l’indice ou la formule qui justifie ce choix.",
+      "grading": {
+        "type": "aliases"
+      },
+      "responseType": "choice",
+      "feedbackResource": "corr-c-revision-2026-02",
+      "fingerprint": "cce7d2568125659cd752c5c3eb3fb1cfb9598a95934c80d217b68d18e6391c27"
+    },
+    {
+      "id": "c-revision-2026-03",
+      "lessonId": "changements-physiques",
+      "objectiveIds": [
+        "obj-changements-physiques"
+      ],
+      "inventoryIds": [
+        "notion-c-revision-2026-03"
+      ],
+      "sourceRefs": [
+        {
+          "documentId": "revision-1-2",
+          "pages": "1–6"
+        },
+        {
+          "documentId": "diaporama-1-2",
+          "pages": "2–19"
+        }
+      ],
+      "t": "physique",
+      "q": "Quel trio correspond aux trois catégories travaillées pour les changements physiques?",
+      "writtenPrompt": "Quel trio correspond aux trois catégories travaillées pour les changements physiques?",
+      "o": [
+        "État, forme, mélange",
+        "Gaz, lumière, précipité",
+        "Atome, noyau, électron",
+        "Combustion, rouille, cuisson"
+      ],
+      "a": 0,
+      "accepted": [
+        "État, forme, mélange"
+      ],
+      "e": "Le cours regroupe ces changements en état, forme et mélange.",
+      "hint": "Décide d’abord si une nouvelle substance apparaît, puis vérifie chaque choix.",
+      "tutorial": "Le cours regroupe ces changements en état, forme et mélange. Repère dans l’énoncé l’indice ou la formule qui justifie ce choix.",
+      "grading": {
+        "type": "aliases"
+      },
+      "responseType": "choice",
+      "feedbackResource": "corr-c-revision-2026-03",
+      "fingerprint": "2af957fafa2c21768744b580f814b75e06ad145251054a3890c867776e2c4eea"
+    },
+    {
+      "id": "c-revision-2026-04",
+      "lessonId": "changements-chimiques",
+      "objectiveIds": [
+        "obj-changements-chimiques"
+      ],
+      "inventoryIds": [
+        "notion-c-revision-2026-04"
+      ],
+      "sourceRefs": [
+        {
+          "documentId": "revision-1-2",
+          "pages": "1–6"
+        },
+        {
+          "documentId": "diaporama-1-2",
+          "pages": "2–19"
+        }
+      ],
+      "t": "chimique",
+      "q": "Un solide blanc apparaît quand on mélange deux solutions transparentes. Quel raisonnement convient?",
+      "writtenPrompt": "Un solide blanc apparaît quand on mélange deux solutions transparentes. Quel raisonnement convient?",
+      "o": [
+        "Un précipité est formé; une nouvelle substance est probable",
+        "C’est forcément un changement d’état de l’eau",
+        "Les deux liquides ont été coupés",
+        "Les atomes ont disparu"
+      ],
+      "a": 0,
+      "accepted": [
+        "Un précipité est formé; une nouvelle substance est probable"
+      ],
+      "e": "Le solide nouvellement formé est un précipité, indice fort d’une réaction.",
+      "hint": "Décide d’abord si une nouvelle substance apparaît, puis vérifie chaque choix.",
+      "tutorial": "Le solide nouvellement formé est un précipité, indice fort d’une réaction. Repère dans l’énoncé l’indice ou la formule qui justifie ce choix.",
+      "grading": {
+        "type": "aliases"
+      },
+      "responseType": "choice",
+      "feedbackResource": "corr-c-revision-2026-04",
+      "fingerprint": "7a6bec9c431f16e612f73f2b000d989a6860379574423961abaca636c24d6e9f"
+    },
+    {
+      "id": "c-revision-2026-05",
+      "lessonId": "changements-chimiques",
+      "objectiveIds": [
+        "obj-changements-chimiques"
+      ],
+      "inventoryIds": [
+        "notion-c-revision-2026-05"
+      ],
+      "sourceRefs": [
+        {
+          "documentId": "revision-1-2",
+          "pages": "1–6"
+        },
+        {
+          "documentId": "diaporama-1-2",
+          "pages": "2–19"
+        }
+      ],
+      "t": "chimique",
+      "q": "Le cuivre exposé à l’air devient vert avec le temps. Quelle explication est la meilleure?",
+      "writtenPrompt": "Le cuivre exposé à l’air devient vert avec le temps. Quelle explication est la meilleure?",
+      "o": [
+        "C’est uniquement une modification de forme",
+        "Une oxydation produit des substances de surface différentes",
+        "Le cuivre fond sans chauffer",
+        "Le cuivre devient un élément nommé vert"
+      ],
+      "a": 1,
+      "accepted": [
+        "Une oxydation produit des substances de surface différentes"
+      ],
+      "e": "Le changement de couleur accompagne ici une oxydation chimique.",
+      "hint": "Décide d’abord si une nouvelle substance apparaît, puis vérifie chaque choix.",
+      "tutorial": "Le changement de couleur accompagne ici une oxydation chimique. Repère dans l’énoncé l’indice ou la formule qui justifie ce choix.",
+      "grading": {
+        "type": "aliases"
+      },
+      "responseType": "choice",
+      "feedbackResource": "corr-c-revision-2026-05",
+      "fingerprint": "8e7ca6d1d21235a2dd8b3edf0e651cbeec7ebccc2beaad1e724ada454e0ccbdc"
+    },
+    {
+      "id": "c-revision-2026-06",
+      "lessonId": "changements-chimiques",
+      "objectiveIds": [
+        "obj-changements-chimiques"
+      ],
+      "inventoryIds": [
+        "notion-c-revision-2026-06"
+      ],
+      "sourceRefs": [
+        {
+          "documentId": "revision-1-2",
+          "pages": "1–6"
+        },
+        {
+          "documentId": "diaporama-1-2",
+          "pages": "2–19"
+        }
+      ],
+      "t": "chimique",
+      "q": "Pourquoi la couleur seule ne permet-elle pas toujours de conclure à une réaction?",
+      "writtenPrompt": "Pourquoi la couleur seule ne permet-elle pas toujours de conclure à une réaction?",
+      "o": [
+        "La couleur n’existe pas dans la matière",
+        "Un mélange peut changer l’apparence sans créer de substance",
+        "Les couleurs ne changent jamais",
+        "Toutes les réactions sont incolores"
+      ],
+      "a": 1,
+      "accepted": [
+        "Un mélange peut changer l’apparence sans créer de substance"
+      ],
+      "e": "Il faut distinguer une nouvelle substance d’une simple modification d’apparence.",
+      "hint": "Décide d’abord si une nouvelle substance apparaît, puis vérifie chaque choix.",
+      "tutorial": "Il faut distinguer une nouvelle substance d’une simple modification d’apparence. Repère dans l’énoncé l’indice ou la formule qui justifie ce choix.",
+      "grading": {
+        "type": "aliases"
+      },
+      "responseType": "choice",
+      "feedbackResource": "corr-c-revision-2026-06",
+      "fingerprint": "474297c755e7bb90ff096320d35e41affb8deaba28de9fdeac3ec9e5b352544a"
+    },
+    {
+      "id": "c-revision-2026-07",
+      "lessonId": "changements-chimiques",
+      "objectiveIds": [
+        "obj-changements-chimiques"
+      ],
+      "inventoryIds": [
+        "notion-c-revision-2026-07"
+      ],
+      "sourceRefs": [
+        {
+          "documentId": "revision-1-2",
+          "pages": "1–6"
+        },
+        {
+          "documentId": "diaporama-1-2",
+          "pages": "2–19"
+        }
+      ],
+      "t": "chimique",
+      "q": "Une bûche brûle dans un système fermé. Quelle quantité se conserve?",
+      "writtenPrompt": "Une bûche brûle dans un système fermé. Quelle quantité se conserve?",
+      "o": [
+        "La masse totale du système",
+        "La masse de la bûche intacte",
+        "Le nombre de molécules de bois",
+        "La forme originale du bois"
+      ],
+      "a": 0,
+      "accepted": [
+        "La masse totale du système"
+      ],
+      "e": "La matière totale, y compris les gaz formés, conserve sa masse dans un système fermé.",
+      "hint": "Décide d’abord si une nouvelle substance apparaît, puis vérifie chaque choix.",
+      "tutorial": "La matière totale, y compris les gaz formés, conserve sa masse dans un système fermé. Repère dans l’énoncé l’indice ou la formule qui justifie ce choix.",
+      "grading": {
+        "type": "aliases"
+      },
+      "responseType": "choice",
+      "feedbackResource": "corr-c-revision-2026-07",
+      "fingerprint": "50ce650ffe7bcca86488dad76d8e97d69e49912efa0a0aa9044d0615489e56ce"
+    },
+    {
+      "id": "c-revision-2026-08",
+      "lessonId": "comparer-changements",
+      "objectiveIds": [
+        "obj-comparer-changements"
+      ],
+      "inventoryIds": [
+        "notion-c-revision-2026-08"
+      ],
+      "sourceRefs": [
+        {
+          "documentId": "revision-1-2",
+          "pages": "1–6"
+        },
+        {
+          "documentId": "diaporama-1-2",
+          "pages": "2–19"
+        }
+      ],
+      "t": "comparaison",
+      "q": "On brise un comprimé en deux; ensuite, il réagit dans l’eau en produisant un gaz. Quel ordre est correct?",
+      "writtenPrompt": "On brise un comprimé en deux; ensuite, il réagit dans l’eau en produisant un gaz. Quel ordre est correct?",
+      "o": [
+        "Physique, puis chimique",
+        "Chimique, puis physique",
+        "Chimique, puis chimique",
+        "Physique, puis physique"
+      ],
+      "a": 0,
+      "accepted": [
+        "Physique, puis chimique"
+      ],
+      "e": "Briser modifie la forme; la réaction qui forme un gaz est chimique.",
+      "hint": "Décide d’abord si une nouvelle substance apparaît, puis vérifie chaque choix.",
+      "tutorial": "Briser modifie la forme; la réaction qui forme un gaz est chimique. Repère dans l’énoncé l’indice ou la formule qui justifie ce choix.",
+      "grading": {
+        "type": "aliases"
+      },
+      "responseType": "choice",
+      "feedbackResource": "corr-c-revision-2026-08",
+      "fingerprint": "c190d60a6a11fe6006ae01760746f59e145f97073a1df747d46ba3e81a81bf44"
+    },
+    {
+      "id": "c-revision-2026-09",
+      "lessonId": "comparer-changements",
+      "objectiveIds": [
+        "obj-comparer-changements"
+      ],
+      "inventoryIds": [
+        "notion-c-revision-2026-09"
+      ],
+      "sourceRefs": [
+        {
+          "documentId": "revision-1-2",
+          "pages": "1–6"
+        },
+        {
+          "documentId": "diaporama-1-2",
+          "pages": "2–19"
+        }
+      ],
+      "t": "comparaison",
+      "q": "Une goutte d’eau s’évapore; ailleurs, du bois brûle. Quelle comparaison est juste?",
+      "writtenPrompt": "Une goutte d’eau s’évapore; ailleurs, du bois brûle. Quelle comparaison est juste?",
+      "o": [
+        "Les deux créent de nouvelles substances",
+        "L’évaporation conserve H₂O; la combustion forme de nouvelles substances",
+        "La combustion ne change que l’état du bois",
+        "L’évaporation détruit les molécules d’eau"
+      ],
+      "a": 1,
+      "accepted": [
+        "L’évaporation conserve H₂O; la combustion forme de nouvelles substances"
+      ],
+      "e": "L’eau demeure H₂O quand elle s’évapore; la combustion change la composition.",
+      "hint": "Décide d’abord si une nouvelle substance apparaît, puis vérifie chaque choix.",
+      "tutorial": "L’eau demeure H₂O quand elle s’évapore; la combustion change la composition. Repère dans l’énoncé l’indice ou la formule qui justifie ce choix.",
+      "grading": {
+        "type": "aliases"
+      },
+      "responseType": "choice",
+      "feedbackResource": "corr-c-revision-2026-09",
+      "fingerprint": "ca2b70ba77d87d06482ea1b0965c47640d1cc1ed7e04b62b6fc108ae6feeca52"
+    },
+    {
+      "id": "c-revision-2026-10",
+      "lessonId": "comparer-changements",
+      "objectiveIds": [
+        "obj-comparer-changements"
+      ],
+      "inventoryIds": [
+        "notion-c-revision-2026-10"
+      ],
+      "sourceRefs": [
+        {
+          "documentId": "revision-1-2",
+          "pages": "1–6"
+        },
+        {
+          "documentId": "diaporama-1-2",
+          "pages": "2–19"
+        }
+      ],
+      "t": "comparaison",
+      "q": "Pour expliquer scientifiquement la coagulation du lait après ajout de vinaigre, quelle réponse est la plus solide?",
+      "writtenPrompt": "Pour expliquer scientifiquement la coagulation du lait après ajout de vinaigre, quelle réponse est la plus solide?",
+      "o": [
+        "Physique, parce que le lait reste blanc",
+        "Chimique : le mélange entraîne la formation de grumeaux et modifie la matière",
+        "Physique, car toute préparation de mélange est physique",
+        "On ne peut pas l’observer"
+      ],
+      "a": 1,
+      "accepted": [
+        "Chimique : le mélange entraîne la formation de grumeaux et modifie la matière"
+      ],
+      "e": "Dans la révision, la coagulation avec formation de grumeaux est classée comme changement chimique.",
+      "hint": "Décide d’abord si une nouvelle substance apparaît, puis vérifie chaque choix.",
+      "tutorial": "Dans la révision, la coagulation avec formation de grumeaux est classée comme changement chimique. Repère dans l’énoncé l’indice ou la formule qui justifie ce choix.",
+      "grading": {
+        "type": "aliases"
+      },
+      "responseType": "choice",
+      "feedbackResource": "corr-c-revision-2026-10",
+      "fingerprint": "1c53c8d89e60d54335a3744f53fc76af14d5f5d0667f648886f651d98071038d"
+    },
+    {
+      "id": "c-revision-2026-11",
+      "lessonId": "comparer-changements",
+      "objectiveIds": [
+        "obj-comparer-changements"
+      ],
+      "inventoryIds": [
+        "notion-c-revision-2026-11"
+      ],
+      "sourceRefs": [
+        {
+          "documentId": "revision-1-2",
+          "pages": "1–6"
+        },
+        {
+          "documentId": "diaporama-1-2",
+          "pages": "2–19"
+        }
+      ],
+      "t": "comparaison",
+      "q": "Deux liquides incolores donnent un solide jaune. Quelle réponse d’examen est complète?",
+      "writtenPrompt": "Deux liquides incolores donnent un solide jaune. Quelle réponse d’examen est complète?",
+      "o": [
+        "Chimique : un précipité jaune se forme, signe d’une nouvelle substance",
+        "Physique : leur couleur change",
+        "Chimique : on a simplement mélangé des liquides",
+        "Physique : la température reste inconnue"
+      ],
+      "a": 0,
+      "accepted": [
+        "Chimique : un précipité jaune se forme, signe d’une nouvelle substance"
+      ],
+      "e": "La réponse nomme le type, l’indice et sa signification.",
+      "hint": "Décide d’abord si une nouvelle substance apparaît, puis vérifie chaque choix.",
+      "tutorial": "La réponse nomme le type, l’indice et sa signification. Repère dans l’énoncé l’indice ou la formule qui justifie ce choix.",
+      "grading": {
+        "type": "aliases"
+      },
+      "responseType": "choice",
+      "feedbackResource": "corr-c-revision-2026-11",
+      "fingerprint": "1f525ec1d0490476bb185515690289ff28fde06570b1c7c704ca89bb7015f95e"
+    },
+    {
+      "id": "c-revision-2026-12",
+      "lessonId": "comparer-changements",
+      "objectiveIds": [
+        "obj-comparer-changements"
+      ],
+      "inventoryIds": [
+        "notion-c-revision-2026-12"
+      ],
+      "sourceRefs": [
+        {
+          "documentId": "revision-1-2",
+          "pages": "1–6"
+        },
+        {
+          "documentId": "diaporama-1-2",
+          "pages": "2–19"
+        }
+      ],
+      "t": "comparaison",
+      "q": "Dans quel cas l’absence de changement visible ne suffit-elle pas à conclure?",
+      "writtenPrompt": "Dans quel cas l’absence de changement visible ne suffit-elle pas à conclure?",
+      "o": [
+        "Quand on sait déjà que la substance est nouvelle",
+        "Quand la transformation peut être lente ou difficile à observer",
+        "Quand le papier est déchiré",
+        "Quand le glaçon fond"
+      ],
+      "a": 1,
+      "accepted": [
+        "Quand la transformation peut être lente ou difficile à observer"
+      ],
+      "e": "L’observation immédiate n’est pas toujours suffisante; il faut vérifier la composition.",
+      "hint": "Décide d’abord si une nouvelle substance apparaît, puis vérifie chaque choix.",
+      "tutorial": "L’observation immédiate n’est pas toujours suffisante; il faut vérifier la composition. Repère dans l’énoncé l’indice ou la formule qui justifie ce choix.",
+      "grading": {
+        "type": "aliases"
+      },
+      "responseType": "choice",
+      "feedbackResource": "corr-c-revision-2026-12",
+      "fingerprint": "6832b4e33da99fc41cdbc0c156284815fbc70cf29db37595fe04b747ca22bf82"
+    },
+    {
+      "id": "c-revision-2026-13",
+      "lessonId": "atomes-conservation",
+      "objectiveIds": [
+        "obj-atomes-conservation"
+      ],
+      "inventoryIds": [
+        "notion-c-revision-2026-13"
+      ],
+      "sourceRefs": [
+        {
+          "documentId": "revision-1-2",
+          "pages": "1–6"
+        },
+        {
+          "documentId": "diaporama-1-2",
+          "pages": "2–19"
+        }
+      ],
+      "t": "conservation",
+      "q": "Dans trois molécules de H₂O, combien y a-t-il d’atomes d’oxygène au total?",
+      "writtenPrompt": "Dans trois molécules de H₂O, combien y a-t-il d’atomes d’oxygène au total?",
+      "o": [
+        "1",
+        "2",
+        "3",
+        "6"
+      ],
+      "a": 2,
+      "accepted": [
+        "3"
+      ],
+      "e": "Chaque molécule d’eau contient un atome d’oxygène; trois molécules en contiennent trois.",
+      "hint": "Décide d’abord si une nouvelle substance apparaît, puis vérifie chaque choix.",
+      "tutorial": "Chaque molécule d’eau contient un atome d’oxygène; trois molécules en contiennent trois. Repère dans l’énoncé l’indice ou la formule qui justifie ce choix.",
+      "grading": {
+        "type": "aliases"
+      },
+      "responseType": "choice",
+      "feedbackResource": "corr-c-revision-2026-13",
+      "fingerprint": "39ad5a53e850e2ff98e65329739a97a6109b380c28b06347454a52b1609407c7"
+    },
+    {
+      "id": "c-revision-2026-14",
+      "lessonId": "atomes-conservation",
+      "objectiveIds": [
+        "obj-atomes-conservation"
+      ],
+      "inventoryIds": [
+        "notion-c-revision-2026-14"
+      ],
+      "sourceRefs": [
+        {
+          "documentId": "revision-1-2",
+          "pages": "1–6"
+        },
+        {
+          "documentId": "diaporama-1-2",
+          "pages": "2–19"
+        }
+      ],
+      "t": "conservation",
+      "q": "Une molécule C₁₂H₂₂O₁₁ contient combien d’atomes au total?",
+      "writtenPrompt": "Une molécule C₁₂H₂₂O₁₁ contient combien d’atomes au total?",
+      "o": [
+        "34",
+        "35",
+        "45",
+        "46"
+      ],
+      "a": 2,
+      "accepted": [
+        "45"
+      ],
+      "e": "12 + 22 + 11 = 45 atomes.",
+      "hint": "Décide d’abord si une nouvelle substance apparaît, puis vérifie chaque choix.",
+      "tutorial": "12 + 22 + 11 = 45 atomes. Repère dans l’énoncé l’indice ou la formule qui justifie ce choix.",
+      "grading": {
+        "type": "aliases"
+      },
+      "responseType": "choice",
+      "feedbackResource": "corr-c-revision-2026-14",
+      "fingerprint": "b09f5089c614a299ee9fb69a1f1094b28a011f57e2b88e7fb262ee2d065b8452"
+    },
+    {
+      "id": "c-revision-2026-15",
+      "lessonId": "atomes-conservation",
+      "objectiveIds": [
+        "obj-atomes-conservation"
+      ],
+      "inventoryIds": [
+        "notion-c-revision-2026-15"
+      ],
+      "sourceRefs": [
+        {
+          "documentId": "revision-1-2",
+          "pages": "1–6"
+        },
+        {
+          "documentId": "diaporama-1-2",
+          "pages": "2–19"
+        }
+      ],
+      "t": "conservation",
+      "q": "Quel est le nombre de sortes d’éléments dans NH₃?",
+      "writtenPrompt": "Quel est le nombre de sortes d’éléments dans NH₃?",
+      "o": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "a": 1,
+      "accepted": [
+        "2"
+      ],
+      "e": "La formule contient N et H : deux éléments, mais quatre atomes.",
+      "hint": "Décide d’abord si une nouvelle substance apparaît, puis vérifie chaque choix.",
+      "tutorial": "La formule contient N et H : deux éléments, mais quatre atomes. Repère dans l’énoncé l’indice ou la formule qui justifie ce choix.",
+      "grading": {
+        "type": "aliases"
+      },
+      "responseType": "choice",
+      "feedbackResource": "corr-c-revision-2026-15",
+      "fingerprint": "fa67d7e2eba3891a69dcb00bcbe969a1ae74b2e501057910d1259ba504585235"
+    },
+    {
+      "id": "c-revision-2026-16",
+      "lessonId": "atomes-conservation",
+      "objectiveIds": [
+        "obj-atomes-conservation"
+      ],
+      "inventoryIds": [
+        "notion-c-revision-2026-16"
+      ],
+      "sourceRefs": [
+        {
+          "documentId": "revision-1-2",
+          "pages": "1–6"
+        },
+        {
+          "documentId": "diaporama-1-2",
+          "pages": "2–19"
+        }
+      ],
+      "t": "conservation",
+      "q": "Une réaction transforme deux molécules AB en A₂ et B₂. Quelle affirmation est exacte?",
+      "writtenPrompt": "Une réaction transforme deux molécules AB en A₂ et B₂. Quelle affirmation est exacte?",
+      "o": [
+        "Les atomes A et B sont conservés, mais les liaisons changent",
+        "Les atomes A disparaissent",
+        "Les molécules AB restent intactes",
+        "Deux nouveaux éléments sont créés"
+      ],
+      "a": 0,
+      "accepted": [
+        "Les atomes A et B sont conservés, mais les liaisons changent"
+      ],
+      "e": "Les atomes se retrouvent dans les produits, réorganisés en nouvelles molécules.",
+      "hint": "Décide d’abord si une nouvelle substance apparaît, puis vérifie chaque choix.",
+      "tutorial": "Les atomes se retrouvent dans les produits, réorganisés en nouvelles molécules. Repère dans l’énoncé l’indice ou la formule qui justifie ce choix.",
+      "grading": {
+        "type": "aliases"
+      },
+      "responseType": "choice",
+      "feedbackResource": "corr-c-revision-2026-16",
+      "fingerprint": "c8a0134ffd34d1076d1bde5e862b5e7161ae6ab02090673452ed878bd105a76f"
+    },
+    {
+      "id": "c-revision-2026-17",
+      "lessonId": "atomes-conservation",
+      "objectiveIds": [
+        "obj-atomes-conservation"
+      ],
+      "inventoryIds": [
+        "notion-c-revision-2026-17"
+      ],
+      "sourceRefs": [
+        {
+          "documentId": "revision-1-2",
+          "pages": "1–6"
+        },
+        {
+          "documentId": "diaporama-1-2",
+          "pages": "2–19"
+        }
+      ],
+      "t": "conservation",
+      "q": "Quelle erreur commet-on en affirmant que deux molécules de CO₂ contiennent seulement trois atomes?",
+      "writtenPrompt": "Quelle erreur commet-on en affirmant que deux molécules de CO₂ contiennent seulement trois atomes?",
+      "o": [
+        "On oublie le coefficient 2 devant la formule",
+        "On compte deux fois le carbone",
+        "On confond le C avec le calcium",
+        "On transforme l’oxygène en azote"
+      ],
+      "a": 0,
+      "accepted": [
+        "On oublie le coefficient 2 devant la formule"
+      ],
+      "e": "Une molécule CO₂ a trois atomes; deux molécules en ont six.",
+      "hint": "Décide d’abord si une nouvelle substance apparaît, puis vérifie chaque choix.",
+      "tutorial": "Une molécule CO₂ a trois atomes; deux molécules en ont six. Repère dans l’énoncé l’indice ou la formule qui justifie ce choix.",
+      "grading": {
+        "type": "aliases"
+      },
+      "responseType": "choice",
+      "feedbackResource": "corr-c-revision-2026-17",
+      "fingerprint": "ff4bbce4a8e5734e56fb8910a8aa1588b666708fb79d434f5d25f67a888137d6"
     }
   ],
   "variants": {},
@@ -6560,8 +9408,8 @@
   "configuration": {
     "schemaVersion": 1,
     "examId": "mirka-sciences-chapitre-1-2026",
-    "contentVersion": "1.1.0",
-    "title": "Mirka · Sciences · Chapitre 1",
+    "contentVersion": "1.2.0",
+    "title": "Mirka · Sciences · Chapitres 1 et 2.1–2.2",
     "subject": "Sciences et technologie",
     "schoolLevel": "Secondaire — selon les pages fournies",
     "locale": "fr-CA",
@@ -6575,7 +9423,11 @@
       "formules": "Lire et écrire une formule",
       "proprietes": "La composition change les propriétés",
       "calculs": "Calculer la masse d’une molécule",
-      "raisonner": "Expliquer et résoudre un problème"
+      "raisonner": "Expliquer et résoudre un problème",
+      "physique": "Changements physiques",
+      "chimique": "Changements chimiques",
+      "comparaison": "Expliquer un changement",
+      "conservation": "Conservation des atomes"
     },
     "labels": {
       "start": "Commencer mon parcours"
@@ -6701,7 +9553,47 @@
       "c-raisonnement-indice",
       "c-raisonnement-atome",
       "c-raisonnement-sulfate",
-      "c-raisonnement-comparer"
+      "c-raisonnement-comparer",
+      "s-revision-2026-01",
+      "s-revision-2026-02",
+      "s-revision-2026-03",
+      "s-revision-2026-04",
+      "s-revision-2026-05",
+      "s-revision-2026-06",
+      "s-revision-2026-07",
+      "s-revision-2026-08",
+      "s-revision-2026-09",
+      "s-revision-2026-10",
+      "i-revision-2026-01",
+      "i-revision-2026-02",
+      "i-revision-2026-03",
+      "i-revision-2026-04",
+      "i-revision-2026-05",
+      "i-revision-2026-06",
+      "i-revision-2026-07",
+      "i-revision-2026-08",
+      "i-revision-2026-09",
+      "i-revision-2026-10",
+      "i-revision-2026-11",
+      "i-revision-2026-12",
+      "i-revision-2026-13",
+      "c-revision-2026-01",
+      "c-revision-2026-02",
+      "c-revision-2026-03",
+      "c-revision-2026-04",
+      "c-revision-2026-05",
+      "c-revision-2026-06",
+      "c-revision-2026-07",
+      "c-revision-2026-08",
+      "c-revision-2026-09",
+      "c-revision-2026-10",
+      "c-revision-2026-11",
+      "c-revision-2026-12",
+      "c-revision-2026-13",
+      "c-revision-2026-14",
+      "c-revision-2026-15",
+      "c-revision-2026-16",
+      "c-revision-2026-17"
     ],
     "storageVersion": 4,
     "variantPolicy": {
@@ -6836,7 +9728,47 @@
       "c-raisonnement-indice",
       "c-raisonnement-atome",
       "c-raisonnement-sulfate",
-      "c-raisonnement-comparer"
+      "c-raisonnement-comparer",
+      "s-revision-2026-01",
+      "s-revision-2026-02",
+      "s-revision-2026-03",
+      "s-revision-2026-04",
+      "s-revision-2026-05",
+      "s-revision-2026-06",
+      "s-revision-2026-07",
+      "s-revision-2026-08",
+      "s-revision-2026-09",
+      "s-revision-2026-10",
+      "i-revision-2026-01",
+      "i-revision-2026-02",
+      "i-revision-2026-03",
+      "i-revision-2026-04",
+      "i-revision-2026-05",
+      "i-revision-2026-06",
+      "i-revision-2026-07",
+      "i-revision-2026-08",
+      "i-revision-2026-09",
+      "i-revision-2026-10",
+      "i-revision-2026-11",
+      "i-revision-2026-12",
+      "i-revision-2026-13",
+      "c-revision-2026-01",
+      "c-revision-2026-02",
+      "c-revision-2026-03",
+      "c-revision-2026-04",
+      "c-revision-2026-05",
+      "c-revision-2026-06",
+      "c-revision-2026-07",
+      "c-revision-2026-08",
+      "c-revision-2026-09",
+      "c-revision-2026-10",
+      "c-revision-2026-11",
+      "c-revision-2026-12",
+      "c-revision-2026-13",
+      "c-revision-2026-14",
+      "c-revision-2026-15",
+      "c-revision-2026-16",
+      "c-revision-2026-17"
     ],
     "speechReplacements": {
       "Al₂O₃": "A L indice deux, O indice trois",
@@ -6873,13 +9805,13 @@
     "lessonQuizMode": "practice",
     "defaultQuizPath": "simple",
     "difficultyLabels": {
-      "1": "Chapitre 1"
+      "1": "Chapitre 1 + 2.1–2.2"
     },
-    "intro": "Mirka, avance une idée à la fois. Écoute la leçon, essaie quelques questions, puis reviens sur ce qui est difficile.",
+    "intro": "Révise le chapitre 1 et les changements physiques et chimiques de 2.1–2.2. Après chaque choix, lis l’explication et essaie de justifier ta réponse dans tes mots.",
     "quizPaths": {
       "simple": {
         "label": "Simple",
-        "description": "20 questions essentielles, différentes des deux autres parcours.",
+        "description": "30 questions essentielles, dont 10 sur les changements et la conservation.",
         "entries": [
           {
             "slotId": "simple-s-modele-role",
@@ -7000,12 +9932,72 @@
             "questionId": "s-raisonnement-atome-molecule",
             "objectiveId": "obj-raisonner",
             "level": 1
+          },
+          {
+            "slotId": "simple-s-revision-2026-01",
+            "questionId": "s-revision-2026-01",
+            "objectiveId": "obj-changements-physiques",
+            "level": 1
+          },
+          {
+            "slotId": "simple-s-revision-2026-02",
+            "questionId": "s-revision-2026-02",
+            "objectiveId": "obj-changements-physiques",
+            "level": 1
+          },
+          {
+            "slotId": "simple-s-revision-2026-03",
+            "questionId": "s-revision-2026-03",
+            "objectiveId": "obj-changements-physiques",
+            "level": 1
+          },
+          {
+            "slotId": "simple-s-revision-2026-04",
+            "questionId": "s-revision-2026-04",
+            "objectiveId": "obj-changements-chimiques",
+            "level": 1
+          },
+          {
+            "slotId": "simple-s-revision-2026-05",
+            "questionId": "s-revision-2026-05",
+            "objectiveId": "obj-changements-chimiques",
+            "level": 1
+          },
+          {
+            "slotId": "simple-s-revision-2026-06",
+            "questionId": "s-revision-2026-06",
+            "objectiveId": "obj-changements-chimiques",
+            "level": 1
+          },
+          {
+            "slotId": "simple-s-revision-2026-07",
+            "questionId": "s-revision-2026-07",
+            "objectiveId": "obj-comparer-changements",
+            "level": 1
+          },
+          {
+            "slotId": "simple-s-revision-2026-08",
+            "questionId": "s-revision-2026-08",
+            "objectiveId": "obj-comparer-changements",
+            "level": 1
+          },
+          {
+            "slotId": "simple-s-revision-2026-09",
+            "questionId": "s-revision-2026-09",
+            "objectiveId": "obj-atomes-conservation",
+            "level": 1
+          },
+          {
+            "slotId": "simple-s-revision-2026-10",
+            "questionId": "s-revision-2026-10",
+            "objectiveId": "obj-atomes-conservation",
+            "level": 1
           }
         ]
       },
       "intermediaire": {
         "label": "Intermédiaire",
-        "description": "40 questions d’application, différentes des parcours Simple et Complet.",
+        "description": "53 questions d’application, dont 13 nouvelles sur les sections 2.1 et 2.2.",
         "entries": [
           {
             "slotId": "intermediaire-i-modele-qualites",
@@ -7246,12 +10238,90 @@
             "questionId": "i-raisonnement-valider",
             "objectiveId": "obj-raisonner",
             "level": 1
+          },
+          {
+            "slotId": "intermediaire-i-revision-2026-01",
+            "questionId": "i-revision-2026-01",
+            "objectiveId": "obj-changements-physiques",
+            "level": 1
+          },
+          {
+            "slotId": "intermediaire-i-revision-2026-02",
+            "questionId": "i-revision-2026-02",
+            "objectiveId": "obj-changements-physiques",
+            "level": 1
+          },
+          {
+            "slotId": "intermediaire-i-revision-2026-03",
+            "questionId": "i-revision-2026-03",
+            "objectiveId": "obj-changements-physiques",
+            "level": 1
+          },
+          {
+            "slotId": "intermediaire-i-revision-2026-04",
+            "questionId": "i-revision-2026-04",
+            "objectiveId": "obj-changements-chimiques",
+            "level": 1
+          },
+          {
+            "slotId": "intermediaire-i-revision-2026-05",
+            "questionId": "i-revision-2026-05",
+            "objectiveId": "obj-changements-chimiques",
+            "level": 1
+          },
+          {
+            "slotId": "intermediaire-i-revision-2026-06",
+            "questionId": "i-revision-2026-06",
+            "objectiveId": "obj-changements-chimiques",
+            "level": 1
+          },
+          {
+            "slotId": "intermediaire-i-revision-2026-07",
+            "questionId": "i-revision-2026-07",
+            "objectiveId": "obj-changements-chimiques",
+            "level": 1
+          },
+          {
+            "slotId": "intermediaire-i-revision-2026-08",
+            "questionId": "i-revision-2026-08",
+            "objectiveId": "obj-comparer-changements",
+            "level": 1
+          },
+          {
+            "slotId": "intermediaire-i-revision-2026-09",
+            "questionId": "i-revision-2026-09",
+            "objectiveId": "obj-comparer-changements",
+            "level": 1
+          },
+          {
+            "slotId": "intermediaire-i-revision-2026-10",
+            "questionId": "i-revision-2026-10",
+            "objectiveId": "obj-comparer-changements",
+            "level": 1
+          },
+          {
+            "slotId": "intermediaire-i-revision-2026-11",
+            "questionId": "i-revision-2026-11",
+            "objectiveId": "obj-atomes-conservation",
+            "level": 1
+          },
+          {
+            "slotId": "intermediaire-i-revision-2026-12",
+            "questionId": "i-revision-2026-12",
+            "objectiveId": "obj-atomes-conservation",
+            "level": 1
+          },
+          {
+            "slotId": "intermediaire-i-revision-2026-13",
+            "questionId": "i-revision-2026-13",
+            "objectiveId": "obj-atomes-conservation",
+            "level": 1
           }
         ]
       },
       "complet": {
         "label": "Complet",
-        "description": "60 questions approfondies, différentes des deux autres parcours.",
+        "description": "77 questions approfondies, dont 17 nouvelles sur les sections 2.1 et 2.2.",
         "entries": [
           {
             "slotId": "complet-c-modele-definition",
@@ -7612,12 +10682,114 @@
             "questionId": "c-raisonnement-comparer",
             "objectiveId": "obj-raisonner",
             "level": 1
+          },
+          {
+            "slotId": "complet-c-revision-2026-01",
+            "questionId": "c-revision-2026-01",
+            "objectiveId": "obj-changements-physiques",
+            "level": 1
+          },
+          {
+            "slotId": "complet-c-revision-2026-02",
+            "questionId": "c-revision-2026-02",
+            "objectiveId": "obj-changements-physiques",
+            "level": 1
+          },
+          {
+            "slotId": "complet-c-revision-2026-03",
+            "questionId": "c-revision-2026-03",
+            "objectiveId": "obj-changements-physiques",
+            "level": 1
+          },
+          {
+            "slotId": "complet-c-revision-2026-04",
+            "questionId": "c-revision-2026-04",
+            "objectiveId": "obj-changements-chimiques",
+            "level": 1
+          },
+          {
+            "slotId": "complet-c-revision-2026-05",
+            "questionId": "c-revision-2026-05",
+            "objectiveId": "obj-changements-chimiques",
+            "level": 1
+          },
+          {
+            "slotId": "complet-c-revision-2026-06",
+            "questionId": "c-revision-2026-06",
+            "objectiveId": "obj-changements-chimiques",
+            "level": 1
+          },
+          {
+            "slotId": "complet-c-revision-2026-07",
+            "questionId": "c-revision-2026-07",
+            "objectiveId": "obj-changements-chimiques",
+            "level": 1
+          },
+          {
+            "slotId": "complet-c-revision-2026-08",
+            "questionId": "c-revision-2026-08",
+            "objectiveId": "obj-comparer-changements",
+            "level": 1
+          },
+          {
+            "slotId": "complet-c-revision-2026-09",
+            "questionId": "c-revision-2026-09",
+            "objectiveId": "obj-comparer-changements",
+            "level": 1
+          },
+          {
+            "slotId": "complet-c-revision-2026-10",
+            "questionId": "c-revision-2026-10",
+            "objectiveId": "obj-comparer-changements",
+            "level": 1
+          },
+          {
+            "slotId": "complet-c-revision-2026-11",
+            "questionId": "c-revision-2026-11",
+            "objectiveId": "obj-comparer-changements",
+            "level": 1
+          },
+          {
+            "slotId": "complet-c-revision-2026-12",
+            "questionId": "c-revision-2026-12",
+            "objectiveId": "obj-comparer-changements",
+            "level": 1
+          },
+          {
+            "slotId": "complet-c-revision-2026-13",
+            "questionId": "c-revision-2026-13",
+            "objectiveId": "obj-atomes-conservation",
+            "level": 1
+          },
+          {
+            "slotId": "complet-c-revision-2026-14",
+            "questionId": "c-revision-2026-14",
+            "objectiveId": "obj-atomes-conservation",
+            "level": 1
+          },
+          {
+            "slotId": "complet-c-revision-2026-15",
+            "questionId": "c-revision-2026-15",
+            "objectiveId": "obj-atomes-conservation",
+            "level": 1
+          },
+          {
+            "slotId": "complet-c-revision-2026-16",
+            "questionId": "c-revision-2026-16",
+            "objectiveId": "obj-atomes-conservation",
+            "level": 1
+          },
+          {
+            "slotId": "complet-c-revision-2026-17",
+            "questionId": "c-revision-2026-17",
+            "objectiveId": "obj-atomes-conservation",
+            "level": 1
           }
         ]
       }
     },
     "enfant": "Mirka",
-    "chapitre": "Chapitre 1"
+    "chapitre": "Chapitre 1 et sous-chapitres 2.1–2.2"
   },
   "assets": {
     "legende": "<section class=\"learning-visual\"><h3>Extrait du cours</h3><figure class=\"example\"><img style=\"max-width:100%;height:auto\" alt=\"Légende : hydrogène blanc, carbone noir, azote bleu, oxygène rouge, soufre jaune, chlore vert, sodium violet.\" src=\"data:image/webp;base64,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\"></figure><p class=\"small\">Source : Origines 2, 3e édition — Chapitre 1, L’organisation de la matière — p. 6</p><details class=\"visual-zoom\"><summary>Agrandir l’image</summary><div class=\"visual-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Image agrandie\"><figure class=\"example\"><img style=\"max-width:100%;height:auto\" alt=\"Légende : hydrogène blanc, carbone noir, azote bleu, oxygène rouge, soufre jaune, chlore vert, sodium violet.\" src=\"data:image/webp;base64,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\"></figure></div></details></section>",
@@ -7756,11 +10928,53 @@
     "corr-c-raisonnement-indice": "<section class=\"learning-visual\"><div class=\"example\"><h3>Le raisonnement</h3><p>Un atome de 31 ou 32 u dépasse à lui seul le total permis de 30 u.</p></div></section>",
     "corr-c-raisonnement-atome": "<section class=\"learning-visual\"><div class=\"example\"><h3>Le raisonnement</h3><p>Au peut représenter un seul atome d’or; O₂ est une molécule de deux atomes liés.</p></div></section>",
     "corr-c-raisonnement-sulfate": "<section class=\"learning-visual\"><div class=\"example\"><h3>Le raisonnement</h3><p>H₂SO₄ contient 2 H + 1 S + 4 O = 7 atomes, trois sortes, donc c’est un composé.</p></div></section>",
-    "corr-c-raisonnement-comparer": "<section class=\"learning-visual\"><div class=\"example\"><h3>Le raisonnement</h3><p>CO₂ contient un C, tandis que C₃O₂ en contient trois; une composition différente peut donner des propriétés différentes.</p></div></section>"
+    "corr-c-raisonnement-comparer": "<section class=\"learning-visual\"><div class=\"example\"><h3>Le raisonnement</h3><p>CO₂ contient un C, tandis que C₃O₂ en contient trois; une composition différente peut donner des propriétés différentes.</p></div></section>",
+    "schema-particules": "<section class=\"learning-visual\"><h3>Comparer les particules</h3><svg viewBox=\"0 0 660 210\" role=\"img\" aria-label=\"Changement physique : quatre molécules AB restent AB mais se dispersent. Changement chimique : deux molécules AA et deux molécules BB deviennent quatre molécules AB; tous les atomes sont conservés.\" style=\"max-width:100%;height:auto\"><rect x=\"3\" y=\"3\" width=\"320\" height=\"200\" rx=\"14\" fill=\"#edf7ff\"/><rect x=\"337\" y=\"3\" width=\"320\" height=\"200\" rx=\"14\" fill=\"#fff3e8\"/><text x=\"18\" y=\"30\" font-size=\"17\" fill=\"#17324d\">Physique : AB reste AB</text><text x=\"350\" y=\"30\" font-size=\"17\" fill=\"#17324d\">Chimique : AA + BB → AB</text><g fill=\"#d65b51\"><circle cx=\"40\" cy=\"67\" r=\"11\"/><circle cx=\"90\" cy=\"67\" r=\"11\"/><circle cx=\"40\" cy=\"110\" r=\"11\"/><circle cx=\"90\" cy=\"110\" r=\"11\"/><circle cx=\"215\" cy=\"58\" r=\"11\"/><circle cx=\"270\" cy=\"78\" r=\"11\"/><circle cx=\"212\" cy=\"135\" r=\"11\"/><circle cx=\"274\" cy=\"150\" r=\"11\"/></g><g fill=\"#348fcb\"><circle cx=\"62\" cy=\"67\" r=\"11\"/><circle cx=\"112\" cy=\"67\" r=\"11\"/><circle cx=\"62\" cy=\"110\" r=\"11\"/><circle cx=\"112\" cy=\"110\" r=\"11\"/><circle cx=\"237\" cy=\"58\" r=\"11\"/><circle cx=\"292\" cy=\"78\" r=\"11\"/><circle cx=\"234\" cy=\"135\" r=\"11\"/><circle cx=\"296\" cy=\"150\" r=\"11\"/></g><text x=\"153\" y=\"110\" font-size=\"24\">→</text><g fill=\"#d65b51\"><circle cx=\"365\" cy=\"70\" r=\"11\"/><circle cx=\"387\" cy=\"70\" r=\"11\"/><circle cx=\"365\" cy=\"120\" r=\"11\"/><circle cx=\"387\" cy=\"120\" r=\"11\"/><circle cx=\"560\" cy=\"70\" r=\"11\"/><circle cx=\"560\" cy=\"120\" r=\"11\"/><circle cx=\"610\" cy=\"70\" r=\"11\"/><circle cx=\"610\" cy=\"120\" r=\"11\"/></g><g fill=\"#348fcb\"><circle cx=\"420\" cy=\"70\" r=\"11\"/><circle cx=\"442\" cy=\"70\" r=\"11\"/><circle cx=\"420\" cy=\"120\" r=\"11\"/><circle cx=\"442\" cy=\"120\" r=\"11\"/><circle cx=\"582\" cy=\"70\" r=\"11\"/><circle cx=\"582\" cy=\"120\" r=\"11\"/><circle cx=\"632\" cy=\"70\" r=\"11\"/><circle cx=\"632\" cy=\"120\" r=\"11\"/></g><text x=\"485\" y=\"110\" font-size=\"24\">→</text></svg><p>Rouge et bleu représentent deux sortes d’atomes. Dans les deux cas, les atomes restent présents.</p></section>",
+    "schema-indices": "<section class=\"learning-visual\"><h3>Indices à observer</h3><div style=\"display:flex;flex-wrap:wrap;gap:.5rem\"><span style=\"padding:.5rem;border-radius:.5rem;background:#e8f4ff\">🫧 Gaz</span><span style=\"padding:.5rem;border-radius:.5rem;background:#fff1dc\">🌡️ Température</span><span style=\"padding:.5rem;border-radius:.5rem;background:#fce9ed\">🎨 Couleur</span><span style=\"padding:.5rem;border-radius:.5rem;background:#f1ecff\">✨ Lumière</span><span style=\"padding:.5rem;border-radius:.5rem;background:#eaf7e9\">⬇️ Précipité</span></div><p>Ces indices suggèrent un changement chimique; vérifie s’il se forme une nouvelle substance.</p></section>",
+    "corr-s-revision-2026-01": "<section class=\"learning-visual\"><div class=\"example\"><h3>Le raisonnement</h3><p>La glace change d’état, mais demeure de l’eau.</p></div></section>",
+    "corr-s-revision-2026-02": "<section class=\"learning-visual\"><div class=\"example\"><h3>Le raisonnement</h3><p>Déchirer modifie la forme; le papier reste du papier.</p></div></section>",
+    "corr-s-revision-2026-03": "<section class=\"learning-visual\"><div class=\"example\"><h3>Le raisonnement</h3><p>Le sel reste présent dans le mélange; aucune nouvelle substance n’est nécessairement formée.</p></div></section>",
+    "corr-s-revision-2026-04": "<section class=\"learning-visual\"><div class=\"example\"><h3>Le raisonnement</h3><p>La rouille est une nouvelle substance produite par une réaction chimique.</p></div></section>",
+    "corr-s-revision-2026-05": "<section class=\"learning-visual\"><div class=\"example\"><h3>Le raisonnement</h3><p>Le solide qui apparaît est un précipité, indice d’une transformation chimique.</p></div></section>",
+    "corr-s-revision-2026-06": "<section class=\"learning-visual\"><div class=\"example\"><h3>Le raisonnement</h3><p>La combustion libère de la chaleur et de la lumière et forme de nouvelles substances, notamment des gaz.</p></div></section>",
+    "corr-s-revision-2026-07": "<section class=\"learning-visual\"><div class=\"example\"><h3>Le raisonnement</h3><p>La coupe modifie la forme de la pomme.</p></div></section>",
+    "corr-s-revision-2026-08": "<section class=\"learning-visual\"><div class=\"example\"><h3>Le raisonnement</h3><p>Le critère décisif est la formation, ou non, de nouvelles substances.</p></div></section>",
+    "corr-s-revision-2026-09": "<section class=\"learning-visual\"><div class=\"example\"><h3>Le raisonnement</h3><p>Un atome de carbone et deux atomes d’oxygène donnent trois atomes.</p></div></section>",
+    "corr-s-revision-2026-10": "<section class=\"learning-visual\"><div class=\"example\"><h3>Le raisonnement</h3><p>Les atomes se réorganisent sans être créés ni détruits.</p></div></section>",
+    "corr-i-revision-2026-01": "<section class=\"learning-visual\"><div class=\"example\"><h3>Le raisonnement</h3><p>Le débosselage modifie la forme du métal sans changer sa composition.</p></div></section>",
+    "corr-i-revision-2026-02": "<section class=\"learning-visual\"><div class=\"example\"><h3>Le raisonnement</h3><p>La séparation d’un mélange ne crée pas de nouvelle substance.</p></div></section>",
+    "corr-i-revision-2026-03": "<section class=\"learning-visual\"><div class=\"example\"><h3>Le raisonnement</h3><p>Fonte, déchirure et dissolution sont ici des changements d’état, de forme et de mélange.</p></div></section>",
+    "corr-i-revision-2026-04": "<section class=\"learning-visual\"><div class=\"example\"><h3>Le raisonnement</h3><p>Le dégagement gazeux et le réchauffement sont deux indices.</p></div></section>",
+    "corr-i-revision-2026-05": "<section class=\"learning-visual\"><div class=\"example\"><h3>Le raisonnement</h3><p>La rouille résulte d’une réaction du fer avec son environnement.</p></div></section>",
+    "corr-i-revision-2026-06": "<section class=\"learning-visual\"><div class=\"example\"><h3>Le raisonnement</h3><p>Il faut considérer le contexte et vérifier la formation d’une nouvelle substance.</p></div></section>",
+    "corr-i-revision-2026-07": "<section class=\"learning-visual\"><div class=\"example\"><h3>Le raisonnement</h3><p>Une combustion est une réaction chimique : de nouvelles substances sont produites.</p></div></section>",
+    "corr-i-revision-2026-08": "<section class=\"learning-visual\"><div class=\"example\"><h3>Le raisonnement</h3><p>Couper change la forme; brunir à la cuisson implique une transformation chimique.</p></div></section>",
+    "corr-i-revision-2026-09": "<section class=\"learning-visual\"><div class=\"example\"><h3>Le raisonnement</h3><p>La dilution prépare un mélange; les substances ne sont pas nécessairement transformées.</p></div></section>",
+    "corr-i-revision-2026-10": "<section class=\"learning-visual\"><div class=\"example\"><h3>Le raisonnement</h3><p>Un changement d’état conserve la nature de la substance.</p></div></section>",
+    "corr-i-revision-2026-11": "<section class=\"learning-visual\"><div class=\"example\"><h3>Le raisonnement</h3><p>Il y a deux atomes de carbone et six d’hydrogène : huit au total.</p></div></section>",
+    "corr-i-revision-2026-12": "<section class=\"learning-visual\"><div class=\"example\"><h3>Le raisonnement</h3><p>Le coefficient 2 multiplie les deux H de chaque molécule : 4 H.</p></div></section>",
+    "corr-i-revision-2026-13": "<section class=\"learning-visual\"><div class=\"example\"><h3>Le raisonnement</h3><p>La conservation s’applique aux atomes; les molécules peuvent changer.</p></div></section>",
+    "corr-c-revision-2026-01": "<section class=\"learning-visual\"><div class=\"example\"><h3>Le raisonnement</h3><p>Un gaz préexistant peut simplement quitter un mélange; le contexte compte.</p></div></section>",
+    "corr-c-revision-2026-02": "<section class=\"learning-visual\"><div class=\"example\"><h3>Le raisonnement</h3><p>La composition du papier reste la même malgré la découpe.</p></div></section>",
+    "corr-c-revision-2026-03": "<section class=\"learning-visual\"><div class=\"example\"><h3>Le raisonnement</h3><p>Le cours regroupe ces changements en état, forme et mélange.</p></div></section>",
+    "corr-c-revision-2026-04": "<section class=\"learning-visual\"><div class=\"example\"><h3>Le raisonnement</h3><p>Le solide nouvellement formé est un précipité, indice fort d’une réaction.</p></div></section>",
+    "corr-c-revision-2026-05": "<section class=\"learning-visual\"><div class=\"example\"><h3>Le raisonnement</h3><p>Le changement de couleur accompagne ici une oxydation chimique.</p></div></section>",
+    "corr-c-revision-2026-06": "<section class=\"learning-visual\"><div class=\"example\"><h3>Le raisonnement</h3><p>Il faut distinguer une nouvelle substance d’une simple modification d’apparence.</p></div></section>",
+    "corr-c-revision-2026-07": "<section class=\"learning-visual\"><div class=\"example\"><h3>Le raisonnement</h3><p>La matière totale, y compris les gaz formés, conserve sa masse dans un système fermé.</p></div></section>",
+    "corr-c-revision-2026-08": "<section class=\"learning-visual\"><div class=\"example\"><h3>Le raisonnement</h3><p>Briser modifie la forme; la réaction qui forme un gaz est chimique.</p></div></section>",
+    "corr-c-revision-2026-09": "<section class=\"learning-visual\"><div class=\"example\"><h3>Le raisonnement</h3><p>L’eau demeure H₂O quand elle s’évapore; la combustion change la composition.</p></div></section>",
+    "corr-c-revision-2026-10": "<section class=\"learning-visual\"><div class=\"example\"><h3>Le raisonnement</h3><p>Dans la révision, la coagulation avec formation de grumeaux est classée comme changement chimique.</p></div></section>",
+    "corr-c-revision-2026-11": "<section class=\"learning-visual\"><div class=\"example\"><h3>Le raisonnement</h3><p>La réponse nomme le type, l’indice et sa signification.</p></div></section>",
+    "corr-c-revision-2026-12": "<section class=\"learning-visual\"><div class=\"example\"><h3>Le raisonnement</h3><p>L’observation immédiate n’est pas toujours suffisante; il faut vérifier la composition.</p></div></section>",
+    "corr-c-revision-2026-13": "<section class=\"learning-visual\"><div class=\"example\"><h3>Le raisonnement</h3><p>Chaque molécule d’eau contient un atome d’oxygène; trois molécules en contiennent trois.</p></div></section>",
+    "corr-c-revision-2026-14": "<section class=\"learning-visual\"><div class=\"example\"><h3>Le raisonnement</h3><p>12 + 22 + 11 = 45 atomes.</p></div></section>",
+    "corr-c-revision-2026-15": "<section class=\"learning-visual\"><div class=\"example\"><h3>Le raisonnement</h3><p>La formule contient N et H : deux éléments, mais quatre atomes.</p></div></section>",
+    "corr-c-revision-2026-16": "<section class=\"learning-visual\"><div class=\"example\"><h3>Le raisonnement</h3><p>Les atomes se retrouvent dans les produits, réorganisés en nouvelles molécules.</p></div></section>",
+    "corr-c-revision-2026-17": "<section class=\"learning-visual\"><div class=\"example\"><h3>Le raisonnement</h3><p>Une molécule CO₂ a trois atomes; deux molécules en ont six.</p></div></section>"
   },
   "validationSource": {
     "verified": true,
-    "date": "2026-10-01",
-    "note": "Pages 2 à 26 relues. Banque reconstruite en 120 choix de réponse autonomes : 20, 40 et 60 questions sans chevauchement; distracteurs, calculs, contraintes et sources revérifiés."
+    "date": "2026-10-25",
+    "note": "Documents de révision reçus, corrigés et copie d’examen relus. Ajout de 40 questions nouvelles sur les changements physiques et chimiques et la conservation; distracteurs et réponses contrôlés. Le diaporama contient une erreur sur l’état du fluor, non reprise. Le manque de temps à l’examen précédent reste une hypothèse, non un diagnostic."
   }
 }
