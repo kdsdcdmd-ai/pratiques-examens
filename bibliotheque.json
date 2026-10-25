@@ -4,8 +4,8 @@
       "id": "mirka-sciences-chapitre-1-2026",
       "enfant": "Mirka",
       "matiere": "Sciences et technologie",
-      "titre": "Mirka · Sciences · Chapitre 1",
-      "chapitre": "Chapitre 1"
+      "titre": "Mirka · Sciences · Chapitre 1 et 2.1–2.2",
+      "chapitre": "Chapitre 1 et sous-chapitres 2.1–2.2"
     },
     {
       "id": "sciences-organisation-matiere",
@@ -27,6 +27,13 @@
       "matiere": "Sciences et technologie",
       "titre": "Cédrik · Sciences · Chapitre 2",
       "chapitre": "Chapitre 2 — L’ADN et l’organisation cellulaire"
+    },
+    {
+      "id": "cedrik-histoire-chapitre-1-2026",
+      "enfant": "Cédrik",
+      "matiere": "Histoire",
+      "titre": "Histoire — L’expérience des Autochtones et le projet de colonie",
+      "chapitre": "Chapitre 1 — Des origines à 1608"
     }
   ]
 }
